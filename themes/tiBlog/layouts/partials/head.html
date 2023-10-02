@@ -1,0 +1,21 @@
+<meta charset="utf-8">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}</title>
+{{ partial "head/meta.html" . }}
+<link rel="preload" as="font" crossorigin="anonymous" href="https://www.tomatoink.com/static/frontend/Compandsave/ti/en_US/fonts/TI-Icons/TI-Icons.ttf">
+<link  rel="preconnect" href="https://fonts.gstatic.com" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Oleo+Script&family=Roboto+Slab:wght@300;800&display=swap">
+{{ partialCached "head/ti-icons-css.html" . }}
+{{ partialCached "head/css.html" . }}
+{{ if .IsHome }}
+{{ partialCached "head/home-css.html" . }}
+{{ end }}
+{{ if or (eq .Kind "term") (.IsSection) }}
+{{ partialCached "head/page-css.html" . }}
+{{ end }}
+{{ if .IsPage }}
+{{ partialCached "head/post-css.html" . }}
+{{ end }}
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+<script>
+    window.BASE_URL = "{{ site.BaseURL }}"
+</script>

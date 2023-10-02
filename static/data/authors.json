@@ -1,0 +1,47 @@
+{
+    "authors" : [{
+        "name": "Andrew Yeung",
+        "email": "andrew@tomatoink.com",
+        "status": "active"
+    },
+    {
+        "name": "Ariel Lathrom",
+        "email": "ariell@compandsave.com",
+        "status": "locked"
+    },
+    {
+        "name": "Awanthi Vardaraj",
+        "email": "pause4paws@gmail.com",
+        "status": "locked"
+    },
+    {
+        "name": "Denise Resendez",
+        "email": "deniser@compandsave.com",
+        "status": "locked"
+    },
+    {
+        "name": "Jessica Cohen",
+        "email": "jessica@eatsleepbe.com",
+        "status": "locked"
+    },
+    {
+        "name": "Katie Medlock",
+        "email": "katiemedlock1@gmail.com",
+        "status": "locked"
+    },
+    {
+        "name": "Katy Smith",
+        "email": "katys@compandsave.com",
+        "status": "locked"
+    },
+    {
+        "name": "Madeleine Somerville",
+        "email": "katys4p@gmail.com",
+        "status": "locked"
+    },
+    {
+        "name": "Sarah Henderson",
+        "email": "sarahh@compandsave.com",
+        "status": "locked"
+    }]
+}

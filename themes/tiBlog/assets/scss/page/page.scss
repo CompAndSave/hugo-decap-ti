@@ -1,0 +1,10 @@
+@import '../settings';
+@import '../base/block/card';
+
+
+.pagination {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

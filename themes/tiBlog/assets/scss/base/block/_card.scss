@@ -1,0 +1,93 @@
+.post-feed {
+    display: flex;
+    flex-wrap: wrap;
+    background: $white;
+}
+.card-post {
+    background: $white;
+    margin: 2rem 1rem;
+    align-items: center;
+    border: 2px solid #f7e8db;
+    transition: border-color .6s;
+    border-bottom-width: 5px;
+    .post-title {
+        margin-bottom: 0.5rem;
+        font-size: rem-calc(20);
+        a {
+            color: $dark-gray;
+            &:hover {
+                color: get-color('primary');
+            }
+        }
+    }
+    .excerpt {
+        margin-bottom: 1rem;
+    }
+    .author {
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: rem-calc(14);
+        display: inline-block;
+        padding: rem-calc(0 5);
+        margin: 0 -5px 1rem;
+        border-radius: $global-radius;
+        color: $ui-gray;
+    }
+    .img-wrapper {
+        display: flex;
+        margin-top: 2rem;
+        padding: 0 2rem 0.5rem;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        text-align: center;
+        min-height: rem-calc(150);
+        max-height: rem-calc(150);
+    }
+    .detail-wrapper {
+        padding: 1rem 2rem;
+    }
+    .post-detail {
+        padding-top: 1rem;
+        margin-top: 1rem;
+        border-top: 2px solid #f7e8db;
+        font-size: rem-calc(14);
+        color: $medium-gray;
+    }
+    .read-more {
+        color: get-color('secondary');
+        background: linear-gradient(0deg, get-color('secondary'), get-color('secondary')) no-repeat left 100%;
+        background-size: 0 2px;
+        &:hover {
+            background-size: 100% 2px;
+            background-position-x: left;
+            color: get-color('secondary');
+        }
+    }
+    &.action {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 0;
+        background: transparent;
+        .nav {
+            font-size: rem-calc(20);
+            font-style: italic;
+        }
+    }
+}
+
+@media screen and #{breakpoint(medium)} {
+    .card-post {
+        flex: 0 0 calc(100%/2 - 2rem);
+    }
+}
+
+@media screen and #{breakpoint(large)} {
+    .post-feed {
+        padding: 0.5rem 1.5rem;
+    }
+    .card-post {
+        flex: 0 0 calc(100%/3 - 2rem);
+    }
+}

@@ -1,0 +1,24 @@
+<footer class="footer-wrapper">
+    <div class="top-wrapper">
+        <div class="container footer">
+            <div class="footer-nav">
+                <div class="nav">
+                    <span class="ft-title">Helpful Links</span>
+                    {{ partialCached "block/footer-nav" . }}
+                </div>
+                <div class="social-media">
+                    <span class="ft-title">Follow us on:</span>
+                    {{ partialCached "block/social" . }}
+                </div>
+            </div>
+            <div class="info-wrapper">
+                <div class="about">
+                    <span class="ft-title">About {{ site.Data.MetaData.Site.name }}</span>
+                    {{ site.Data.MetaData.Site.about | safeHTML }}
+                </div>
+                <div class="copyright"><small>Copyright &copy; {{ now.Year }}
+                    {{ site.Data.MetaData.Site.name }} Blog: Eco-Friendly Ink, Toner, Printing, and Related Topics</small></div>
+            </div>
+        </div>
+    </div>
+</footer>

@@ -1,0 +1,22 @@
+.tags {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    .tags-list {
+        margin-left: 0.5rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .tag {
+        display: inline-block;
+        line-height: 1;
+        border: 0;
+        color: $medium-gray;
+        border-radius: 5000px;
+        cursor: pointer;
+        transition: all 0.25s ease-out;
+        margin: 0 0.35rem;
+        font-weight: 400;
+    }
+}

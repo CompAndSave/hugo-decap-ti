@@ -1,0 +1,21 @@
+---
+title: "Save money and make your home or office more environmentally friendly: Remanufactured Ink Cartridges"
+date: 2013-06-29T02:29:00.000Z
+slug: save-money-and-make-your-home-or-office-more-environmentally-friendly-remanufactured-ink-cartridges
+description: "Save money and make your home or office more environmentally friendly: Remanufactured Ink Cartridges"
+featured_image: /blog/images/archive/2013/06/generic_01.png
+authors: Katy Smith
+tags: []
+---
+
+[![Harvest Savings with TomatoInk](/blog/images/archive/2013/06/generic_01-632x234.png)](/blog/images/archive/2013/06/generic%5F01.png)
+
+Harvest Savings with TomatoInk
+
+It seems everyone these days is moving towards "green" ways of doing things. This is great for our environment and really a step in the right directions, but sometimes it can be hard to know just how to make your life and business a little more environmentally friendly. Sometimes these "green" products are cost-prohibitive, especially for small businesses or new families just starting out. It's difficult when you want to do the environmentally responsible thing but it costs you a lot of extra money. Luckily, there are plenty of things you can do to turn your home or business into a green machine, and all without spending a small fortune to do it.
+
+One of almost all small businesses' big expenses is printer ink and toner. Even home printer inks can cost you a small fortune to replace! One fantastic alternative to new ink cartridges are remanufactured ink cartridges. So just [what is a remanufactured ink cartridge?](https://www.tomatoink.com/help/sections/8290264394893/ink-cartridge-lingo) It is simple really, whenever ink cartridges are recycled, as they can be at many office supply stores, the empty cartridges are sent to a manufacturer who will refill the [ink cartridges](https://www.tomatoink.com/), replace any damaged or malfunctioning parts, and then sell them to consumers for a much lower cost than printer manufacturers. Because these companies no longer have to abide by established prices from the original printer retailers, they can offer these recycled cartridges at a value price.
+
+Consumers can reap all the benefits of [remanufactured ink cartridges](https://www.tomatoink.com/) while saving money too. These recycled cartridges are filled to capacity, which surprisingly, is often not the case when purchasing new ink cartridges from the original printer company. That doesn't seem very fair does it? You are saving money two ways here, because not only are you purchasing ink refills at a lower cost, you are getting more ink, allowing you to print more pages, than if you had purchased brand new cartridges. Secondly, because these ink cartridges are diverted from landfills and turned into functioning products again, you are helping the environment by lessening the need for new plastic cartridges to be created. Keeping excess plastic and trash out of our world's landfills is one of the ways that you can make the biggest impact on our environment. In addition, your own customers will appreciate knowing that the products and services they purchase from you are coming from an environmentally friendly business!
+
+Purchasing remanufactured ink cartridges is an easy way to save your home or business money while still staying true to your commitment to be environmentally friendly. There are plenty of companies out there that sell remanufacture ink cartridges but you want to make sure you are purchasing from a reputable source with good customer service. A company like TomatoInk is a great resource when buying these environmentally friendly products. TomatoInk serves an extremely wide variety of printers and cartridges and, in addition, offers returns or exchanges for 365 days! TomatoInk even offers [free shipping](https://www.tomatoink.com/free-shipping) with a minimum order, [printer cables](https://www.tomatoink.com/usb-printer-cables) and accessories, and [photo paper](https://www.tomatoink.com/paper) too. Everything that you can need to turn your home or office into the model of environmental efficiency is waiting for you at TomatoInk!

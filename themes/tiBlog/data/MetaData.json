@@ -1,0 +1,60 @@
+{
+    "Site": {
+        "name": "TomatoInk",
+        "url": "https://www.tomatoink.com",
+        "blog_url": "https://www.tomatoink.com/blog",
+        "about": "<p>TomatoInk is an environmentally friendly, low-cost supplier of ink and toner. By packaging ink in remanufactured cartridges, we pass along substantial savings—both financial and environmental&mdash;to you.</p><p>Our products give the same vibrant, high-quality results you expect from the name brands but at prices up to 80% less! You can print with ease knowing TomatoInk is thinking about you and the world you live in.</p><p>Save a little green, grow a little green.</p>",
+        "title": "TomatoInk Blog: Eco-Friendly Ink, Toner, Printing, and Related Topics",
+        "description": "Visit our blog to get a new perspective on sustainable living, eco-friendly travel, healthy (and delicious) food, and much more.latest on ink, toner, and printing essentials for home and business. Get DIY tips, SMB advice, and more.",
+        "address": {
+            "street": "33268 Central Ave.",
+            "city": "Union City",
+            "state": "CA",
+            "zipCode": "94587"
+        },
+        "tollNo": "833-777-0127",
+        "hours": "Mon-Fri, 6am-6pm PT"
+    },
+    "HeaderLink": [
+        {
+            "name": "Shop",
+            "url": "https://www.tomatoink.com"
+        },
+        {
+            "name": "Contact Us",
+            "url": "https://www.tomatoink.com/contact"
+        }
+    ],
+    "Social": [
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/tomatoinktoner"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/tomatoinktoner"
+        },
+        {
+            "name": "pinterest",
+            "url": "https://pinterest.com/tomatoinktoner/"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/c/Tomatoink"
+        }
+    ],
+    "FooterLink": [
+        {
+            "name": "Ink Troubleshooting",
+            "url": "https://www.tomatoink.com/help/categories/8354812380557/troubleshoot"
+        },
+        {
+            "name": "Ink Knowledge Base",
+            "url": "https://www.tomatoink.com/help/articles/8322901869709/remanufactured-and-compatible-printer-cartridges"
+        },
+        {
+            "name": "Printer Support",
+            "url": "https://www.tomatoink.com/printer-and-driver-support"
+        }
+    ]
+}

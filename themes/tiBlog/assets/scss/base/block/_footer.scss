@@ -1,0 +1,123 @@
+.footer-wrapper {
+    background: url('../../blog/images/assets/paper-bg_2e1e11.jpg') repeat #2e1e11;
+    color: $white;
+}
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 2rem 1rem;
+}
+
+.copyright {
+    font-style: italic;
+}
+
+.ft-title {
+    display: inline-block;
+    font-weight: 300;
+    font-family: $sec-font-family;
+    color: get-color('light-green');
+    font-size: rem-calc(21);
+    margin-bottom: 0.5rem;
+}
+
+.footer-nav {
+    flex: 0 0 100%;
+    margin-bottom: 2rem;
+    .nav {
+        li {
+            cursor: pointer;
+            font-weight: 600;
+            margin: 1rem 0;
+            &:first-child {
+                margin-top: 0.25rem;
+            }
+            a {
+                color: $white;
+                border: 0;
+                &:hover {
+                    color: darken(get-color(primary), 5%);
+                }
+            }
+        }
+    }
+}
+
+.info-wrapper {
+    flex: 0 0 100%;
+}
+
+.social-media {
+    margin-top: 2rem;
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-top: -1rem;
+        margin-left: -0.5rem;
+        margin-right: -0.5rem;
+        li {
+            margin: 1rem;
+            padding: 0.25rem;
+            line-height: 1;
+            &:first-child {
+                margin-left: 0;
+            }
+            img {
+                filter:brightness(0) invert(1);
+            }
+            &:hover {
+                img {
+                    filter: none;
+                }
+            }
+            a {
+                display: inline-block;
+                line-height: 1;
+            }
+            img {
+                max-height: rem-calc(25);
+            }
+        }
+    }
+}
+
+
+
+.info {
+    a {
+        color: $white;
+    }
+}
+
+@media screen and #{breakpoint(medium)} {
+    .footer {
+        justify-content: space-between;
+    }
+    .footer-nav {
+        margin-bottom: 0;
+        flex: 0 0 auto;
+    }
+    
+    .info-wrapper {
+        flex: 1 0 0;
+        padding-left: 3rem;
+    }
+}
+
+@media screen and #{breakpoint(large)} {
+    .footer {
+        padding: 2rem 1rem;
+    }
+    .info-wrapper {
+        padding-left: 5rem;
+    }
+}
+
+@media screen and #{breakpoint(xlarge)} {
+    .footer {
+        padding: 2rem 0;
+    }
+}

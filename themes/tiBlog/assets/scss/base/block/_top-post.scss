@@ -1,0 +1,19 @@
+.card-post.top {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-height: rem-calc(350);
+    overflow: hidden;
+    align-items: center;
+    margin: 4rem 0 0;
+    .img-wrapper {
+        flex: 0 0 60%;
+        max-width: 60%;
+        max-height: initial;
+    }
+    .detail-wrapper {
+        flex: 0 0 40%;
+        max-width: 40%;
+        padding: 0 2rem;
+    }
+}
