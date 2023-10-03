@@ -9,7 +9,7 @@ backend:
   repo: CompAndSave/hugo-decap-ti
   branch: master # Branch to update (optional; defaults to master)
   site_domain: www.tomatoink.com
-  base_url: https://alpha.tomatoink.com
+  base_url: https://alpha.compandsave.com
   auth_endpoint: lambda/sveltia-cms-auth/auth
 
 site_url: https://www.tomatoink.com/blog/
