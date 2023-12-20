@@ -1,13 +1,15 @@
 ---
-title: "Savory Pumpkin Recipes You'll Want to Make This Autumn"
+title: Savory Pumpkin Recipes You'll Want to Make This Autumn
 date: 2017-09-21T13:00:12.000Z
-slug: savory-pumpkin-recipes
-description: "Savory Pumpkin Recipes You'll Want to Make This Autumn"
-featured_image: /blog/images/archive/2017/09/pumpkin-soup.jpg
 authors: Awanthi Vardaraj
-tags: [healthy food,recipes,seasonal]
+slug: savory-pumpkin-recipes
+featured_image: /blog/images/archive/2017/09/pumpkin-soup.jpg
+description: Savory Pumpkin Recipes You'll Want to Make This Autumn
+tags:
+  - healthy food
+  - recipes
+  - seasonal
 ---
-
 It is OFFICIALLY autumn, and we're kicking things off in style over here on the TomatoInk Blog because autumn is the time to pumpkin all the things! As you all know, I have an inconsolable sweet tooth, but I'm getting a little tired of pumpkins either being used for a sweet pie (delicious but totally predictable) or even soup (also delicious, mind you, albeit a little boring). Pumpkins are so versatile that they taste amazing no matter how you serve them (although you may want to avoid serving them raw), so I figured I'd dedicate this post to all the savory pumpkin recipes out there.
 
 # Delicious and Savory Pumpkin Recipes
@@ -18,7 +20,7 @@ I was really pleased to find so many pumpkin-laced pasta dishes out there. [This
 
 ### Pumpkin-Based Sandwiches and Salads
 
-Pumpkins aren't an ingredient that is solely associated with dinners either; you could easily put pumpkin in a sandwich, or on grilled cheese, like [this](http://www.bakeyourday.net/pumpkin-cheddar-grilled-cheese/) glorious-sounding pumpkin cheddar grilled cheese. You could also make baked pumpkin falafel [bowls](https://www.connoisseurusveg.com/baked-pumpkin-falafel-bowls-maple-tahini-dressing) with maple tahini dressing; bonus: you could use the leftover pumpkin falafels in a sandwich the next day. Know what else would be good in a sandwich the next day? [These](http://blommi.com/spicy-honey-roasted-pumpkin-recipe/) spicy honey-roasted pumpkin wedges. They'd be good wrapped up in rotis or parathas or any other flatbread of your choice too. Use your imagination and add salad and cheese as you prefer. Speaking of salad, do your lunches primarily consist of salads too? If so, you will love [this](http://www.greenkitchenstories.com/roasted-pumpkin-peach-salad-sydney/) nourishing roasted pumpkin and peach salad.
+Pumpkins aren't an ingredient that is solely associated with dinners either; you could easily put pumpkin in a sandwich, or on grilled cheese, like this glorious-sounding pumpkin cheddar grilled cheese. You could also make baked pumpkin falafel [bowls](https://www.connoisseurusveg.com/baked-pumpkin-falafel-bowls-maple-tahini-dressing) with maple tahini dressing; bonus: you could use the leftover pumpkin falafels in a sandwich the next day. Know what else would be good in a sandwich the next day? [These](http://blommi.com/spicy-honey-roasted-pumpkin-recipe/) spicy honey-roasted pumpkin wedges. They'd be good wrapped up in rotis or parathas or any other flatbread of your choice too. Use your imagination and add salad and cheese as you prefer. Speaking of salad, do your lunches primarily consist of salads too? If so, you will love [this](http://www.greenkitchenstories.com/roasted-pumpkin-peach-salad-sydney/) nourishing roasted pumpkin and peach salad.
 
 ### Pumpkin-Flavored Snacks
 
@@ -36,4 +38,4 @@ Happy autumn! Enjoy this beautiful season, and have many memorable pumpkin-based
 
 **Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
 
-_Which pumpkin dishes are your favorite? Share your savory pumpkin recipes below or on Facebook and Twitter._
+*Which pumpkin dishes are your favorite? Share your savory pumpkin recipes below or on Facebook and Twitter.*
