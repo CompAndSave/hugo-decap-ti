@@ -25,7 +25,7 @@ Purchasing local [organic foods](http://www.readersdigest.ca/mag/2007/03/organic
 
 And as much good as you can do from buying locally grown food, you can do even more good by eliminating beef and opting for fish or vegetarian options instead. The global livestock industry produces more greenhouse gas emissions than all cars, planes, trains, and ships combined. Meat production creates an enormous amount of carbon waste. Experts believe that changing the world's appetite for meat could help save the earth from the devastation caused by climate change. Plan your meal to have more vegetables and less meat.
 
-If you absolutely must eat red meat, look for animals that are treated humanely and fed organically. Buy grass fed, organic meats with no added nitrates. The same goes for hot dogs, whether they are made from beef or turkey (though turkey is preferable). Look for brands that are grass fed, [organic](http://www.eatsleepbe.com/2015/03/22/7-ways-to-shop-organic-on-a-budget/), preservative-free, and nitrate-free.
+If you absolutely must eat red meat, look for animals that are treated humanely and fed organically. Buy grass fed, organic meats with no added nitrates. The same goes for hot dogs, whether they are made from beef or turkey (though turkey is preferable). Look for brands that are grass fed, organic, preservative-free, and nitrate-free.
 
 ### **Meal Preparation**
 
