@@ -1,13 +1,14 @@
 ---
-title: "10 Ways to Live More Responsibly This Earth Day"
+title: 10 Ways to Live More Responsibly This Earth Day
 date: 2017-04-18T13:00:25.000Z
-slug: 10-ways-live-responsibly-earth-day
-description: "10 Ways to Live More Responsibly This Earth Day"
-featured_image: /blog/images/archive/2017/04/turbinesunflowers.jpg
 authors: Awanthi Vardaraj
-tags: [Earth Day,Eco-friendly]
+slug: 10-ways-live-responsibly-earth-day
+featured_image: /blog/images/archive/2017/04/turbinesunflowers.jpg
+description: 10 Ways to Live More Responsibly This Earth Day
+tags:
+  - Earth Day
+  - Eco-friendly
 ---
-
 Happy Earth Day, everyone!
 
 ![Earth Day](/blog/images/archive/2017/04/treeforest.jpg)
@@ -22,43 +23,43 @@ For those of you with children, this is a perfect way to set an example to your 
 
 # 10 Ways to Celebrate Earth Day Every Day
 
-### 1\. Plant Fruit and Veg
+### 1. Plant Fruit and Veg
 
 In my [previous post](https://www.tomatoink.com/blog/posts/tips-will-make-spring-garden-flourish.html), I wrote about how it's important to plant fruits and vegetables so that we can reduce our dependence on fruit and veg that have to fly thousands of miles to get to our tables. It's a great way to reduce your carbon footprint, besides which gardening is a good stress reliever. Growing food locally can also help you make new friends in your community. It's all win-win-win!
 
-### 2\. Swap Out Those Bulbs
+### 2. Swap Out Those Bulbs
 
 Change all your light bulbs to energy-saving light bulbs, or compact fluorescent lights (CFLs). CFLs are four times more efficient and last up to ten times longer than incandescent light bulbs. Not only that, they use 50 to 80 percent less energy than incandescent light bulbs.
 
-### 3\. Replace Old Appliances with Energy-Efficient Models
+### 3. Replace Old Appliances with Energy-Efficient Models
 
 When it comes time to get a new appliance, choose an energy-efficient model. Look for the [energy star](https://www.energystar.gov/products/how-product-earns-energy-star-label) label whether you're buying a refrigerator, washing machine, dryer, dishwasher, or air conditioner
 
-### 4\. Ditch Disposable Bags
+### 4. Ditch Disposable Bags
 
 When it comes time to do your grocery shopping, take your own reusable bags with you. When you stop using disposable grocery bags, you're putting less waste out there into the environment. Besides, if you're the crafty type, you can [make your own](http://www.instructables.com/id/Make-your-own-grocery-bag/) cute reusable bags. There are so many [gorgeous designs](http://tipnut.com/35-reusable-grocery-bags-totes-free-patterns/) and patterns out there.
 
-### 5\. Entertain Responsibly
+### 5. Entertain Responsibly
 
 I have friends who won't stop buying plastic plates and cutlery, particularly when their kids have birthday parties every year. I understand that it's easier, but why go down the plastic route when there are so many [eco-friendly alternatives](http://www.leafware.com/) available? If you don't know how long it takes for plastic to break down in the environment, you [should](http://www.postconsumers.com/education/how-long-does-it-take-a-plastic-bottle-to-biodegrade/).
 
-### 6\. Coffee, Coffee, Coffee
+### 6. Coffee, Coffee, Coffee
 
-I get it. I love my caffeine, and I can't function without it on a daily basis. But I make mine at home because I work from home. Still, if I worked out of the house I know I'd be just like a lot of you, lining up at a local café for my caffeine fix. If you buy coffee regularly, you should have your own reusable coffee mug. Disposable coffee cups are [a huge problem](https://www.theguardian.com/environment/2016/sep/29/switch-disposable-coffee-cups-for-reusables-urge-campaign-groups) because of just how much landfill they occupy. Like plastic, they [take decades](http://www.epsdistribution.com.au/the-environmental-effect-of-paper-coffee-cups/) to break down. We need to stop doing this to our lovely earth.
+I get it. I love my caffeine, and I can't function without it on a daily basis. But I make mine at home because I work from home. Still, if I worked out of the house I know I'd be just like a lot of you, lining up at a local café for my caffeine fix. If you buy coffee regularly, you should have your own reusable coffee mug. Disposable coffee cups are [a huge problem](https://www.theguardian.com/environment/2016/sep/29/switch-disposable-coffee-cups-for-reusables-urge-campaign-groups) because of just how much landfill they occupy. Like plastic, they take decades to break down. We need to stop doing this to our lovely earth.
 
-### 7\. Cold, Please
+### 7. Cold, Please
 
 Laundry doesn't really need a hot water bath when it gets done. Choose to do your laundry in cold water instead of hot. Cold water is [actually better](http://www.smithsonianmag.com/smart-news/case-washing-clothes-cold-water-180955459/) for the clothes anyway.
 
-### 8\. Hydrate Responsibly
+### 8. Hydrate Responsibly
 
-Speaking of plastic, it's time to stop buying plastic bottled water. Use a green reusable alternative. My favorite bottles are the [Klean Kanteen bottles](https://www.kleankanteen.com/) — they look great, and they last forever. Watch [this documentary](http://storyofstuff.org/movies/story-of-bottled-water/) called _The Story of Bottled Water_ and choose to hydrate responsibly.
+Speaking of plastic, it's time to stop buying plastic bottled water. Use a green reusable alternative. My favorite bottles are the [Klean Kanteen bottles](https://www.kleankanteen.com/) — they look great, and they last forever. Watch [this documentary](http://storyofstuff.org/movies/story-of-bottled-water/) called *The Story of Bottled Water* and choose to hydrate responsibly.
 
-### 9\. Flip the Switch
+### 9. Flip the Switch
 
 When you leave a room, turn the lights off. Turn things off when you're done with them. Your computer doesn't have to be on all night long. The fan needn't be on if you're not in that room. Your house doesn't have to be lit up like a Christmas tree. Flip those switches off! Unplug unused chargers and appliances too.
 
-### 10\. Slow Down
+### 10. Slow Down
 
 There's no need to race your car from point A to point B as though the hounds of hell are after you. Slow down; drive at the lower end of the speed limit. You're not a Formula One driver, and this isn't the Monaco GP. You're less likely to hurt yourself, or someone else, and more likely to actually enjoy your errands. Driving fast is not only bad for the environment; it doesn't do your stress levels any favors either. Combine all of your errands and put the car away when you're done. When you next have to go out, walk, use a bicycle, or opt for public transportation instead.
 
@@ -70,4 +71,4 @@ It's your earth too.
 
 **Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
 
-_How are you celebrating Earth Day? Let us know below or share on Facebook and Twitter._
+*How are you celebrating Earth Day? Let us know below or share on Facebook and Twitter.*
