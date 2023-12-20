@@ -1,16 +1,16 @@
 ---
-title: "Fun Fitness Routines You Can Do in Bad Weather"
+title: Fun Fitness Routines You Can Do in Bad Weather
 date: 2017-02-21T14:00:18.000Z
-slug: fun-fitness-routines-bad-weather
-description: "Fun Fitness Routines You Can Do in Bad Weather"
-featured_image: /blog/images/archive/2017/02/dance.jpg
 authors: Awanthi Vardaraj
-tags: [healthy hobbies]
+slug: fun-fitness-routines-bad-weather
+featured_image: /blog/images/archive/2017/02/dance.jpg
+description: Fun Fitness Routines You Can Do in Bad Weather
+tags:
+  - healthy hobbies
 ---
-
 I have a confession to make: I HATE working out.
 
-Don't get me wrong, I work out anyway. And I'm mildly addicted to the post-workout buzz because that part of it is _great_. I suffer from depression, and it truly helps my mood when I do work out; I couldn't replicate the high if I tried. Having said that, though, if I could figure out a way to get to the buzz without actually doing the workout, I'd do it. But like most things in life, if you want to get to point B (point Buzz) you have to actually make it from point A to point Buzz, and sometimes that involves what it involves (typically a run, in my case, or yoga, if I'm feeling the need for a gentler workout).
+Don't get me wrong, I work out anyway. And I'm mildly addicted to the post-workout buzz because that part of it is *great*. I suffer from depression, and it truly helps my mood when I do work out; I couldn't replicate the high if I tried. Having said that, though, if I could figure out a way to get to the buzz without actually doing the workout, I'd do it. But like most things in life, if you want to get to point B (point Buzz) you have to actually make it from point A to point Buzz, and sometimes that involves what it involves (typically a run, in my case, or yoga, if I'm feeling the need for a gentler workout).
 
 If you're anything like me, then any old excuse will do to skip your workout. The weather — which can be foul during winter months when you live in a temperate climate — is one of the best excuses there is! But sadly, that excuse is no longer viable. I'm here to pop your balloon, deflate your whoopee, and be a general spoilsport.
 
@@ -24,7 +24,7 @@ Yoga is one of the best indoor exercises there is. In the past (as in, in the da
 
 When I was researching this piece, I asked my friends for their recommendations for their favorite internet yogi. An overwhelming number of them recommended Jessamyn Stanley, a plus-sized yoga instructor who is changing the way yoga bodies are thought of. She has some free videos [online](http://jessamynstanley.com/), and she is worth checking out.
 
-Rodney Yee is also a yoga instructor of note, and he has clearly figured out life because he seems to spend most of his time doing yoga by the sea or in the mountains. For his incredible videos, and to learn more about him, visit his site [here](http://www.yeeyoga.com/).
+Rodney Yee is also a yoga instructor of note, and he has clearly figured out life because he seems to spend most of his time doing yoga by the sea or in the mountains. For his incredible videos, and to learn more about him, visit his site here.
 
 Other yoga teachers of note are [Faith Hunter](https://www.youtube.com/channel/UCpVAQxfvnKUN-bYXpmjXJtA) and [Nazaahah Amin](https://www.youtube.com/channel/UC8zivmHZZUTwbAFwsSdOeJA). Plus, [this](http://yogagreenbook.com/) is an amazing resource that is filled to the brim with unlimited videos and exclusive content (they have a free 30-day trial that should help you see how incredible they are).
 
@@ -54,4 +54,4 @@ I hope these fun fitness routines have helped you in some way. And I hope I've i
 
 **Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
 
-_Which one of these fun fitness routines will you try? Let us know below or on social media._
+*Which one of these fun fitness routines will you try? Let us know below or on social media.*
