@@ -1,13 +1,16 @@
 ---
 title: "Eco-Friendly Grilling Tips: Make Your Meals Greener"
 date: 2017-06-13T13:00:52.000Z
-slug: eco-friendly-grilling-tips-make-meals-greener
-description: "Eco-Friendly Grilling Tips: Make Your Meals Greener"
-featured_image: /blog/images/archive/2017/06/food-dinner-grilled-shashlik.jpg
 authors: Jessica Cohen
-tags: [Eco-friendly,tips,heart health,healthy food]
+slug: eco-friendly-grilling-tips-make-meals-greener
+featured_image: /blog/images/archive/2017/06/food-dinner-grilled-shashlik.jpg
+description: "Eco-Friendly Grilling Tips: Make Your Meals Greener"
+tags:
+  - Eco-friendly
+  - tips
+  - heart health
+  - healthy food
 ---
-
 It's that time of year when everyone can enjoy a meal outdoors. Yet those delicious barbecue meals can be enormously taxing on the environment if we aren't paying attention. As we break out the grill and start preparing our favorite marinades, let's also use these eco-friendly grilling tips.
 
 Eco-friendly grilling is not only about the ingredients in our meals and sides, but it is also about the way we shop, prepare, and cook our food. These eco-friendly grilling tips are sure to make your meal a bit greener.
@@ -20,7 +23,7 @@ If you have a grill that uses charcoal, look for natural and organic brands. Did
 
 Purchasing local [organic foods](http://www.readersdigest.ca/mag/2007/03/organic%5Ffoods.php) minimizes the environmental impact of transporting foods.
 
-And as much good as you can do from buying [locally grown food](http://www.eatsleepbe.com/2016/05/19/csa-share-ideas/), you can do even more good by eliminating beef and opting for fish or vegetarian options instead. The global livestock industry produces more greenhouse gas emissions than all cars, planes, trains, and ships combined. Meat production creates an enormous amount of carbon waste. Experts believe that changing the world's appetite for meat could help save the earth from the devastation caused by climate change. Plan your meal to have more vegetables and less meat.
+And as much good as you can do from buying locally grown food, you can do even more good by eliminating beef and opting for fish or vegetarian options instead. The global livestock industry produces more greenhouse gas emissions than all cars, planes, trains, and ships combined. Meat production creates an enormous amount of carbon waste. Experts believe that changing the world's appetite for meat could help save the earth from the devastation caused by climate change. Plan your meal to have more vegetables and less meat.
 
 If you absolutely must eat red meat, look for animals that are treated humanely and fed organically. Buy grass fed, organic meats with no added nitrates. The same goes for hot dogs, whether they are made from beef or turkey (though turkey is preferable). Look for brands that are grass fed, [organic](http://www.eatsleepbe.com/2015/03/22/7-ways-to-shop-organic-on-a-budget/), preservative-free, and nitrate-free.
 
@@ -54,4 +57,4 @@ Grill well, friends!
 
 **Jessica Cohen** is a health coach, a greener living enthusiast, and an advocate of social good. On her website, [EatSleepBe.com](http://eatsleepbe.com/), she provides tips for being kinder to yourself, to others, and to the planet. Additionally, Jessica enjoys consulting with like-minded companies to create site concepts, develop editorial and social media calendars, ghost write, publish press releases, and run successful outreach campaigns. You can also find her on [Facebook](http://facebook.com/eatsleepbe), [Twitter](http://twitter.com/eatsleepbe), [Pinterest](http://pinterest.com/eatsleepbe), and [Instagram](http://instagram.com/eatsleepbe) at EatSleepBe.
 
-_What are your summer grilling tips? Share below or on Facebook and Twitter._
+*What are your summer grilling tips? Share below or on Facebook and Twitter.*
