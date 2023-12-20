@@ -1,13 +1,14 @@
 ---
 title: "Eco-Friendly Pet Products: What Pet Owners Should Know"
 date: 2017-04-11T13:00:34.000Z
-slug: eco-friendly-pet-products
-description: "Eco-Friendly Pet Products: What Pet Owners Should Know"
-featured_image: /blog/images/archive/2017/04/dog-624952_640-min.jpg
 authors: Jessica Cohen
-tags: [Eco-friendly,pets]
+slug: eco-friendly-pet-products
+featured_image: /blog/images/archive/2017/04/dog-624952_640-min.jpg
+description: "Eco-Friendly Pet Products: What Pet Owners Should Know"
+tags:
+  - Eco-friendly
+  - pets
 ---
-
 Do you keep your home and property safe for your four-legged family members? Do you purchase eco-friendly pet products? Maybe you already do. Or maybe you'd like to but aren't sure where to begin or why it's necessary.
 
 Beyond the well-known chocolate bar, many of the items we use around our homes are toxic to our pets. It turns out that many products that are made specifically for pets may also contain ingredients that could harm them. Here are some tips for which eco-friendly pet products to use and how to keep your pet safer from toxins.
@@ -40,7 +41,7 @@ Just like pesticides sprayed on lawns, pesticides sprayed on farms get into our 
 
 ## **Flea Collars**
 
-Believe it or not, [flea collars](http://www.organicauthority.com/blog/organic/22-toxic-products-that-pet-stores-need-to-ditch/) meant to protect your pet are actually one of the biggest dangers for pesticide exposure. They often include toxins such as tetrachlorinphos, propoxur, and amitraz, all of which are known as possible carcinogens.
+Believe it or not, [flea collars](https://www.organicauthority.com/energetic-health/22-toxic-products-that-pet-stores-need-to-ditch) meant to protect your pet are actually one of the biggest dangers for pesticide exposure. They often include toxins such as tetrachlorinphos, propoxur, and amitraz, all of which are known as possible carcinogens.
 
 Regularly bathe and comb your pets as well as their living areas to keep them from pest infestation. There are also several excellent natural essential oil products on the market, which you can apply before and after taking your pet outdoors.
 
@@ -71,4 +72,4 @@ Lastly, remember to read and follow a product's label before use. If an item say
 
 **Jessica Cohen** is a health coach, a greener living enthusiast, and an advocate of social good. On her website, [EatSleepBe.com](http://eatsleepbe.com/), she provides tips for being kinder to yourself, to others, and to the planet. Additionally, Jessica enjoys consulting with like-minded companies to create site concepts, develop editorial and social media calendars, ghost write, publish press releases, and run successful outreach campaigns. You can also find her on [Facebook](http://facebook.com/eatsleepbe), [Twitter](http://twitter.com/eatsleepbe), [Pinterest](http://pinterest.com/eatsleepbe), and [Instagram](http://instagram.com/eatsleepbe) at EatSleepBe.
 
-_What's your favorite eco-friendly pet products? Let us know below and share a pic of your furry friend on our Facebook page._
+*What's your favorite eco-friendly pet products? Let us know below and share a pic of your furry friend on our Facebook page.*
