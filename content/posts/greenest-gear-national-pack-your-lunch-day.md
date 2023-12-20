@@ -1,13 +1,15 @@
 ---
-title: "Get the Greenest Gear for National Pack Your Lunch Day"
+title: Get the Greenest Gear for National Pack Your Lunch Day
 date: 2017-03-07T14:00:29.000Z
-slug: greenest-gear-national-pack-your-lunch-day
-description: "Get the Greenest Gear for National Pack Your Lunch Day"
-featured_image: /blog/images/archive/2017/03/packedlunchinbox.jpg
 authors: Katie Medlock
-tags: [Eco-friendly,healthy food,recycling]
+slug: greenest-gear-national-pack-your-lunch-day
+featured_image: /blog/images/archive/2017/03/packedlunchinbox.jpg
+description: Get the Greenest Gear for National Pack Your Lunch Day
+tags:
+  - Eco-friendly
+  - healthy food
+  - recycling
 ---
-
 Did you know March 10th is National Pack Your Lunch Day? If ever there were an easier way to save money and reduce your carbon footprint at the same time, you'd be hard-pressed to find it. Spending dough on dining out every day hurts our wallets and tossing out one-and-done food packaging hurts our planet — but packing a lunch helps everybody.
 
 # Celebrate National Pack Your Lunch Day!
@@ -38,8 +40,8 @@ For sandwiches, brands such as [LunchSkins](https://www.containerstore.com/s?sou
 
 To hold all your snackables, finding the perfect, no-fuss container is key. For those who enjoy variety in their lunchtime meals, bento boxes are a good bet. These structures provide separate compartments for main dishes, sides, snacks, dips, and even soups and sauces. Some quality bento box brands include [Lunchbots](http://www.lunchbots.com), a stainless steel collection of large and small containers; [Bentology](https://bentology.com) (formerly Laptop Lunches); plastic containers that fit nicely into a larger box; or the [Leaflet Tight](https://www.amazon.com/Takeya-Bento-Lunch-Green-500ml/dp/B0028AN34U) lunchbox for snack-sized eats.
 
-Be sure to bring along your own cutlery (and even [glass](http://glassdharma.com/straws.html) or [stainless steel](http://www.crateandbarrel.com/set-of-4-stainless-steel-straws/s430856) straws!) to cut way down on the amount of plastic waste tossed out every day. You can also tuck cloth napkins inside lunchboxes and throw them in the laundry when you get home. Tiny, lidded containers can hold your favorite dips or dressings. Green up your lunchtime eats for this National Pack Your Lunch Day and beyond!
+Be sure to bring along your own cutlery (and even glass or [stainless steel](http://www.crateandbarrel.com/set-of-4-stainless-steel-straws/s430856) straws!) to cut way down on the amount of plastic waste tossed out every day. You can also tuck cloth napkins inside lunchboxes and throw them in the laundry when you get home. Tiny, lidded containers can hold your favorite dips or dressings. Green up your lunchtime eats for this National Pack Your Lunch Day and beyond!
 
 **Katie Medlock** is a writer, mental health counselor, and educator on a quest to make the world a better place. Her writing has appeared on Headspace, Inhabitat, Care2, Ravishly, and Chic Vegan. On her days off, you will find her cooking, catching up on nerdy podcasts, blogging at The Offbeat Herbivore ([https://offbeatherbivore.com](https://offbeatherbivore.com/)), or lounging with her partner and rescue dachshund.
 
-_Will you bring your lunch to work this National Pack Your Lunch Day? Let us know below and share your favorite packed lunch idea on Facebook and Twitter._
+*Will you bring your lunch to work this National Pack Your Lunch Day? Let us know below and share your favorite packed lunch idea on Facebook and Twitter.*
