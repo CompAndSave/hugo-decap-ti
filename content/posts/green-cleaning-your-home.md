@@ -1,18 +1,19 @@
 ---
-title: "A How-To Guide on Green Cleaning Your Home"
+title: A How-To Guide on Green Cleaning Your Home
 date: 2017-01-17T14:00:56.000Z
-slug: green-cleaning-your-home
-description: "A How-To Guide on Green Cleaning Your Home"
-featured_image: /blog/images/archive/2017/01/cleaning.jpg
 authors: Awanthi Vardaraj
-tags: [Eco-friendly,green diy]
+slug: green-cleaning-your-home
+featured_image: /blog/images/archive/2017/01/cleaning.jpg
+description: A How-To Guide on Green Cleaning Your Home
+tags:
+  - Eco-friendly
+  - green diy
 ---
-
 My cat Grimalkin came to live with me in 2005 as a tiny little long-haired ginger kitten who could fit onto my palm. I immediately became obsessed with his care, right from his diet, to his toys, to everything that I could do to give him a great quality of life.
 
 I began reading the ingredients on the back of all the cleaning supplies I used, and I started to be concerned about what would happen if he were to inadvertently come into contact with them. I began to put him in his crate when I cleaned and would watch him groom his little pink paws after I'd swabbed the floor. I couldn't bear the thought of him ingesting those incredibly toxic ingredients so I started researching alternatives that would be safer for him to walk on and be around.
 
-My research showed me that the toxic ingredients in commercial cleaners aren't just unsafe for pets and [humans](https://www.cdc.gov/exposurereport/pdf/FourthReport%5FUpdatedTables%5FJul2014.pdf) (particularly little ones); they're also remarkably bad for the environment. The truth is that the stuff we use to clean invariably finds itself in the environment somehow. We can dump a sachet of drain cleaner in a clogged sink without a second thought, and that will [end up back in the environment](https://ocean.si.edu/ocean-news/how-you-can-help-ocean) where it doesn't belong and where it causes irreparable harm. Worse, I also discovered that commercial cleaning products are the leading cause of [allergies and illnesses](http://www.everydayhealth.com/allergies/allergies-and-cleaning-products.aspx).
+My research showed me that the toxic ingredients in commercial cleaners aren't just unsafe for pets and humans (particularly little ones); they're also remarkably bad for the environment. The truth is that the stuff we use to clean invariably finds itself in the environment somehow. We can dump a sachet of drain cleaner in a clogged sink without a second thought, and that will [end up back in the environment](https://ocean.si.edu/ocean-news/how-you-can-help-ocean) where it doesn't belong and where it causes irreparable harm. Worse, I also discovered that commercial cleaning products are the leading cause of [allergies and illnesses](http://www.everydayhealth.com/allergies/allergies-and-cleaning-products.aspx).
 
 I was interested to find that I didn't need commercial cleaning agents to clean my home; I had everything I needed right in my pantry. I switched to green cleaning in 2005, and I've never looked back. It really is the best way to make your home safer for pets, children, and the environment as a whole.
 
