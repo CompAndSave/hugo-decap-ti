@@ -1,13 +1,12 @@
 ---
-title: "10 Fun Things to Do on the Longest Day of the Year"
+title: 10 Fun Things to Do on the Longest Day of the Year
 date: 2015-06-14T19:16:16.000Z
-slug: 10-fun-things-to-do-on-the-longest-day-of-the-year
-description: "10 Fun Things to Do on the Longest Day of the Year"
-featured_image: /blog/images/archive/2015/06/printsummerinvitations.png
 authors: Denise Resendez
+slug: 10-fun-things-to-do-on-the-longest-day-of-the-year
+featured_image: /blog/images/archive/2015/06/printsummerinvitations.png
+description: 10 Fun Things to Do on the Longest Day of the Year
 tags: []
 ---
-
 [![party invitation printables ](/blog/images/archive/2015/06/printsummerinvitations.png)](/blog/images/archive/2015/06/printsummerinvitations.png)Did you know that June 21st is the longest day of the year in the Northern hemisphere? The long daylight hours, and the fact that this is the middle of summer, naturally have had a positive influence on human cultures over the ages. Back in the day, the summer solstice was an important way to mark the passage of the seasons and also helped develop calendars.
 
 Traditionally, various festivities would mark the summer solstice – feasting, lighting bonfires, fertility rites and various pagan ceremonies marked the day. So why not make Summer Solstice special for you as well? Here are some ideas for you to mark this, the longest day of the year; some fun, some meaningful activities:
@@ -25,20 +24,20 @@ Traditionally, various festivities would mark the summer solstice – feasting, 
 9. **Start a Team with the Alzheimer's Association** – [The Longest Day](http://act.alz.org/site/TR?fr%5Fid=6650&pg=informational&sid=20684) is daylong event and fundraiser devoted to raising awareness of this deadly disease; highlighting the challenges that sufferers and caregivers face. This can be a meaningful activity for summer solstice, particularly if someone close to you has Alzheimer's
 10. **A treasure hunt** – You can organize this as a great way for your entire family to meet up and bond or have like minded friends over for this. Have fun picking out gifts and treats, printing out signs and clues and maps for the event.
 
-**Free Printable Invitations & Ideas**   
+**Free Printable Invitations & Ideas**\
 Whether you decide to organize a barbecue, a pool party or picnic, you can really get into the act with some cool, fun invites that announce your Summer Solstice event. Check out some of these[ invite ideas on Pinterest:](https://www.pinterest.com/maebatista/bbq-invite-ideas/) a brightly colored invite in the shape of a paper plate, an invite in the shape of ice lollies pasted on to ice cream sticks, and even some printable balloon invites. Customize your invites as required and enjoy a full filled day with people that matter to you.
 
 We have even have some colorful and fun summer invitations for you to choose from:
 
-[![Free Summer Invitation Printable ](/blog/images/archive/2015/06/thumbnail.png)](https://drive.google.com/file/d/0B-GQxgc2k49OZUF1dlpWSm9xZGM/view?usp=sharing) [Download Free Summer Invitation Printable: "Poolside"](https://drive.google.com/file/d/0B-GQxgc2k49OZUF1dlpWSm9xZGM/view?usp=sharing)
+[![Free Summer Invitation Printable ](/blog/images/archive/2015/06/thumbnail.png)](/blog/images/archive/2015/06/thumbnail.png)
 
-[![Summer Party Invitation Free Printable ](/blog/images/archive/2015/06/thumbnail-1.png)Download Free Summer Invitation Printable: "Hello Beautiful"](https://drive.google.com/file/d/0B-GQxgc2k49OaldlOWVfTGpkTVE/view?usp=sharing)
+![Summer Party Invitation Free Printable ](/blog/images/archive/2015/06/thumbnail-1.png)Download Free Summer Invitation Printable: "Hello Beautiful"
 
-[![Free Summer Party Invitation Printable ](/blog/images/archive/2015/06/thumbnail-23.png)](https://drive.google.com/file/d/0B-GQxgc2k49ORnVEbnVRQ0dFMEk/view?usp=sharing)
+[![Free Summer Party Invitation Printable ](/blog/images/archive/2015/06/thumbnail-23.png)](/blog/images/archive/2015/06/thumbnail-23.png)
 
-[Download Free Summer Invitation Printable: "Confetti"](https://drive.google.com/file/d/0B-GQxgc2k49ORnVEbnVRQ0dFMEk/view?usp=sharing)
+Download Free Summer Invitation Printable: "Confetti"
 
-**Our Summer Solstice Coupon Code**  
+**Our Summer Solstice Coupon Code**\
 To sweeten the deal for our loyal customers and readers planning a summer solstice event, we have a special coupon code! For every ink and toner cartridge purchase you make this June, we are offering **a special 7% discount.** Just use the **SUMMER7** code during checkout to get your discount automatically at [TomatoInk.com](https://www.tomatoink.com).
 
 So be sure to do something special this summer solstice; also be sure to tell us about any special ideas you had and to share any posts, stories or photos via our [Facebook](https://www.facebook.com/tomatoinktoner), [Twitter ](https://twitter.com/tomatoinktoner)or [Pinterest ](https://www.pinterest.com/tomatoinktoner/)pages.
