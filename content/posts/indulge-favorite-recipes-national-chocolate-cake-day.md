@@ -1,19 +1,21 @@
 ---
-title: "Indulge in Our Favorite Recipes for National Chocolate Cake Day"
+title: Indulge in Our Favorite Recipes for National Chocolate Cake Day
 date: 2018-01-23T14:00:22.000Z
-slug: indulge-favorite-recipes-national-chocolate-cake-day
-description: "Indulge in Our Favorite Recipes for National Chocolate Cake Day"
-featured_image: /blog/images/archive/2018/01/choco_cake-.jpg
 authors: Awanthi Vardaraj
-tags: [food,recipes]
+slug: indulge-favorite-recipes-national-chocolate-cake-day
+featured_image: /blog/images/archive/2018/01/choco_cake-.jpg
+description: Indulge in Our Favorite Recipes for National Chocolate Cake Day
+tags:
+  - food
+  - recipes
 ---
-
-> "He showed the words ‘chocolate cake' to a group of Americans and recorded their word associations. ‘Guilt' was the top response. If that strikes you as unexceptional, consider the response of French eaters to the same prompt: ‘celebration.'"  
+> "He showed the words ‘chocolate cake' to a group of Americans and recorded their word associations. ‘Guilt' was the top response. If that strikes you as unexceptional, consider the response of French eaters to the same prompt: ‘celebration.'"\
 > ―[Michael Pollan](https://www.goodreads.com/author/show/2121.Michael%5FPollan), [In Defense of Food: An Eater's Manifesto](https://www.goodreads.com/work/quotes/3100234)
 
 National Chocolate Cake Day is almost upon us, and now sounds like a good time for me to implore you to please celebrate this most wonderful of holidays with a chocolate cake. Go ahead and treat yourself to what I consider one of the best cakes that can ever be made. Of course, as with most things, not every chocolate cake is born equal. Some just stand out from the crowd, and it's my job to point you toward recipes you ought to be embracing, and it's your job to embrace them!
 
-# Celebrate National Chocolate Cake Day  
+# Celebrate National Chocolate Cake Day
+
 January 27!
 
 So, without further ado, on to the chocolate cakes. Believe it or not, there are actually many different types of chocolate cakes. Chocolate blackout cakes, chocolate gateaux, molten lava chocolate cakes, flourless chocolate cakes, black forest cakes, chocolate mousse cake, German chocolate cake, chocolate Bavarian, and so many more. It can be incredibly hard to pick just one. Of course, you could do what I do and try every chocolate recipe you come across. I guarantee you won't regret it.
@@ -34,7 +36,7 @@ Molten lava cakes are another favorite; the ooze of the chocolate as one's spoon
 
 ### International Treasures
 
-The Swedes have an endearing custom called _fika_, which is their version of a coffee break. It means "to have coffee, often accompanied by pastries, cookies or pie" and is definitely something I can see myself getting behind. The most popular fika cake is — you guessed it — Swedish sticky chocolate cake, or _Kladdkaka_. [Here's](https://www.scandikitchen.co.uk/recipe-kladdkaka-sticky-swedish-chocolate-cake/) a recipe that I use; just make sure you watch the cake carefully during the last few minutes of baking time, as the recipe advises.
+The Swedes have an endearing custom called *fika*, which is their version of a coffee break. It means "to have coffee, often accompanied by pastries, cookies or pie" and is definitely something I can see myself getting behind. The most popular fika cake is — you guessed it — Swedish sticky chocolate cake, or *Kladdkaka*. Here's a recipe that I use; just make sure you watch the cake carefully during the last few minutes of baking time, as the recipe advises.
 
 From Sweden, let's hop across to Germany, home of the Black Forest. I have a deep love for Black Forest cakes; what's not to love about soft but dense chocolate cake, liqueur-soaked cherries, and lashings of cream topped with chocolate shavings? [Here's](https://livforcake.com/black-forest-cake/) a good recipe for you if you're planning on making it any time soon. Of course, another [perennial favorite](https://www.tasteofhome.com/recipes/german-chocolate-cake) is German chocolate cake. It's a rich chocolate cake that is enhanced by the pecans and the coconut, and it is so good. It's perfect to pair with a glass of cold milk, to be consumed in front of a roaring fire, with a favorite book to read as you eat your way through one of the best chocolate cakes of all time.
 
@@ -42,4 +44,4 @@ I have so much more to say about chocolate cake, but for now I have to stop here
 
 **Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
 
-_What is your favorite chocolate cake? Do you plan on baking (and eating) a delicious cake for National Chocolate Cake Day? Let us know in the comments below or on Facebook and Twitter._
+*What is your favorite chocolate cake? Do you plan on baking (and eating) a delicious cake for National Chocolate Cake Day? Let us know in the comments below or on Facebook and Twitter.*
