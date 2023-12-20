@@ -1,13 +1,15 @@
 ---
-title: "Simple Weekend Projects to Make Your Home More Eco-Friendly"
+title: Simple Weekend Projects to Make Your Home More Eco-Friendly
 date: 2018-05-08T13:00:11.000Z
-slug: weekend-projects-make-your-home-more-eco-friendly
-description: "Simple Weekend Projects to Make Your Home More Eco-Friendly"
-featured_image: /blog/images/archive/2018/05/planting.jpg
 authors: Jessica Cohen
-tags: [Eco-friendly,green diy,Homemade]
+slug: weekend-projects-make-your-home-more-eco-friendly
+featured_image: /blog/images/archive/2018/05/planting.jpg
+description: Simple Weekend Projects to Make Your Home More Eco-Friendly
+tags:
+  - Eco-friendly
+  - green diy
+  - Homemade
 ---
-
 There are many simple ways to make your home more eco-friendly, and they often don't cost a lot of money or take too much of your time. So if you've got a weekend to spare, consider some (or all) of these weekend projects to make your home more eco-friendly for good.
 
 # How to Make Your Home More Eco-Friendly
@@ -24,7 +26,7 @@ Get out there and plant something! Not only do trees breathe in carbon dioxide, 
 
 Even if you live in the city, you can still plant a tree! Seriously. A donation to the [Arbor Day Foundation](https://www.arborday.org/) means more trees planted. Or just shop at TomatoInk.com. We plants trees through our [OneTreePlanted partnership](https://www.tomatoink.com/).
 
-Of course, plants and flowers are also eco-friendly, as they produce oxygen too. They can also produce herbs and fruits. Just don't put any chemical fertilizers or weed killers on them. (You can always use organic products or make your own with essential oils instead.) We're also going through a massive decline in the bee population due to pesticides and herbicides. This is disturbing since bees pollinate about 80% of flowering plants. Keeping your plants and flowers free of those toxins won't contribute to the problem. While nobody (well, almost nobody) wants those pesky critters around, [our lives actually depend](https://www.eatsleepbe.com/2017/03/15/why-save-bees-not-getting-stung/) on their existence.
+Of course, plants and flowers are also eco-friendly, as they produce oxygen too. They can also produce herbs and fruits. Just don't put any chemical fertilizers or weed killers on them. (You can always use organic products or make your own with essential oils instead.) We're also going through a massive decline in the bee population due to pesticides and herbicides. This is disturbing since bees pollinate about 80% of flowering plants. Keeping your plants and flowers free of those toxins won't contribute to the problem. While nobody (well, almost nobody) wants those pesky critters around, our lives actually depend on their existence.
 
 ### Collect the Rain
 
@@ -36,7 +38,7 @@ With the overwhelming amount of products on the market, we're quick to replace i
 
 ### Clean Out Your Closets
 
-On the other hand, if there are items you definitely won't be using anymore, decide what's best to do with them. Cleaning out your closets and drawers allows you to see what you do have more clearly, which makes for a more organized and efficient home. You can actually make your own home more eco-friendly by [donating items](https://www.eatsleepbe.com/2015/08/18/16-places-to-donate-clothing-and-accessories/) to others, and by holding on to any items that you can repurpose. Keep newspapers, magazines, or kids artwork to make wrapping paper. Use fabric to make cloth napkins or rags for cleaning. There are so many creative ways to repurpose your items!
+On the other hand, if there are items you definitely won't be using anymore, decide what's best to do with them. Cleaning out your closets and drawers allows you to see what you do have more clearly, which makes for a more organized and efficient home. You can actually make your own home more eco-friendly by donating items to others, and by holding on to any items that you can repurpose. Keep newspapers, magazines, or kids artwork to make wrapping paper. Use fabric to make cloth napkins or rags for cleaning. There are so many creative ways to repurpose your items!
 
 ### Build a Clothesline
 
@@ -56,6 +58,6 @@ If you're feeling ambitious this weekend, build a greenhouse! Yes, you can do th
 
 If you don't have much time this weekend, you can still work at making your home more eco-friendly. Start by looking at the labels on your items. Go from room to room to make things easier, and make a list of what you need to replace. You'll be amazed at what you might find, such as triclosan, parabens, phthalates, pesticides, and so much more. Of course, it's always best to look for items that are certified organic and not to be fooled by imposters. Focus on getting rid of products made with the harmful toxins and chemicals that can harm you, your family, your pets, and the environment. If you aren't sure where to begin, check out the Environmental Working Group's [wealth of resources](https://www.ewg.org/).
 
-_How will you make your home more eco-friendly this weekend? Let us know in the comments below._
+*How will you make your home more eco-friendly this weekend? Let us know in the comments below.*
 
 **Jessica Cohen** is a health coach, a greener living enthusiast, and an advocate of social good. On her website, [EatSleepBe.com](http://eatsleepbe.com/), she provides tips for being kinder to yourself, to others, and to the planet. Additionally, Jessica enjoys consulting with like-minded companies to create site concepts, develop editorial and social media calendars, ghost write, publish press releases, and run successful outreach campaigns. You can also find her on [Facebook](http://facebook.com/eatsleepbe), [Twitter](http://twitter.com/eatsleepbe), [Pinterest](http://pinterest.com/eatsleepbe), and [Instagram](http://instagram.com/eatsleepbe) at EatSleepBe.
