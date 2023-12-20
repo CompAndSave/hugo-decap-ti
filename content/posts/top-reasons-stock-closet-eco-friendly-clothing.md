@@ -1,13 +1,14 @@
 ---
-title: "Top Reasons to Stock Your Closet with Eco-Friendly Clothing"
+title: Top Reasons to Stock Your Closet with Eco-Friendly Clothing
 date: 2017-05-16T13:00:18.000Z
-slug: top-reasons-stock-closet-eco-friendly-clothing
-description: "Top Reasons to Stock Your Closet with Eco-Friendly Clothing"
-featured_image: /blog/images/archive/2017/05/clothing.jpeg
 authors: Jessica Cohen
-tags: [Eco-friendly,sustainable brands]
+slug: top-reasons-stock-closet-eco-friendly-clothing
+featured_image: /blog/images/archive/2017/05/clothing.jpeg
+description: Top Reasons to Stock Your Closet with Eco-Friendly Clothing
+tags:
+  - Eco-friendly
+  - sustainable brands
 ---
-
 When out at the mall and browsing through the clothing racks, most of us aren't thinking about the carbon footprint of the clothing on the hangers. Yet fashion does leave a clear-cut footprint, with environmental and even potential health hazards. It may not have dawned on us to purchase eco-friendly clothing lines, shoes, and accessories — until now. Fortunately, eco-friendly clothing lines are beginning to sprout up at the mall and online too, giving us new opportunities to stock our closets with items that won't harm the environment or ourselves.
 
 # Why Eco-Friendly Clothing Lines Are Sprouting Up Everywhere
@@ -38,8 +39,8 @@ Take a look at this list of 25 fantastic eco-friendly clothing lines:
 2. [Bead and Reel](https://www.beadandreel.com/)
 3. [Colored Organics](https://www.coloredorganics.com/)
 4. [Eileen Fisher](http://www.eileenfisher.com/)
-5. [Fibre Athletics](https://fibreathletics.com/)
-6. [Indigenous](http://www.indigenous.com/)
+5. Fibre Athletics
+6. Indigenous
 7. [Indo Sole](https://indosole.com/)
 8. [Just Be Apparel](https://justbeapparel.com/)
 9. [Kuyichi](https://kuyichi.com/)
@@ -64,4 +65,4 @@ So the next time you're at the mall or browsing for some new items, consider eco
 
 **Jessica Cohen** is a health coach, a greener living enthusiast, and an advocate of social good. On her website, [EatSleepBe.com](http://eatsleepbe.com/), she provides tips for being kinder to yourself, to others, and to the planet. Additionally, Jessica enjoys consulting with like-minded companies to create site concepts, develop editorial and social media calendars, ghost write, publish press releases, and run successful outreach campaigns. You can also find her on [Facebook](http://facebook.com/eatsleepbe), [Twitter](http://twitter.com/eatsleepbe), [Pinterest](http://pinterest.com/eatsleepbe), and [Instagram](http://instagram.com/eatsleepbe) at EatSleepBe.
 
-_What is your favorite eco-friendly clothing brand? Share below or on Facebook and Twitter._
+*What is your favorite eco-friendly clothing brand? Share below or on Facebook and Twitter.*
