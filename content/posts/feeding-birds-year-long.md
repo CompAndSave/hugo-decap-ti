@@ -1,16 +1,17 @@
 ---
-title: "How You Should Be Feeding Birds All Year Long"
+title: How You Should Be Feeding Birds All Year Long
 date: 2018-02-20T14:00:56.000Z
-slug: feeding-birds-year-long
-description: "How You Should Be Feeding Birds All Year Long"
-featured_image: /blog/images/archive/2017/12/bird.jpg
 authors: Awanthi Vardaraj
-tags: [healthy hobbies,tips]
+slug: feeding-birds-year-long
+featured_image: /blog/images/archive/2017/12/bird.jpg
+description: How You Should Be Feeding Birds All Year Long
+tags:
+  - healthy hobbies
+  - tips
 ---
-
 February is National Bird Feeding Month! One of the first things I like to do when I move is set up my bird table for feeding birds. It's nothing fancy, and I knocked it up myself. All you need are two planks of wood, and a set up resembling a T shape. I like putting out scraps and seeds for the birds on top of the plank. Sometimes when I have coconuts, I make sure to tie them to the plank and watch the birds fly around the table, pecking at the coconuts to eat the white flesh. Little tits and sparrows use the coconut halves as swings, and it's quite a treat to watch.
 
-I think everyone with a scrap of garden deserves a bird table (that's right; you're doing yourself a favor). But not everything is good for birds. You need to know what food to feed birds. Stop feeding them bread and products similar to bread, such as bagels, biscuits, crackers etc. Yes, even the ducks. Bread and bread-like products make them sick, and it simply isn't worth it. You may think you're doing the right thing, but in fact, you're [harming](https://www.thespruce.com/is-feeding-ducks-bread-bad-386564) them.
+I think everyone with a scrap of garden deserves a bird table (that's right; you're doing yourself a favor). But not everything is good for birds. You need to know what food to feed birds. Stop feeding them bread and products similar to bread, such as bagels, biscuits, crackers etc. Yes, even the ducks. Bread and bread-like products make them sick, and it simply isn't worth it. You may think you're doing the right thing, but in fact, you're harming them.
 
 # Feeding Birds Year-Round
 
@@ -32,4 +33,4 @@ I hope I've inspired you to start feeding birds all year long. Have fun!
 
 **Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
 
-_How do you take care of our feathered friends? Do you find squirrels too pesky when you're feeding birds? Share your tips below or on Facebook and Twitter._
+*How do you take care of our feathered friends? Do you find squirrels too pesky when you're feeding birds? Share your tips below or on Facebook and Twitter.*
