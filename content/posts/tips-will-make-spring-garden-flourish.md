@@ -1,17 +1,19 @@
 ---
-title: "Tips That Will Make Your Spring Garden Flourish"
+title: Tips That Will Make Your Spring Garden Flourish
 date: 2017-03-21T13:00:38.000Z
-slug: tips-will-make-spring-garden-flourish
-description: "Tips That Will Make Your Spring Garden Flourish"
-featured_image: /blog/images/archive/2017/03/garden-2-min.jpg
 authors: Awanthi Vardaraj
-tags: [Eco-friendly,tips,natural products]
+slug: tips-will-make-spring-garden-flourish
+featured_image: /blog/images/archive/2017/03/garden-2-min.jpg
+description: Tips That Will Make Your Spring Garden Flourish
+tags:
+  - Eco-friendly
+  - tips
+  - natural products
 ---
-
-"A wizard must have passed this way  
-Since—was it only yesterday?  
-Then all was bare, and now, behold,  
-A hundred cups of living gold!"  
+"A wizard must have passed this way\
+Since—was it only yesterday?\
+Then all was bare, and now, behold,\
+A hundred cups of living gold!"\
 —Emma C. Dowd, "Daffodil and Crocus," _Country Life in America: A Magazine for the Home-maker, the Vacation-seeker, the Gardener, the Farmer, the Nature-teacher, the Naturalis_t, April 1902
 
 Spring has sprung so it's time to start thinking about your spring garden. (Also cleaning out corners… But if you want cleaning advice, I suggest you read my piece about [natural cleaning solutions](https://www.tomatoink.com/blog/posts/green-cleaning-your-home.html). And a happy spring cleaning to you!) If you're a novice gardener, you may appreciate my piece here more than a seasoned pro. Even if you're a seasoned pro, read along; I might just say something you haven't thought of before (or failing that, I could, at the very least, amuse you).
@@ -34,7 +36,7 @@ When you fertilize, don't forget to adjust your garden's soil pH. Most plants th
 
 ### Establish an Irrigation System
 
-The next step is to plan an irrigation system for your garden. I'm sorry to be the one to tell you, but wandering around with the hose on for 20 minutes a day isn't quite going to cut it. But! The good news is, once you take the time to set up an irrigation system in the beginning, it can just keep going for eternity. For easy step-by-step instructions that even I can't muck up, go [here](https://www.bunnings.com.au/diy-advice/garden/water-and-irrigation/how-to-plan-a-garden-irrigation-system).
+The next step is to plan an irrigation system for your garden. I'm sorry to be the one to tell you, but wandering around with the hose on for 20 minutes a day isn't quite going to cut it. But! The good news is, once you take the time to set up an irrigation system in the beginning, it can just keep going for eternity. For easy step-by-step instructions that even I can't muck up, go [here](https://www.bunnings.com.au/diy-advice/garden/water-irrigation/how-to-plan-an-irrigation-system).
 
 ### Plant Both Flowers and Veggies
 
@@ -54,4 +56,4 @@ Happy gardening! I hope your thumbs turn green and your plants flourish in your 
 
 **Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
 
-_Let us know below or on Facebook and Twitter what you'll be planting in your spring garden._
+*Let us know below or on Facebook and Twitter what you'll be planting in your spring garden.*
