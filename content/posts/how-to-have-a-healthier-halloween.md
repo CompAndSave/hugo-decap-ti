@@ -1,13 +1,15 @@
 ---
-title: "How to Have a Healthier Halloween"
+title: How to Have a Healthier Halloween
 date: 2017-10-10T13:00:12.000Z
-slug: how-to-have-a-healthier-halloween
-description: "How to Have a Healthier Halloween"
-featured_image: /blog/images/archive/2017/08/Jessica_Oct_Halloween.jpg
 authors: Jessica Cohen
-tags: [Halloween,healthy food,Holiday]
+slug: how-to-have-a-healthier-halloween
+featured_image: /blog/images/archive/2017/08/Jessica_Oct_Halloween.jpg
+description: How to Have a Healthier Halloween
+tags:
+  - Halloween
+  - healthy food
+  - Holiday
 ---
-
 First, let's start by getting real. No kid wants to think about Halloween as a time to be healthy. So let's just keep this healthier Halloween business between us, shall we?
 
 For some parents, Halloween has gotten a little out of hand since they were kids. Those who used to come home with a few handfuls of Halloween candy are now seen lugging their kids' loaded pillowcases home, and then watching their children unload mountains of sugar into slightly smaller mounds by candy preference.
@@ -18,7 +20,7 @@ What is a parent who doesn't want his or her child to consume a truckload worth 
 
 ### Purchase GMO-Free Snacks and Candy
 
-If you can find [organic](https://www.rodalesorganiclife.com/food/organic-halloween-candy), that's even better. Simply look for the organic or GMO-free certified labels, or [click here](http://www.eatsleepbe.com/2015/12/04/munchies-gone-50-gmo-free-snacks-school-work-home/) for suggestions.
+If you can find [organic](https://www.rodalesorganiclife.com/food/organic-halloween-candy), that's even better. Simply look for the organic or GMO-free certified labels, or click here for suggestions.
 
 ### Bob for (Organic) Apples
 
@@ -48,4 +50,4 @@ Remember, we're keeping this healthier Halloween business between us. Otherwise 
 
 **Jessica Cohen** is a health coach, a greener living enthusiast, and an advocate of social good. On her website, [EatSleepBe.com](http://eatsleepbe.com/), she provides tips for being kinder to yourself, to others, and to the planet. Additionally, Jessica enjoys consulting with like-minded companies to create site concepts, develop editorial and social media calendars, ghost write, publish press releases, and run successful outreach campaigns. You can also find her on [Facebook](http://facebook.com/eatsleepbe), [Twitter](http://twitter.com/eatsleepbe), [Pinterest](http://pinterest.com/eatsleepbe), and [Instagram](http://instagram.com/eatsleepbe) at EatSleepBe.
 
-_How are you celebrating Halloween this year? Share you healthier Halloween ideas below or on Facebook and Twitter._
+*How are you celebrating Halloween this year? Share you healthier Halloween ideas below or on Facebook and Twitter.*
