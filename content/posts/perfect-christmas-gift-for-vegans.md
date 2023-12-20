@@ -1,13 +1,15 @@
 ---
-title: "The Perfect Christmas Gift for Vegans in Your Life"
+title: The Perfect Christmas Gift for Vegans in Your Life
 date: 2017-12-19T14:00:09.000Z
-slug: perfect-christmas-gift-for-vegans
-description: "The Perfect Christmas Gift for Vegans in Your Life"
-featured_image: /blog/images/archive/2017/12/vegan.jpg
 authors: Awanthi Vardaraj
-tags: [food,Holiday,gift ideas]
+slug: perfect-christmas-gift-for-vegans
+featured_image: /blog/images/archive/2017/12/vegan.jpg
+description: The Perfect Christmas Gift for Vegans in Your Life
+tags:
+  - food
+  - Holiday
+  - gift ideas
 ---
-
 Buying a cruelty-free ethical gift for your favorite vegan or vegetarian is not as hard or as complicated as you think it is. So put away your vouchers this holiday season because you are about to be spared your torture and indecision. It's hard to pick and choose a Christmas gift for vegans, and I totally get that. I've put together a few suggestions for you to peruse while consuming an almond milk latte (or whatever else you may like to drink; it is Christmas 2017 after all).
 
 # A Christmas Gift List for Vegans
@@ -34,15 +36,15 @@ Kombucha is a [magical drink](https://www.amazon.com/Kombucha-Brewing-Organic-Sc
 
 ### Forest Altar Shrine
 
-This gorgeous [forest altar shrine](https://www.etsy.com/in-en/listing/560291757/sculpture-shrine-forest-altar-wall-art?ref=shop%5Fhome%5Factive%5F15) is handmade out of clay, lovingly crafted to "pay homage to my love of the outdoors and the indoors, an ode to both wildness and domesticity." This is sure to appeal to the vegans you love because they are all about protecting the earth and its wilderness; they already have an appreciation for the outdoors and all its beauty.
+This gorgeous [forest altar shrine](https://www.etsy.com/in-en/listing/560291757/sculpture-shrine-forest-altar-wall-art?ref=shop_home_active_15) is handmade out of clay, lovingly crafted to "pay homage to my love of the outdoors and the indoors, an ode to both wildness and domesticity." This is sure to appeal to the vegans you love because they are all about protecting the earth and its wilderness; they already have an appreciation for the outdoors and all its beauty.
 
 ### Vegan Lipstick
 
-This [all-natural lipstick](https://www.etsy.com/in-en/listing/246201321/vegan-lipstick-all-natural-lipstick-lip?ga%5Forder=most%5Frelevant&ga%5Fsearch%5Ftype=all&ga%5Fview%5Ftype=gallery&ga%5Fsearch%5Fquery=vegan&ref=sr%5Fgallery%5F12) comes in all sorts of delicious colors like butterscotch, berry sweet, and soft coral (to name a few). It is 100% vegan and hydrating, and long-lasting too. Naturally pigmented, these lipsticks are sure to nourish lips and keep them soft. As they say of their own product, "this is the natural good-for-you kind of makeup, perfect for those who want to detoxify their makeup bags."
+This [all-natural lipstick](https://www.etsy.com/listing/246201321/?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=vegan&ref=sr_gallery_12) comes in all sorts of delicious colors like butterscotch, berry sweet, and soft coral (to name a few). It is 100% vegan and hydrating, and long-lasting too. Naturally pigmented, these lipsticks are sure to nourish lips and keep them soft. As they say of their own product, "this is the natural good-for-you kind of makeup, perfect for those who want to detoxify their makeup bags."
 
 ### Vegan Chocolate
 
-[Ethicoco](https://www.etsy.com/in-en/listing/247566305/vegan-alternative-to-white-chocolate?ga%5Forder=most%5Frelevant&ga%5Fsearch%5Ftype=all&ga%5Fview%5Ftype=gallery&ga%5Fsearch%5Fquery=vegan&ref=sc%5Fgallery%5F11&plkey=add3a328e539159cc368339728f3afcbc03a4046:247566305) makes a delicious strawberry chocolate that is a vegan alternative to white chocolate. "Created from a delicious high quality cocoa butter for a rich chocolate undertone, a rice alternative to milk, and a very generous amount of real strawberries." The shop also has vegan alternatives to dark and milk [chocolate](https://www.tomatoink.com/blog/posts/best-fair-trade-chocolate-brands.html), in various flavors.
+[Ethicoco](https://www.etsy.com/listing/247566305/strawberry-white-chocolate-dairy-free?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=vegan&ref=sc_gallery_11&plkey=add3a328e539159cc368339728f3afcbc03a4046%3A247566305) makes a delicious strawberry chocolate that is a vegan alternative to white chocolate. "Created from a delicious high quality cocoa butter for a rich chocolate undertone, a rice alternative to milk, and a very generous amount of real strawberries." The shop also has vegan alternatives to dark and milk [chocolate](https://www.tomatoink.com/blog/posts/best-fair-trade-chocolate-brands.html), in various flavors.
 
 ### Magazine Subscription
 
@@ -56,4 +58,4 @@ I hope this has given you some ideas for getting the perfect Christmas gift for 
 
 **Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
 
-_What is your idea for giving the right Christmas gift for vegans? Let us know below or on Facebook and Twitter._
+*What is your idea for giving the right Christmas gift for vegans? Let us know below or on Facebook and Twitter.*
