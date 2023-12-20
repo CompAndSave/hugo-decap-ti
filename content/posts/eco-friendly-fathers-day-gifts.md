@@ -1,13 +1,15 @@
 ---
-title: "Eco-Friendly Father's Day Gifts Every Dad Will Love"
+title: Eco-Friendly Father's Day Gifts Every Dad Will Love
 date: 2017-06-06T13:00:46.000Z
-slug: eco-friendly-fathers-day-gifts
-description: "Eco-Friendly Father's Day Gifts Every Dad Will Love"
-featured_image: /blog/images/archive/2017/06/father_and_son_walking.jpg
 authors: Katie Medlock
-tags: [Eco-friendly,Father's Day,gift ideas]
+slug: eco-friendly-fathers-day-gifts
+featured_image: /blog/images/archive/2017/06/father_and_son_walking.jpg
+description: Eco-Friendly Father's Day Gifts Every Dad Will Love
+tags:
+  - Eco-friendly
+  - Father's Day
+  - gift ideas
 ---
-
 Father's Day is a time to show appreciation for all the special things your old man has done for you over the years. So the question to ask yourself is: do you really want to gift dad another tie? Perhaps, this year, think outside the box in the form of eco-friendly Father's Day gifts. This will ensure that you give your pops a truly unique token of your appreciation.
 
 The benefits of also considering a more Earth-friendly gift are vast: less wasteful packaging, less negative impact on the planet, and less accumulation of clutter in the closet. To figure out which eco-friendly Father's Day gifts are best, first decide what kind of dad you have! Does he find peace in listening to music or does he crave the adventure of the wild outdoors? Follow our tips for choosing the perfect gift that won't break the bank or your bond with the planet.
@@ -38,4 +40,4 @@ Whatever way you decide to pamper your pops this Father's Day, be sure to make i
 
 **Katie Medlock** is a writer, mental health counselor, and educator on a quest to make the world a better place. Her writing has appeared on Headspace, Inhabitat, Care2, Ravishly, and Chic Vegan. On her days off, you will find her cooking, catching up on nerdy podcasts, blogging at The Offbeat Herbivore ([https://offbeatherbivore.com](https://offbeatherbivore.com/)), or lounging with her partner and rescue dachshund.
 
-_What eco-friendly Father's Day gifts will you be giving your dad? We'd love to hear how you are spending the day this year. Share below or on Facebook and Twitter._
+*What eco-friendly Father's Day gifts will you be giving your dad? We'd love to hear how you are spending the day this year. Share below or on Facebook and Twitter.*
