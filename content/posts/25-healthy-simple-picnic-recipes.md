@@ -1,18 +1,21 @@
 ---
-title: "25 Healthy and Simple Picnic Recipes Perfect for Any Time"
+title: 25 Healthy and Simple Picnic Recipes Perfect for Any Time
 date: 2017-08-08T13:00:29.000Z
-slug: 25-healthy-simple-picnic-recipes
-description: "25 Healthy and Simple Picnic Recipes Perfect for Any Time"
-featured_image: /blog/images/archive/2017/08/picnic-basket.jpg
 authors: Katie Medlock
-tags: [environmentally friendly,summer,healthy food,party]
+slug: 25-healthy-simple-picnic-recipes
+featured_image: /blog/images/archive/2017/08/picnic-basket.jpg
+description: 25 Healthy and Simple Picnic Recipes Perfect for Any Time
+tags:
+  - environmentally friendly
+  - summer
+  - healthy food
+  - party
 ---
-
 Late summer is an ideal time for picnics. You can beat the heat by kicking back under a shady tree, the kids can enjoy one last hurrah before the school year starts, and you don't have to sweat over a hot stove to prepare for the event. There is something truly magical about gathering friends and family together for an outdoor feast of easy summer picnic recipes. The only question is: what's for dinner?
 
 # Perfect Picnic Recipes
 
-Everyone has their own opinion on the perfect picnic foods, ranging from a quick PB&J to an intricate, totable three-course meal. For those who like their outdoor picnic food fare to sit somewhere in the middle, these simple and healthy picnic recipes are _juuust right_. Also, all of the dishes below are plant-based, leaving a smaller footprint on the planet. Throw in some machine-washable cloth napkins and reusable bamboo plates, and you'll have an eco-friendly event that will create memories for seasons to come.
+Everyone has their own opinion on the perfect picnic foods, ranging from a quick PB&J to an intricate, totable three-course meal. For those who like their outdoor picnic food fare to sit somewhere in the middle, these simple and healthy picnic recipes are *juuust right*. Also, all of the dishes below are plant-based, leaving a smaller footprint on the planet. Throw in some machine-washable cloth napkins and reusable bamboo plates, and you'll have an eco-friendly event that will create memories for seasons to come.
 
 ### **Dippables**
 
@@ -38,7 +41,7 @@ Imaginative salads make up the core of a great picnic. Whether vegetable or frui
 
 For lounging under the sun, handheld lunch options are a must! For these savory sammys, you can either wrap them up for on-the-go eats or package the ingredients separately so they don't get soggy en route to your favorite summery spot.
 
-* [Chickpea "Tuna" Salad Sandwiches](http://www.hotforfoodblog.com/recipes/2015/8/11/chickpea-tuna-sandwich?rq=sandwich)
+* [Chickpea "Tuna" Salad Sandwiches](https://www.hotforfoodblog.com/recipes/2015/8/11/chickpea-tuna-sandwich/?rq=sandwich)
 * [Baked Falafel Wraps](http://wholesomepatisserie.com/mains/baked-falafel-wraps-vegan-tzatziki/)
 * [BBQ Pulled Sweet Potato Sandwiches](https://yupitsvegan.com/bbq-pulled-sweet-potato-sandwiches/)
 * [Asian Collard Wraps with Peanut Sauce](https://wellvegan.com/recipe/vegan-collard-wraps-peanut-sauce)
@@ -66,4 +69,4 @@ Every meal — whether indoors or out — is made complete by satisfying the old
 
 **Katie Medlock** is a writer, mental health counselor, and educator on a quest to make the world a better place. Her writing has appeared on Headspace, Inhabitat, Care2, Ravishly, and Chic Vegan. On her days off, you will find her cooking, catching up on nerdy podcasts, blogging at The Offbeat Herbivore ([https://offbeatherbivore.com](https://offbeatherbivore.com/)), or lounging with her partner and rescue dachshund.
 
-_Which of these simple and healthy picnic recipes will you try this summer? Let us know below or share your favorite picnic recipe on Facebook and Twitter._
+*Which of these simple and healthy picnic recipes will you try this summer? Let us know below or share your favorite picnic recipe on Facebook and Twitter.*
