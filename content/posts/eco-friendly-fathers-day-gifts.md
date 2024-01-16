@@ -1,13 +1,15 @@
 ---
-title: "Eco-Friendly Father's Day Gifts Every Dad Will Love"
+title: Eco-Friendly Father's Day Gifts Every Dad Will Love
 date: 2017-06-06T13:00:46.000Z
-slug: eco-friendly-fathers-day-gifts
-description: "Eco-Friendly Father's Day Gifts Every Dad Will Love"
-featured_image: /blog/images/archive/2017/06/father_and_son_walking.jpg
 authors: Katie Medlock
-tags: [Eco-friendly,Father's Day,gift ideas]
+slug: eco-friendly-fathers-day-gifts
+featured_image: /blog/images/archive/2017/06/father_and_son_walking.jpg
+description: Eco-Friendly Father's Day Gifts Every Dad Will Love
+tags:
+  - Eco-friendly
+  - Father's Day
+  - gift ideas
 ---
-
 Father's Day is a time to show appreciation for all the special things your old man has done for you over the years. So the question to ask yourself is: do you really want to gift dad another tie? Perhaps, this year, think outside the box in the form of eco-friendly Father's Day gifts. This will ensure that you give your pops a truly unique token of your appreciation.
 
 The benefits of also considering a more Earth-friendly gift are vast: less wasteful packaging, less negative impact on the planet, and less accumulation of clutter in the closet. To figure out which eco-friendly Father's Day gifts are best, first decide what kind of dad you have! Does he find peace in listening to music or does he crave the adventure of the wild outdoors? Follow our tips for choosing the perfect gift that won't break the bank or your bond with the planet.
@@ -16,7 +18,7 @@ The benefits of also considering a more Earth-friendly gift are vast: less waste
 
 ## For the Outdoorsy Dad
 
-If your father enjoys camping, then investing in a [solar lantern](https://www.amazon.com/Solar-Camping-LED-Lantern-Flashlight/dp/B016UXQ27K/ref=as%5Fli%5Fbk%5Ftl/?tag=earth911-20&linkId=f44474b64e78b44f594484cd2401dcb3&linkCode=ktl) or [solar phone charger](https://www.mec.ca/en/product/5025-521/Equatorial-Sleeping-Bag-%2B15-%2B22C?f=10+50130+50854+50873+50880) is a great way to reduce his footprint when out in the wild. You can also find [foldable plates and cups](https://www.fozzils.com), [sleeping bags](https://www.bigagnes.com/Products/Detail/Bag/encampment15) made from recycled materials, and a [portable oven](https://www.sunoven.com/product/all-american-sun-oven/) that cooks food using the power of the sun. You can plant a tree in his honor or start a garden project together for a more affordable and long-lasting gift. In addition, schedule a time to enjoy an outdoor activity of his choice. Hiking, dirt biking, fishing, or cross-country skiing are all fun options.
+If your father enjoys camping, then investing in a [solar lantern](https://www.amazon.com/Solar-Camping-LED-Lantern-Flashlight/dp/B016UXQ27K/ref=as%5Fli%5Fbk%5Ftl/?tag=earth911-20&linkId=f44474b64e78b44f594484cd2401dcb3&linkCode=ktl) or [solar phone charger](https://www.mec.ca/en/product/5025-521/Equatorial-Sleeping-Bag-%2B15-%2B22C?f=10+50130+50854+50873+50880) is a great way to reduce his footprint when out in the wild. You can also find [foldable plates and cups](https://www.fozzils.com), [sleeping bags](https://www.bigagnes.com/collections/sleeping-bags) made from recycled materials, and a [portable oven](https://www.sunoven.com/product/all-american-sun-oven/) that cooks food using the power of the sun. You can plant a tree in his honor or start a garden project together for a more affordable and long-lasting gift. In addition, schedule a time to enjoy an outdoor activity of his choice. Hiking, dirt biking, fishing, or cross-country skiing are all fun options.
 
 ## For the Sporty Dad
 
@@ -38,4 +40,4 @@ Whatever way you decide to pamper your pops this Father's Day, be sure to make i
 
 **Katie Medlock** is a writer, mental health counselor, and educator on a quest to make the world a better place. Her writing has appeared on Headspace, Inhabitat, Care2, Ravishly, and Chic Vegan. On her days off, you will find her cooking, catching up on nerdy podcasts, blogging at The Offbeat Herbivore ([https://offbeatherbivore.com](https://offbeatherbivore.com/)), or lounging with her partner and rescue dachshund.
 
-_What eco-friendly Father's Day gifts will you be giving your dad? We'd love to hear how you are spending the day this year. Share below or on Facebook and Twitter._
+*What eco-friendly Father's Day gifts will you be giving your dad? We'd love to hear how you are spending the day this year. Share below or on Facebook and Twitter.*
