@@ -27,7 +27,7 @@ Scented candles are a great way to pamper mum this Mother's Day, so why not gift
 
 ### Bath and Body
 
-Pamper mom with [these](https://www.etsy.com/listing/563408121/?ref=finds_l) vegan and vegetarian friendly bath bombs with a hundred percent ethically sourced ingredients in scents such as rosewood, apple, and violet (New York) or Sweet Orange and Neroli (Seville). The bath bomb gift set features five dream destinations (New York, London, Seville, Berlin, and Capri) and will surely be appreciated by moms who love to — or dream about — travel. Of course, you could [make your own](https://thenerdyfarmwife.com/dandelion-bath-bombs-recipe/) bath bombs for mom if you're the crafty type.
+Pamper mom with these vegan and vegetarian friendly bath bombs with a hundred percent ethically sourced ingredients in scents such as rosewood, apple, and violet (New York) or Sweet Orange and Neroli (Seville). The bath bomb gift set features five dream destinations (New York, London, Seville, Berlin, and Capri) and will surely be appreciated by moms who love to — or dream about — travel. Of course, you could [make your own](https://thenerdyfarmwife.com/dandelion-bath-bombs-recipe/) bath bombs for mom if you're the crafty type.
 
 ### Jewelry
 
