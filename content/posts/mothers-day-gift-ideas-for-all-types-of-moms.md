@@ -23,7 +23,7 @@ Journals and notebooks are the perfect gifts for moms who like to express themse
 
 ### Scented Candles
 
-Scented candles are a great way to pamper mum this Mother's Day, so why not gift her a hand-poured natural beeswax and soy [candle](https://www.etsy.com/listing/511671654/?ref=finds_l) infused with a blend of magnolia, mimosa, and linden blossom, the iconic scents of spring? Or you could give her [this](https://www.etsy.com/listing/593545135/?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=scented+candle&ref=sr_gallery-1-4) gorgeous wild fig and red grape scented soy candle with a personalized message inscribed on its copper lid.
+Scented candles are a great way to pamper mum this Mother's Day, so why not gift her a hand-poured natural beeswax and soy candle infused with a blend of magnolia, mimosa, and linden blossom, the iconic scents of spring? Or you could give her [this](https://www.etsy.com/listing/593545135/?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=scented+candle&ref=sr_gallery-1-4) gorgeous wild fig and red grape scented soy candle with a personalized message inscribed on its copper lid.
 
 ### Bath and Body
 
