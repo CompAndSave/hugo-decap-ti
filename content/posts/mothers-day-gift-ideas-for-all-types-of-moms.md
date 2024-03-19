@@ -31,7 +31,7 @@ Pamper mom with these vegan and vegetarian friendly bath bombs with a hundred pe
 
 ### Jewelry
 
-For the mom who loves jewelry, you can't go wrong with these unusual jewelry choices. The [first set](https://www.etsy.com/listing/560023678/?ref=shop_home_active_7) features an unusual gemstone all the way from Australia — mookaite jasper. The earth-toned set will go well with almost any outfit. Or you could give mom fabulous chandelier earrings that feature hand-strung glass beads. Of course, let's not forget to honor a beloved stepmother with [this](https://www.etsy.com/uk/listing/528334653/step-mum-double-birthstone-charm) fabulous stepmom charm necklace.
+For the mom who loves jewelry, you can't go wrong with these unusual jewelry choices. The first set features an unusual gemstone all the way from Australia — mookaite jasper. The earth-toned set will go well with almost any outfit. Or you could give mom fabulous chandelier earrings that feature hand-strung glass beads. Of course, let's not forget to honor a beloved stepmother with [this](https://www.etsy.com/uk/listing/528334653/step-mum-double-birthstone-charm) fabulous stepmom charm necklace.
 
 ### Home and Hearth
 
