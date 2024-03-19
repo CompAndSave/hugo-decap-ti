@@ -1,13 +1,17 @@
 ---
-title: "How to Plan a Green, Eco-Friendly Wedding"
+title: How to Plan a Green, Eco-Friendly Wedding
 date: 2017-05-23T13:00:24.000Z
-slug: how-to-plan-a-green-eco-friendly-wedding
-description: "How to Plan a Green, Eco-Friendly Wedding"
-featured_image: /blog/images/archive/2017/05/ecofriendlydiamond.jpg
 authors: Awanthi Vardaraj
-tags: [green diy,tips,eco-friendly ink cartridges,Eco-friendly,party]
+slug: how-to-plan-a-green-eco-friendly-wedding
+featured_image: /blog/images/archive/2017/05/ecofriendlydiamond.jpg
+description: How to Plan a Green, Eco-Friendly Wedding
+tags:
+  - green diy
+  - tips
+  - eco-friendly ink cartridges
+  - Eco-friendly
+  - party
 ---
-
 You're getting married! Congratulations! There's so much to think about, plan, do, and organize, and so much to stay on top of. We get that, but here's one more thing to think about: are you planning on having a green, eco-friendly wedding? Because if you're not, there are plenty of reasons why you should.
 
 # Why You Should Have a Green, Eco-Friendly Wedding
@@ -30,7 +34,7 @@ You can either use really nice recycled paper on which your print your own desig
 
 ### The Dress
 
-Of course, the most obvious solution is for you to re-wear a gown, maybe even your mother's. But that's not something that suits us all. Of course, you could work with a seamstress to make her dress more in keeping with your style, but if you wanted to avoid her dress altogether, you have other options. Check out vintage stores, op shops, and consignment stores. There are [websites](https://www.nearlynewlywed.com/collections/dresses) that rent out or sell [pre-owned](https://www.preownedweddingdresses.com/) gowns, so those are an [option](https://www.tradesy.com/) as well.
+Of course, the most obvious solution is for you to re-wear a gown, maybe even your mother's. But that's not something that suits us all. Of course, you could work with a seamstress to make her dress more in keeping with your style, but if you wanted to avoid her dress altogether, you have other options. Check out vintage stores, op shops, and consignment stores. There are [websites](https://www.nearlynewlywed.com/collections/dresses) that rent out or sell [pre-owned](https://www.preownedweddingdresses.com/) gowns, so those are an option as well.
 
 As for the bridal party, it might be a good idea to give them a color (if you have a color scheme in mind) and let them wear their own clothes. Not only will it allow them to show off their unique styles in flattering clothes that they already love and own, it also makes the most sense for a green wedding.
 
@@ -60,4 +64,4 @@ I hope these ideas have been helpful, and I hope you have a wonderful, green, ec
 
 **Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
 
-_Have you ever thought of having an eco-friendly wedding? Or have you been to one before? Let us know what you think below and on Facebook and Twitter._
+*Have you ever thought of having an eco-friendly wedding? Or have you been to one before? Let us know what you think below and on Facebook and Twitter.*
