@@ -30,7 +30,7 @@ Any grill-loving dad would love a set of bamboo BBQ utensil gift set and all the
 
 ## For the Music-Loving Dad
 
-Keep dad in touch with his favorite artists with [reclaimed wood headphones](http://ecowarriorprincess.net/2017/04/5-eco-friendly-headphones-earphones-for-the-music-lover/) or an [eco-friendly iPhone case](http://www.agreeableco.com/best-eco-friendly-iphone-case-environmentally-conscious-sustainable-wood-biodegrable/) that'll keep his contacts and tunes safe. If you're a crafty gifter, you could try your hand at making a [unique present out of vinyl records](http://homesthetics.net/21-diy-recycled-vinyl-projects-perfect-for-any-interior-design/) — anything from clocks to bookends to barstools. To gift a musical experience, take dad to see a local musician you will both enjoy.
+Keep dad in touch with his favorite artists with reclaimed wood headphones or an [eco-friendly iPhone case](http://www.agreeableco.com/best-eco-friendly-iphone-case-environmentally-conscious-sustainable-wood-biodegrable/) that'll keep his contacts and tunes safe. If you're a crafty gifter, you could try your hand at making a [unique present out of vinyl records](http://homesthetics.net/21-diy-recycled-vinyl-projects-perfect-for-any-interior-design/) — anything from clocks to bookends to barstools. To gift a musical experience, take dad to see a local musician you will both enjoy.
 
 ## For the Dad Desperately in Need of a Break
 
