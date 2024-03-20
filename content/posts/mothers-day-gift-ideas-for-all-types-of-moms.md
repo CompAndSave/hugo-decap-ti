@@ -23,15 +23,15 @@ Journals and notebooks are the perfect gifts for moms who like to express themse
 
 ### Scented Candles
 
-Scented candles are a great way to pamper mum this Mother's Day, so why not gift her a hand-poured natural beeswax and soy [candle](https://www.etsy.com/listing/511671654/?ref=finds_l) infused with a blend of magnolia, mimosa, and linden blossom, the iconic scents of spring? Or you could give her [this](https://www.etsy.com/listing/593545135/?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=scented+candle&ref=sr_gallery-1-4) gorgeous wild fig and red grape scented soy candle with a personalized message inscribed on its copper lid.
+Scented candles are a great way to pamper mum this Mother's Day, so why not gift her a hand-poured natural beeswax and soy candle infused with a blend of magnolia, mimosa, and linden blossom, the iconic scents of spring? Or you could give her [this](https://www.etsy.com/listing/593545135/?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=scented+candle&ref=sr_gallery-1-4) gorgeous wild fig and red grape scented soy candle with a personalized message inscribed on its copper lid.
 
 ### Bath and Body
 
-Pamper mom with [these](https://www.etsy.com/listing/563408121/?ref=finds_l) vegan and vegetarian friendly bath bombs with a hundred percent ethically sourced ingredients in scents such as rosewood, apple, and violet (New York) or Sweet Orange and Neroli (Seville). The bath bomb gift set features five dream destinations (New York, London, Seville, Berlin, and Capri) and will surely be appreciated by moms who love to — or dream about — travel. Of course, you could [make your own](https://thenerdyfarmwife.com/dandelion-bath-bombs-recipe/) bath bombs for mom if you're the crafty type.
+Pamper mom with these vegan and vegetarian friendly bath bombs with a hundred percent ethically sourced ingredients in scents such as rosewood, apple, and violet (New York) or Sweet Orange and Neroli (Seville). The bath bomb gift set features five dream destinations (New York, London, Seville, Berlin, and Capri) and will surely be appreciated by moms who love to — or dream about — travel. Of course, you could [make your own](https://thenerdyfarmwife.com/dandelion-bath-bombs-recipe/) bath bombs for mom if you're the crafty type.
 
 ### Jewelry
 
-For the mom who loves jewelry, you can't go wrong with these unusual jewelry choices. The [first set](https://www.etsy.com/listing/560023678/?ref=shop_home_active_7) features an unusual gemstone all the way from Australia — mookaite jasper. The earth-toned set will go well with almost any outfit. Or you could give mom fabulous chandelier earrings that feature hand-strung glass beads. Of course, let's not forget to honor a beloved stepmother with [this](https://www.etsy.com/uk/listing/528334653/step-mum-double-birthstone-charm) fabulous stepmom charm necklace.
+For the mom who loves jewelry, you can't go wrong with these unusual jewelry choices. The first set features an unusual gemstone all the way from Australia — mookaite jasper. The earth-toned set will go well with almost any outfit. Or you could give mom fabulous chandelier earrings that feature hand-strung glass beads. Of course, let's not forget to honor a beloved stepmother with [this](https://www.etsy.com/uk/listing/528334653/step-mum-double-birthstone-charm) fabulous stepmom charm necklace.
 
 ### Home and Hearth
 
