@@ -40,7 +40,7 @@ This gorgeous [forest altar shrine](https://www.etsy.com/in-en/listing/560291757
 
 ### Vegan Lipstick
 
-This [all-natural lipstick](https://www.etsy.com/listing/246201321/?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=vegan&ref=sr_gallery_12) comes in all sorts of delicious colors like butterscotch, berry sweet, and soft coral (to name a few). It is 100% vegan and hydrating, and long-lasting too. Naturally pigmented, these lipsticks are sure to nourish lips and keep them soft. As they say of their own product, "this is the natural good-for-you kind of makeup, perfect for those who want to detoxify their makeup bags."
+This all-natural lipstick comes in all sorts of delicious colors like butterscotch, berry sweet, and soft coral (to name a few). It is 100% vegan and hydrating, and long-lasting too. Naturally pigmented, these lipsticks are sure to nourish lips and keep them soft. As they say of their own product, "this is the natural good-for-you kind of makeup, perfect for those who want to detoxify their makeup bags."
 
 ### Vegan Chocolate
 
