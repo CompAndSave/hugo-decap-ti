@@ -1,13 +1,14 @@
 ---
-title: "Make Oven-Free Meals Perfect for Summer"
+title: Make Oven-Free Meals Perfect for Summer
 date: 2017-08-29T13:00:51.000Z
-slug: make-oven-free-meals-for-summer
-description: "Make Oven-Free Meals Perfect for Summer"
-featured_image: /blog/images/archive/2017/08/pastasalad.jpg
 authors: Awanthi Vardaraj
-tags: [healthy food,summer]
+slug: make-oven-free-meals-for-summer
+featured_image: /blog/images/archive/2017/08/pastasalad.jpg
+description: Make Oven-Free Meals Perfect for Summer
+tags:
+  - healthy food
+  - summer
 ---
-
 Don't get me wrong; I love to cook, and as an avid baker, I love my oven. However, in the hot and humid summers, turning on my oven or being stuck beside the stove as the temperature climbs to what feels like volcanic heat inside my kitchen is not my favorite thing in the world. I already wrote [this post](https://www.tomatoink.com/blog/posts/meals-without-the-oven.html) detailing breakfast and lunch oven-free meals for hot summer days, so now it's time to focus on the main meal: dinner.
 
 # Dinner Recipes without the Oven
@@ -30,10 +31,10 @@ Another great idea for a recurring summer dinner is a veggie and dip platter. My
 
 Pasta dishes are also great for summer nights because they are so easy to prepare and are ready in minutes. Why not try [this](https://www.melskitchencafe.com/penne-with-roasted-asparagus-and-balsamic-butter/) flavorful Penne with Roasted Asparagus and Balsamic Butter? [This](https://www.savorynothings.com/fettuccine-with-lemon-ricotta-and-zucchini/) Fettuccine with Lemon Ricotta and Zucchini goes from your kitchen to the table in no time at all, which makes it another perfect summer recipe. Not to mention it is absolutely loaded with all of the good things. Or you could try [this](http://www.pumpkinnspice.com/2015/05/13/tortellini-with-mustard-cream-sauce/) Tortellini with Mustard Cream Sauce, which is an easy and flavorsome twist on a classic (I use vegetable broth in mine). Of course, you could also just as easily opt for [these](https://www.mysequinedlife.com/spicy-sesame-almond-butter-noodles/) spicy and delicious Sesame Almond Butter Noodles. Who needs take out when you could make this?
 
-It's not difficult to find a million (okay, maybe not a million, but lots) oven-free recipes out there if you're looking to cut down or completely cut out your oven and stove time this summer. Use existing recipes as springboards to spur your own imagination and make meal planning and preparation fun, even in the summer. For example, how about making a Grilled Veggie [Pizza](https://flavorthemoments.com/grilled-veggie-flatbread-pizza-pesto/) on a Flatbread? Or maybe a BBQ [Chickpea](http://jessfuel.com/2015/05/24/bbq-chickpea-bowls-with-avocado-cream/) Bowl with Avocado Cream is more your thing? Or how about the 31 options outlined [here](https://www.purewow.com/food/no-oven-summer-dinners)?
+It's not difficult to find a million (okay, maybe not a million, but lots) oven-free recipes out there if you're looking to cut down or completely cut out your oven and stove time this summer. Use existing recipes as springboards to spur your own imagination and make meal planning and preparation fun, even in the summer. For example, how about making a Grilled Veggie Pizza on a Flatbread? Or maybe a BBQ [Chickpea](http://jessfuel.com/2015/05/24/bbq-chickpea-bowls-with-avocado-cream/) Bowl with Avocado Cream is more your thing? Or how about the 31 options outlined [here](https://www.purewow.com/food/no-oven-summer-dinners)?
 
 See what I mean?
 
 **Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
 
-_Which of these easy oven-free meals will you make? Share your summer recipes below or on Facebook and Twitter._
+*Which of these easy oven-free meals will you make? Share your summer recipes below or on Facebook and Twitter.*
