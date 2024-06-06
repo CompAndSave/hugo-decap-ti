@@ -23,7 +23,7 @@ Journals and notebooks are the perfect gifts for moms who like to express themse
 
 ### Scented Candles
 
-Scented candles are a great way to pamper mum this Mother's Day, so why not gift her a hand-poured natural beeswax and soy candle infused with a blend of magnolia, mimosa, and linden blossom, the iconic scents of spring? Or you could give her [this](https://www.etsy.com/listing/593545135/?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=scented+candle&ref=sr_gallery-1-4) gorgeous wild fig and red grape scented soy candle with a personalized message inscribed on its copper lid.
+Scented candles are a great way to pamper mum this Mother's Day, so why not gift her a hand-poured natural beeswax and soy candle infused with a blend of magnolia, mimosa, and linden blossom, the iconic scents of spring? Or you could give her this gorgeous wild fig and red grape scented soy candle with a personalized message inscribed on its copper lid.
 
 ### Bath and Body
 
@@ -35,7 +35,7 @@ For the mom who loves jewelry, you can't go wrong with these unusual jewelry cho
 
 ### Home and Hearth
 
-There is no dearth of Mother's Day gift suggestions for the house proud mother. For instance, which mom could resist [this](https://www.etsy.com/listing/519472683/?ref=finds_l) delectable bath caddy, perfect for pampering? For the green-thumbed mom, no gift could say you love her better than [this](https://www.amazon.com/Scuddles-Heavy-Duty-Gardening-Tool/dp/B01H4LZR1E/ref=dp%5Fob%5Ftitle%5Fgarden) garden storage tote bag organizer to hold all her tools and her gardening gloves. Or how about [this](https://www.etsy.com/listing/280837380/fathers-day-gift-bee-hotel-bee-house?ref=finds_l) bee house insect habitat, ideal for urban gardens? [These](https://www.etsy.com/listing/286181133/?ref=finds_l) hanging planters are great for more compact gardens or balcony gardens. Of course, once all the gardening is done mom can curl up on the sofa and lean against [this](https://www.etsy.com/uk/listing/534495976/personalised-mother-superior-cushion?ref=finds_l) cushion while nursing [this](https://www.etsy.com/uk/listing/269363616/personalised-mothers-day-mug?ref=finds_l) cup of very strong tea.
+There is no dearth of Mother's Day gift suggestions for the house proud mother. For instance, which mom could resist this delectable bath caddy, perfect for pampering? For the green-thumbed mom, no gift could say you love her better than [this](https://www.amazon.com/Scuddles-Heavy-Duty-Gardening-Tool/dp/B01H4LZR1E/ref=dp%5Fob%5Ftitle%5Fgarden) garden storage tote bag organizer to hold all her tools and her gardening gloves. Or how about [this](https://www.etsy.com/listing/280837380/mothers-day-gift-bee-hotel-bee-house?ref=finds_l) bee house insect habitat, ideal for urban gardens? These hanging planters are great for more compact gardens or balcony gardens. Of course, once all the gardening is done mom can curl up on the sofa and lean against [this](https://www.etsy.com/uk/listing/534495976/personalised-mother-superior-cushion?ref=finds_l) cushion while nursing [this](https://www.etsy.com/uk/listing/269363616/personalised-mothers-day-mug?ref=finds_l) cup of very strong tea.
 
 *Now that you have lots of ideas of what to get mom this Mother's Day, what's it going to be? I wish all the mothers all over the world a very happy* *—* *and a very special* *—* *Mother's Day this year!*
 
