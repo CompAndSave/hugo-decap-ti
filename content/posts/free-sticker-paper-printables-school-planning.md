@@ -1,13 +1,16 @@
 ---
-title: "Free Sticker Paper Printables for School, Planning, and More"
+title: Free Sticker Paper Printables for School, Planning, and More
 date: 2018-02-08T14:00:55.000Z
-slug: free-sticker-paper-printables-school-planning
-description: "Free Sticker Paper Printables for School, Planning, and More"
-featured_image: /blog/images/archive/2018/02/watercount_stickers.jpg
 authors: Katy Smith
-tags: [DIY,printables,organization,Sticker paper]
+slug: free-sticker-paper-printables-school-planning
+featured_image: /blog/images/archive/2018/02/watercount_stickers.jpg
+description: Free Sticker Paper Printables for School, Planning, and More
+tags:
+  - DIY
+  - printables
+  - organization
+  - Sticker paper
 ---
-
 If you've been searching for free printables, you've come to the right place! We put together some sticker paper [printables](https://www.tomatoink.com) just for you. You don't have to be an awesome crafter or DIY expert to enjoy these printables. And guess what—they are completely free and work perfectly with our [sticker paper](https://www.tomatoink.com/paper/sticker-paper).
 
 # Here's Why You Should Use Sticker Paper Printables
@@ -21,7 +24,7 @@ If you've been searching for free printables, you've come to the right place! We
 
 ### Water Count Sticker Paper Printables
 
-Do you get to the end of your day and realize how parched your mouth feels? Here's how to fix that. First, take a large [BPA-free eco-friendly water bottle](https://www.tomatoink.com/blog/posts/12-tips-working-out-in-the-summer.html) to work with you and keep close by on your desk/workstation. Next, you might get better at drinking throughout the day if you had reminders on your water bottle. Our water count printable stickers are perfect for keeping track of your water consumption. Begin with the "Filled" sticker and end with the "Refill" sticker. Don't forget that most health professionals [recommend](https://www.webmd.com/a-to-z-guides/tc/drinking-enough-water-topic-overview#1) that you drink about 64 ounces of water per day.
+Do you get to the end of your day and realize how parched your mouth feels? Here's how to fix that. First, take a large [BPA-free eco-friendly water bottle](https://www.tomatoink.com/blog/posts/12-tips-working-out-in-the-summer.html) to work with you and keep close by on your desk/workstation. Next, you might get better at drinking throughout the day if you had reminders on your water bottle. Our water count printable stickers are perfect for keeping track of your water consumption. Begin with the "Filled" sticker and end with the "Refill" sticker. Don't forget that most health professionals recommend that you drink about 64 ounces of water per day.
 
 ### School Sticker Paper Printables
 
@@ -35,4 +38,4 @@ For anyone even slightly disorganized, do yourself a favor and get a planner. Th
 
 While we may be suffering from the [winter blues](https://www.tomatoink.com/blog/posts/natural-remedies-beat-winter-blues.html) now that the holiday season is over, we can look forward to a cheery Christmas later this year with our assorted Christmas stickers and gift tags. Print the festive sticker printables, and then use them for gift wrapping and cards.
 
-_We hope you have fun using the [free printables](https://www.tomatoink.com)! Do you have other ideas for sticker paper printables that you would like us to create next? Let us know in the comments below._
+*We hope you have fun using the [free printables](https://www.tomatoink.com)! Do you have other ideas for sticker paper printables that you would like us to create next? Let us know in the comments below.*
