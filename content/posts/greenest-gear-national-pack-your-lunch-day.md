@@ -24,7 +24,7 @@ The way you pack your lunch can be a massive, environmentally friendly improveme
 
 Step one to improving how you manage your Diet Coke habit is making sure each can ends up in the recycling bin. That goes for water bottles, too! But, it is also worth a critical look at just how much of these products you buy each month. Purchasing boxes of soda and giant packs of bottled water is still creating a demand to make new products that require recycling. There is a better way.
 
-If you are an avid soda-drinker, try a kitchen device that creates your favorite carbonated beverages at home, like the [Soda Stream](https://www.sodastreamusa.com). The bottles will last for long stretches without bringing new plastic or aluminum into your household.
+If you are an avid soda-drinker, try a kitchen device that creates your favorite carbonated beverages at home, like the Soda Stream. The bottles will last for long stretches without bringing new plastic or aluminum into your household.
 
 If water is your jam, filter your own at home. Or consider investing in a giant jug for reverse osmosis water at the local health food store. Then use reusable bottles to pack your water for work. You can also lobby your workplace to invest in a water filtration system for all-day hydration.
 
