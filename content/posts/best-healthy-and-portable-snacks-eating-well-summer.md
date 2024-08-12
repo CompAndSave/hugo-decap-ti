@@ -1,13 +1,15 @@
 ---
-title: "The Best Healthy and Portable Snacks for Eating Well This Summer"
+title: The Best Healthy and Portable Snacks for Eating Well This Summer
 date: 2017-06-20T13:00:31.000Z
-slug: best-healthy-and-portable-snacks-eating-well-summer
-description: "The Best Healthy and Portable Snacks for Eating Well This Summer"
-featured_image: /blog/images/archive/2017/06/banana-bread.jpg
 authors: Awanthi Vardaraj
-tags: [healthy food,summer,Homemade]
+slug: best-healthy-and-portable-snacks-eating-well-summer
+featured_image: /blog/images/archive/2017/06/banana-bread.jpg
+description: The Best Healthy and Portable Snacks for Eating Well This Summer
+tags:
+  - healthy food
+  - summer
+  - Homemade
 ---
-
 Summer is here, which means that it is officially time for long road trips, picnics, and entire days spent lounging at the beach. Of course, that means that it's officially snack time. But not just any snacks – healthy and portable snacks that can go without refrigeration for hours in the summer heat.
 
 I know what you're going to say. It's probably something along the lines of how it isn't possible to do healthy and portable snacks that are also delicious and flavorful. You're going to tell me that healthy snacks typically spoil in the heat, or need so many additional ingredients that they will all end up weighing your backpack down like a ton of bricks.
@@ -20,11 +22,11 @@ Snacks that are both healthy and easily portable, but don't skimp on taste and f
 
 ## Fruit
 
-Fruits make a great healthy snack whether they are fresh and whole, dried, or cut and served with a dip. Dried bananas are utterly delicious and are one of my favorites. Dehydrated strawberries mixed in with strawberry yogurt is one of my not-so-guilty pleasures. You can also slice apples (brush them with lemon juice to stop them from going brown) into rounds and sandwich two rounds with some peanut butter, topped with some granola or chopped nuts of your choice for added crunch (I like pecans). Try making [this](http://talesofakitchen.com/breakfast/triple-layered-breakfast-apple-sandwich/) triple-layered apple sandwich for a decadent treat! You can also freeze grapes and cart them about with you in a [snack box](https://www.tomatoink.com/blog/posts/greenest-gear-national-pack-your-lunch-day.html); they will slowly defrost through the day and will be a cold and refreshing snack.
+Fruits make a great healthy snack whether they are fresh and whole, dried, or cut and served with a dip. Dried bananas are utterly delicious and are one of my favorites. Dehydrated strawberries mixed in with strawberry yogurt is one of my not-so-guilty pleasures. You can also slice apples (brush them with lemon juice to stop them from going brown) into rounds and sandwich two rounds with some peanut butter, topped with some granola or chopped nuts of your choice for added crunch (I like pecans). Try making this triple-layered apple sandwich for a decadent treat! You can also freeze grapes and cart them about with you in a [snack box](https://www.tomatoink.com/blog/posts/greenest-gear-national-pack-your-lunch-day.html); they will slowly defrost through the day and will be a cold and refreshing snack.
 
 ## Trail Mix and Alternatives
 
-Trail mix is always a delicious option (it just is the most perfect snack ever). There are also some exciting alternatives available. You can [make your own](http://86lemons.com/sweet-spicy-nut-mix/) sweet and spicy nut mix (vegan), or you can opt for a pre-made classic, such as [this one](http://traderjoes.com/digin/post/just-a-handful-of-rainbows-end-trail-mix) from Trader Joe's. Other delicious crunchy options are [these](http://www.kimshealthyeats.com/roasted-chickpeas/) roasted chickpeas that are both salty and satisfying (not to mention ridiculously easy to make), [these](http://fedandfit.com/2014/10/30/perfect-homemade-pumpkin-seeds-in-3-flavors/) flavored sunflower seeds, and [this](http://chefmom.sheknows.com/articles/972059/roasted-sriracha-edamame) sriracha roasted edamame recipe that is everything — garlicky, salty, _and_ spicy! Also, you haven't lived until you try [this](https://thevietvegan.com/carrot-cake-granola/) amazing carrot cake granola.
+Trail mix is always a delicious option (it just is the most perfect snack ever). There are also some exciting alternatives available. You can [make your own](http://86lemons.com/sweet-spicy-nut-mix/) sweet and spicy nut mix (vegan), or you can opt for a pre-made classic, such as [this one](http://traderjoes.com/digin/post/just-a-handful-of-rainbows-end-trail-mix) from Trader Joe's. Other delicious crunchy options are [these](http://www.kimshealthyeats.com/roasted-chickpeas/) roasted chickpeas that are both salty and satisfying (not to mention ridiculously easy to make), [these](http://fedandfit.com/2014/10/30/perfect-homemade-pumpkin-seeds-in-3-flavors/) flavored sunflower seeds, and [this](http://chefmom.sheknows.com/articles/972059/roasted-sriracha-edamame) sriracha roasted edamame recipe that is everything — garlicky, salty, *and* spicy! Also, you haven't lived until you try [this](https://thevietvegan.com/carrot-cake-granola/) amazing carrot cake granola.
 
 ## Seaweed
 
@@ -46,4 +48,4 @@ I hope that this post has inspired you a little. I'd love to hear what you're pa
 
 **Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
 
-_What healthy and portable snacks are you making this summer? Share your favorites below or on Facebook and Twitter._
+*What healthy and portable snacks are you making this summer? Share your favorites below or on Facebook and Twitter.*
