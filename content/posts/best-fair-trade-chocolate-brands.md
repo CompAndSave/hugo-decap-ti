@@ -24,7 +24,7 @@ So how can you help? Don't worry; you don't have to stop eating chocolate, but y
 
 Sounds good to us.
 
-Try their Organic Dark [Chocolate](http://shop.equalexchange.coop/chocolate/chocolate-bars/organic-dark-chocolate-caramel-sea-salt.html) Caramel Crunch with Sea Salt. Seriously. You can thank me later.
+Try their Organic Dark Chocolate Caramel Crunch with Sea Salt. Seriously. You can thank me later.
 
 ### 2. Theo Chocolate
 
