@@ -1,13 +1,15 @@
 ---
-title: "Top 40 Healthy Recipes for Winter Fruits and Vegetables"
+title: Top 40 Healthy Recipes for Winter Fruits and Vegetables
 date: 2018-01-09T14:00:40.000Z
-slug: top-40-healthy-recipes-winter-fruits-and-vegetables
-description: "Top 40 Healthy Recipes for Winter Fruits and Vegetables"
-featured_image: /blog/images/archive/2018/01/grapefruitsmoothie.jpg
 authors: Katie Medlock
-tags: [healthy food,recipes,seasonal]
+slug: top-40-healthy-recipes-winter-fruits-and-vegetables
+featured_image: /blog/images/archive/2018/01/grapefruitsmoothie.jpg
+description: Top 40 Healthy Recipes for Winter Fruits and Vegetables
+tags:
+  - healthy food
+  - recipes
+  - seasonal
 ---
-
 A new year is upon us and, for many, that means resolutions to become healthier, happier, and even greener in our everyday living. Eating more healthy foods is a [top three](http://www.telegraph.co.uk/health-fitness/body/common-new-years-resolutions-stick/) "new year, new you" goal. It is no secret, however, that eating fresh foods in the winter time can be a challenge, especially winter fruits and vegetables. But isn't taking on new challenges what New Year's resolutions are all about?
 
 If you find yourself reaching for the same old fruits and veggies at the grocery store every week, you are not alone. In the United States, [only 12 percent](https://www.today.com/series/one-small-thing/americans-don-t-eat-enough-fruits-vegetables-cdc-finds-t118925) of people actually eat the recommended 1.5-2 cups of fruits each day and only 9 percent eat the advised 2-3 cups of veggies. Eating the same produce over and over again? It's no wonder those numbers are so dismal — how boring! Break out of your usual mealtime routine and try something new this year. Here are some seasonal fruits and veggies worth featuring in your family meals.
@@ -89,11 +91,11 @@ These root veggies may look like carrots who've lost their color, but parsnips a
 Get your Vitamin A fix with these delicious gems that can be roasted, mashed, sliced, fried, spiralized, or baked. Branch out into cooking with purple sweet potatoes to make your plate even more vibrant.
 
 * [Maple Glazed Sweet Potatoes](https://detoxinista.com/maple-glazed-sweet-potatoes-vegan/)
-* [Black Bean and Sweet Potato Chili](https://www.thespruce.com/black-bean-vegetarian-chili-sweet-potatoes-3377973)
+* Black Bean and Sweet Potato Chili
 * [Sweet Potato Pecan Pie](http://makingthymeforhealth.com/vegan-sweet-potato-pecan-pie/)
 * [Sweet Potato Dal](https://www.tastingtable.com/cook/recipes/vegan-sweet-potato-dal-recipe)
 * [Loaded Sweet Potato Nachos](https://www.emilieeats.com/loaded-vegan-sweet-potato-nachos/)
 
-_Which of these recipes will you try? What are your favorite winter fruits and vegetables? Let us know below or on Facebook and Twitter._
+*Which of these recipes will you try? What are your favorite winter fruits and vegetables? Let us know below or on Facebook and Twitter.*
 
 **Katie Medlock** is a writer, mental health counselor, and educator on a quest to make the world a better place. Her writing has appeared on Headspace, Inhabitat, Care2, Ravishly, and Chic Vegan. On her days off, you will find her cooking, catching up on nerdy podcasts, blogging at The Offbeat Herbivore ([https://offbeatherbivore.com](https://offbeatherbivore.com/)), or lounging with her partner and rescue dachshund.
