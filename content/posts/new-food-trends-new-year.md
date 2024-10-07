@@ -1,14 +1,15 @@
 ---
-title: "New Food Trends for the New Year"
+title: New Food Trends for the New Year
 date: 2018-01-30T14:00:23.000Z
-slug: new-food-trends-new-year
-description: "New Food Trends for the New Year"
-featured_image: /blog/images/archive/2017/12/foodtrends2018.jpg
 authors: Awanthi Vardaraj
-tags: [food,healthy food]
+slug: new-food-trends-new-year
+featured_image: /blog/images/archive/2017/12/foodtrends2018.jpg
+description: New Food Trends for the New Year
+tags:
+  - food
+  - healthy food
 ---
-
-It's a brand new year, which means a number of things. New expectations, new resolutions, new [color of the year](http://people.com/home/sherwin-williams-2018-color-of-the-year-oceanside/), and, of course, new food trends. In 2017 we were obsessed with activated charcoal, bugs as snacks (I am so not kidding), vegan burgers (still an obsession in 2018, I'm pleased to note), local distilleries, and zero-waste cooking. Now with the release of 2018's hot new food trends by Whole Foods and by the Specialty Foods Association, it's clear to me that some of the trends on point this year are a continuation of trends from years past, although I am predicting that some are likely to stop being trends and start becoming mainstays.
+It's a brand new year, which means a number of things. New expectations, new resolutions, new color of the year, and, of course, new food trends. In 2017 we were obsessed with activated charcoal, bugs as snacks (I am so not kidding), vegan burgers (still an obsession in 2018, I'm pleased to note), local distilleries, and zero-waste cooking. Now with the release of 2018's hot new food trends by Whole Foods and by the Specialty Foods Association, it's clear to me that some of the trends on point this year are a continuation of trends from years past, although I am predicting that some are likely to stop being trends and start becoming mainstays.
 
 This year's food trends are exciting because there are more flavors on our plates than ever before. We're also embracing things like mushrooms in drinks and superfoods to make us glow from the inside out. Besides all of this, veggie burgers and plant-based foods continue being trends this year, which makes me hopeful that soon they'll become the norm. Without further ado, here's a list of the latest food trends.
 
@@ -32,7 +33,7 @@ Powdered mushrooms are going to be featuring in things we haven't previously ass
 
 ### Natural Food Coloring
 
-This is something that's been a particular passion for years, so it's great to see it featuring as a 2018 trend. My hope is that it becomes less trendy and more the norm as the year goes on. Natural food coloring will be replacing artificial food coloring, which comes with a laundry list of issues and has been associated with exacerbating conditions like ADHD in children for years. Natural food colors rely on colors found in nature, so although you may not have blue drinks you _will_ have peace of mind.
+This is something that's been a particular passion for years, so it's great to see it featuring as a 2018 trend. My hope is that it becomes less trendy and more the norm as the year goes on. Natural food coloring will be replacing artificial food coloring, which comes with a laundry list of issues and has been associated with exacerbating conditions like ADHD in children for years. Natural food colors rely on colors found in nature, so although you may not have blue drinks you *will* have peace of mind.
 
 ### Vegan Technology
 
