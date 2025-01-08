@@ -11,7 +11,7 @@ tags:
 ---
 Mother's Day is just around the corner, and it's time to start thinking about great gifts for mom to show her how much you appreciate her. If you've already got great Mother's Day gift ideas that will celebrate your love for her, then this day should be a breeze. But all too often we get stuck in a morass when it comes to gift giving, which is just what I hope to avoid with my list of great gifts for mom. If you're stuck for an idea as to what to get her, I hope this lovingly curated list will unstick you!
 
-# Mother's Day Gift List
+## Mother's Day Gift List
 
 ### The Perfect Cup
 

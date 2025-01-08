@@ -19,7 +19,7 @@ Parents, kids, and teachers don't often connect back-to-school items with being 
 
 Reducing, reusing, and recycling could save you time and money too, or it can help someone in need! So when you look in your kids' closets and read over those class item lists this year, think about how you can make "back-to-school" more "economical-and-eco-friendly school" too.
 
-# Go Back to School the Kind, Eco-Friendly Way
+## Go Back to School the Kind, Eco-Friendly Way
 
 ## Environmentally Friendly School Supplies
 

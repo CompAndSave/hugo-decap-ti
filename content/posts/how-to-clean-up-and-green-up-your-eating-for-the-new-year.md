@@ -12,7 +12,7 @@ The chill of the winter air, the comfort of staying in, and the allure of rich h
 
 When preparing for a new year, many people tend to put their eating patterns under the microscope and develop "resolutions" to do better. Sometimes, however, resolutions are treated like diets and the habits do not stick. Instead of a fleeting fix, consider incremental improvements to your daily routine. And, in lieu of focusing on just one shortsighted goal, like losing weight, think about making long-lasting changes for your health — and your environmental impact.
 
-# **Is Eating "Clean" Really All That Great?**
+## **Is Eating "Clean" Really All That Great?**
 
 Hopping on the "clean eating" trend can mean different things for different folks. For some, choosing whole foods over processed fare may improve digestion issues. For others, cutting back on packaged foods helps with endurance at the gym. Whatever your reason for pursuing a cleaner diet, you will probably better off including more fresh, whole foods in your daily meals.
 
@@ -20,7 +20,7 @@ According to the [Centers for Disease Control](https://www.cdc.gov/mmwr/preview/
 
 Generally speaking, "clean eating" refers to replacing processed convenience foods with fresh, whole, and often organic fruits, vegetables, grains, and sometimes meats. This means cooking from scratch more often, scoping out the bulk bins, and getting more acquainted with your kitchen tools. Yet, eating "clean" is not the only consideration for those looking to improve their diets — there is also eating "green."
 
-# **How Big Is Your Food Footprint?**
+## **How Big Is Your Food Footprint?**
 
 Take one peek at someone who is striving toward being "zero waste," and we will instantly recognize how our own habits are hurting the planet. How often do we really think about how much waste we produce? The convenience of throw-away packaging and unseen landfills tends to eliminate our worries — but not our impact.
 
@@ -47,7 +47,7 @@ Many whole foods can be purchased packaging-free, making them fast favorites for
 
 Many stores will let you weigh your glass jars before heading to the bulk aisle, so you can just take the products you want with you — not the unwanted plastic. Also be on the lookout for foods that are cheaper in the produce aisle vs. frozen foods. Bananas and other fruit can be easily washed, chopped, and frozen without buying the packaged variety.
 
-# **Other Ways to Lower Your Food Footprint**
+## **Other Ways to Lower Your Food Footprint**
 
 * **Invest more time in learning kitchen techniques.** [Bulk cook](http://www.wfcerie.coop/pdf/brochures/Bulk%5FCooking%5FGuide.pdf) beans and grains in advance (they can be easily frozen). Try your hand at making your own condiments at home. Bake your own breads. What you spend in a little extra time will add up to awesome savings in budget and environmental impact.
 * **Research your city's recycling standards.** If you don't have curbside recycling pick-up, be sure to include a drop-off day into your weekly or monthly routine. The plastic, paper, glass, and aluminum you do acquire throughout the month should not end up in the trash.
@@ -55,7 +55,7 @@ Many stores will let you weigh your glass jars before heading to the bulk aisle,
 * **Look into composting your food scraps.** Some food scraps are great for infusing a flavorful vegetable stock, but what do you do with them afterward? If you have the space, consider a backyard compost corner or a small, [apartment-sized setup](http://www.ecowatch.com/how-to-compost-in-your-apartment-1881838055.html). Local farms also love when residents bring their scraps or compost so they can nourish next year's harvest.
 * **Plan ahead for a few meals each week.** When you know what you are going to eat — and how much of it — you will most definitely find that your family ends up wasting less food. Also, you will save yourself from having to clean out icky, rotting veggies from the back of your fridge.
 
-# **Simple, Whole Food Recipes to Try**
+## **Simple, Whole Food Recipes to Try**
 
 **Breakfast.** [Overnight oats](http://ohsheglows.com/2015/07/22/vegan-overnight-oats/), avocado toast, and savory breakfast cereals are great ways to start the day off with a boost of fiber. For those with a sweet tooth, whip up some [homemade granola](http://thepioneerwoman.com/food-and-friends/how-to-make-magnificent-granola/) to enjoy with a splash of almond milk or pile a bunch of fresh (or frozen) fruit in a blender with a handful of spinach for a vitamin-packed green breakfast smoothie.
 

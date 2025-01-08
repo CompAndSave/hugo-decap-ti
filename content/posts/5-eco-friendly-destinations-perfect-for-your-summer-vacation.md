@@ -14,7 +14,7 @@ However, there are certain facts about tourism that we should pay attention to w
 
 Fortunately, there are environmentally friendly travel solutions that we can live with. No, it doesn't mean that we have to stay at home! As more and more families look for eco-friendly destinations, the tourism industry has scrambled to provide what people are seeking. It's true that a lot of places have a long way to go. While they're figuring things out, give these eco-friendly travel destinations a chance instead.
 
-# Eco-Friendly Destinations for Your Next Summer Vacation
+## Eco-Friendly Destinations for Your Next Summer Vacation
 
 ## Canyon of the Eagles
 

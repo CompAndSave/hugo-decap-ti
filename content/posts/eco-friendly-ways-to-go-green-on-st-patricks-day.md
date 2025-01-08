@@ -10,7 +10,7 @@ tags: [Eco-friendly,green diy,healthy hobbies,healthy food]
 
 Considering wearing green for the upcoming holiday? That's nice and festive, but there are other ways to be green on St. Patrick's Day. Why not view today as an opportunity to jump-start some new habits that will make the planet even greener, alongside your outfit? Embrace all of what green can be with these tips!
 
-# Go Green on St. Patrick's Day
+## Go Green on St. Patrick's Day
 
 ### Food Ideas
 

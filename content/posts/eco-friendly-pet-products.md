@@ -13,7 +13,7 @@ Do you keep your home and property safe for your four-legged family members? Do 
 
 Beyond the well-known chocolate bar, many of the items we use around our homes are toxic to our pets. It turns out that many products that are made specifically for pets may also contain ingredients that could harm them. Here are some tips for which eco-friendly pet products to use and how to keep your pet safer from toxins.
 
-# Use These Eco-Friendly Pet Products to Keep Your Pet Safe
+## Use These Eco-Friendly Pet Products to Keep Your Pet Safe
 
 ## **Outdoors**
 

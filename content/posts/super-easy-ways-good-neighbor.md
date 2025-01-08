@@ -16,7 +16,7 @@ September 28 is National Good Neighbor Day. I bet you didn't know there was such
 
 Building and maintaining a sense of community is important, perhaps today more than ever before. In the spirit of National Good Neighbor Day, here are some ways to show appreciation for _your_ neighbors.
 
-# 9 Easy Ways to be a Good Neighbor
+## 9 Easy Ways to be a Good Neighbor
 
 1. Host a get-together so new neighbors can meet everyone, or just to catch up if it has been a while.
 2. If you have a lawn mower, offer to mow a lawn for a neighbor. Or if you live in a climate with colder winters, offer to shovel snow for a neighbor, particularly one who may elderly.

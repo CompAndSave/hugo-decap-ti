@@ -18,7 +18,7 @@ A hundred cups of living gold!"\
 
 Spring has sprung so it's time to start thinking about your spring garden. (Also cleaning out corners… But if you want cleaning advice, I suggest you read my piece about [natural cleaning solutions](https://www.tomatoink.com/blog/posts/green-cleaning-your-home.html). And a happy spring cleaning to you!) If you're a novice gardener, you may appreciate my piece here more than a seasoned pro. Even if you're a seasoned pro, read along; I might just say something you haven't thought of before (or failing that, I could, at the very least, amuse you).
 
-# Here's How Your Spring Garden Will Thrive
+## Here's How Your Spring Garden Will Thrive
 
 ### Base Your Planting on Geographic Location
 

@@ -10,7 +10,7 @@ tags: [Eco-friendly,Christmas Decorations,gift ideas,green diy]
 
 In [Part I](https://www.tomatoink.com/blog/posts/holiday-shopping-leads-to-debt-pollution-discontent.html) of our guide to a green Christmas we discussed why to reduce waste and consider giving gifts of experiences rather than things. But the question many of us are left with after reading articles like this isn't why, but _how?_
 
-# Ideas for a Green Christmas
+## Ideas for a Green Christmas
 
 How do we continue to create a joyous holiday season without destroying our budgets or the environment? Here are some tried-and-tested ways and green gifts to create a simpler, less wasteful, and _happier_ Christmas.
 

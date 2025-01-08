@@ -14,7 +14,7 @@ A lot has changed since those good ole days. For instance, you now know that San
 
 Don't worry—there _is_ a happy ending to this Christmas story! But first, let's dig into why Christmas gifts can be so problematic.
 
-# The Excess of Holiday Shopping
+## The Excess of Holiday Shopping
 
 Americans spent an estimated total of [$830 billion](https://www.statista.com/topics/991/us-christmas-season/) on Christmas gifts in 2015, a little over $800 each. That's a hefty chunk of change! We don't just have this cash lying around, either. Many of us end up going into debt to cover the costs of a picture-perfect holiday, buying decorations, cards, and, yes, gifts.
 
@@ -24,7 +24,7 @@ It's not just our finances that take a hit with this holiday shopping spree. In 
 
 The toll of this excess isn't entirely surprising, especially for those of us with children. Christmas morning with kids usually involves blearily sipping coffee while gazing in dismay at the piles of ripped wrapping paper and toy packaging that have swallowed the living room. Despite the uneasy feeling of excess that each year's Christmas carnage inspires, it can still feel almost impossible to find an alternative.
 
-# The Psychology behind a Waste-Free Holiday
+## The Psychology behind a Waste-Free Holiday
 
 Skipping the gifts altogether seems just a little too "Grinchy" for even the most die-hard environmentalists. The entirety of modern Christmas celebrations is centered on exchanging gifts. We've been sold for years and happily bought into the concept of gifts bringing joy to our loved ones. Surprisingly, however, science is beginning to prove that getting new things doesn't make us as happy as we think it does.
 

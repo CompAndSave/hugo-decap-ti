@@ -16,7 +16,7 @@ Besides all of this, ski resorts impact the earth negatively in an additional wa
 
 Enter the eco-friendly winter vacation. It is possible — as you saw with the summer vacations post — to visit places that choose to minimize their impact on the planet by making the right choices regarding preservation, using natural resources to power their resorts, and even going toward plant-based options for their restaurants, often growing their own produce in organic gardens close to — or located in — their resorts. Here are five destinations that deserve your attention this winter.
 
-# 5 Eco-Friendly Winter Vacations
+## 5 Eco-Friendly Winter Vacations
 
 ### 1\. The Stanford Inn By The Sea
 

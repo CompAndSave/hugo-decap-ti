@@ -14,7 +14,7 @@ tags:
 
 National Chocolate Cake Day is almost upon us, and now sounds like a good time for me to implore you to please celebrate this most wonderful of holidays with a chocolate cake. Go ahead and treat yourself to what I consider one of the best cakes that can ever be made. Of course, as with most things, not every chocolate cake is born equal. Some just stand out from the crowd, and it's my job to point you toward recipes you ought to be embracing, and it's your job to embrace them!
 
-# Celebrate National Chocolate Cake Day
+## Celebrate National Chocolate Cake Day
 
 January 27!
 

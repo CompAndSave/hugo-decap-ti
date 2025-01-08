@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: [Eco-friendly,green diy,Halloween]
 ---
 
-# Take an Eco-Friendly Approach to Halloween
+## Take an Eco-Friendly Approach to Halloween
 
 Pumpkins, cinnamon sticks, burnt orange leaves, and trick-or-treaters—these are just a few of the unmistakable smells and sights of fall. With Halloween fast approaching, let's track down inexpensive, eco-friendly alternatives to some of the traditional ways of celebrating All Hallows' Eve. And share below or on social media what your Halloween costume will be with the #GreenHalloween hashtag.
 

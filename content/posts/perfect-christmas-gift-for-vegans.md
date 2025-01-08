@@ -12,7 +12,7 @@ tags:
 ---
 Buying a cruelty-free ethical gift for your favorite vegan or vegetarian is not as hard or as complicated as you think it is. So put away your vouchers this holiday season because you are about to be spared your torture and indecision. It's hard to pick and choose a Christmas gift for vegans, and I totally get that. I've put together a few suggestions for you to peruse while consuming an almond milk latte (or whatever else you may like to drink; it is Christmas 2017 after all).
 
-# A Christmas Gift List for Vegans
+## A Christmas Gift List for Vegans
 
 ### Conscious Confectionery from HunnyBon
 

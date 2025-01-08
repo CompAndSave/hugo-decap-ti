@@ -20,7 +20,7 @@ So, whether your motivation to reduce meat consumption is based on health or env
 
 We've got you covered! Here are some fantastic ideas sure to get your mouth watering.
 
-# Mouthwatering Meat-Free Barbecue Options
+## Mouthwatering Meat-Free Barbecue Options
 
 ### **1\. Serve Substitutes**
 

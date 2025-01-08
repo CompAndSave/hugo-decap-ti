@@ -8,14 +8,14 @@ authors: Awanthi Vardaraj
 tags: [healthy food,summer,recipes]
 ---
 
-> In our gardens the fruits are fast reaching perfection; all esculent plants are in full use; the rich juicy black currant is ripe, and the gooseberries are full almost to bursting. Ripe strawberries nestle under every leaf. … Now is the season for bathing, whether in river or ocean. How delicious is a plunge in this thirsty weather!  
+> In our gardens the fruits are fast reaching perfection; all esculent plants are in full use; the rich juicy black currant is ripe, and the gooseberries are full almost to bursting. Ripe strawberries nestle under every leaf. … Now is the season for bathing, whether in river or ocean. How delicious is a plunge in this thirsty weather!
 > —"July," _Eliza Cook's Journal_, July 6th, 1850
 
 One of my favorite memories from my childhood is the time I went strawberry picking with my grandparents in the hills near where we lived. It was glorious weather; sunny, but with a nip in the eucalyptus-scented air. I remember eating almost as many strawberries as I ended up picking. I remember the excitement that came the next day as I helped my grandmother make delicious strawberry preserves and can strawberries for use throughout the year. There were always enough strawberries left over to eat with delicious golden cream and icing sugar dusted on top. It was the most glorious dessert in the world.
 
 These days I don't live near the hills; I live in a city far away from where I grew up. If I want strawberries now I buy them in a supermarket, a far cry from a simpler, gentler time. I understand if you don't live near farms where you can go to pick your own produce but if you can, you should. Take the whole family; make an outing of it. May is National Strawberry Month, after all. It is a whole month dedicated to obsessing about this rather humble berry and making delicious strawberry recipes. Once all the picking is done, you can decide what you want to do with your haul.
 
-# Tasty Strawberry Recipes
+## Tasty Strawberry Recipes
 
 ### Preserves and Canning
 

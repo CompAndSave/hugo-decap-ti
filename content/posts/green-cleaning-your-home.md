@@ -17,7 +17,7 @@ My research showed me that the toxic ingredients in commercial cleaners aren't j
 
 I was interested to find that I didn't need commercial cleaning agents to clean my home; I had everything I needed right in my pantry. I switched to green cleaning in 2005, and I've never looked back. It really is the best way to make your home safer for pets, children, and the environment as a whole.
 
-# Safe and Effective Green Cleaning Solutions
+## Safe and Effective Green Cleaning Solutions
 
 As I said before, you can find some of the basic things that belong in a green cleaning kit right in your pantry.
 
@@ -49,7 +49,7 @@ Use unscented soap in liquid, powder, or bar form. Soap is biodegradable and a p
 
 If your oven is looking grimy, try this oven cleaner recipe. Splash water over the base of your oven, and layer baking soda over the grime until it is completely covered. Sprinkle some more water over the top but not too much. Leave to sit overnight (at least 12 hours). Wipe up the loose grease the next morning. Then clean the residue (there won't be much left) with liquid soap on a sponge.
 
-# Make Your Home Cleaner and Greener This Year
+## Make Your Home Cleaner and Greener This Year
 
 As you can see from my solutions above, baking soda and vinegar clean just about everything. For everything else, there are often nifty little solutions sitting in your fridge or pantry. Essential oils are great for when you want to add a nice little scent to your cleaning solution, but please be careful when using certain essential oils like tea tree oil, which is [harmful to cats](http://messybeast.com/teatree.htm). One of my favorite air fresheners, for instance, is to simmer cinnamon, nutmeg, cloves, and water on the stove; it really does smell like Christmas. Or keep fresh coffee grounds on the counter of your kitchen. Lemon juice and baking soda in a little bowl works a treat too.
 

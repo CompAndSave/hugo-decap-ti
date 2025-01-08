@@ -13,7 +13,7 @@ tags:
 ---
 Late summer is an ideal time for picnics. You can beat the heat by kicking back under a shady tree, the kids can enjoy one last hurrah before the school year starts, and you don't have to sweat over a hot stove to prepare for the event. There is something truly magical about gathering friends and family together for an outdoor feast of easy summer picnic recipes. The only question is: what's for dinner?
 
-# Perfect Picnic Recipes
+## Perfect Picnic Recipes
 
 Everyone has their own opinion on the perfect picnic foods, ranging from a quick PB&J to an intricate, totable three-course meal. For those who like their outdoor picnic food fare to sit somewhere in the middle, these simple and healthy picnic recipes are *juuust right*. Also, all of the dishes below are plant-based, leaving a smaller footprint on the planet. Throw in some machine-washable cloth napkins and reusable bamboo plates, and you'll have an eco-friendly event that will create memories for seasons to come.
 

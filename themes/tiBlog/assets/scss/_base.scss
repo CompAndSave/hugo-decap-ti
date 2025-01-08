@@ -54,6 +54,8 @@ h1 {
 h2 {
     font-size: rem-calc(30);
     margin-bottom: 1.25rem;
+    color: get-color('secondary');
+    font-weight: 600;
 }
 h3 {
     font-size: rem-calc(25);

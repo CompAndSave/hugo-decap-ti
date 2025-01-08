@@ -12,7 +12,7 @@ Mother's Day is approaching quickly — do you need last-minute gifts? Perhaps, 
 
 Gifting flowers on special holidays may seem like a harmless gesture, but the impact on the environment can be quite high. In fact, [78 percent](http://www.huffingtonpost.com/jennifer-grayson/eco-etiquette-whats-the-e%5Fb%5F1264647.html) of cut flowers are shipped in from South America to the United States, burning tons of fossil fuels for a gift that only lasts a few days. Heavy spraying of fungicides and insecticides ensures these flowers' beauty is preserved during the trip, many of which have been [banned](http://www.audubon.org/magazine/january-february-2008/a-rose-not-rose) by the United States and Europe. Certainly we want better for all of our moms.
 
-# Last-Minute Gifts for Mother's Day
+## Last-Minute Gifts for Mother's Day
 
 Here you will find some great alternatives to gift mom this year. She'll appreciate the thought and the softer impact they have on the world into which she brought your thoughtful self.
 

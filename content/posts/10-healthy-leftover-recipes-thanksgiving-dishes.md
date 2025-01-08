@@ -13,7 +13,7 @@ Believe it or not, the holiday season is upon us! Not only is it time to adjust 
 
 Whether you like to try cooking new recipes every year or you prefer to stick to the classics, the problem of leftover overflow is common. Thanksgiving, in particular, can be a challenge. It is a day centered around gratitude but also around feasting on a variety of delicious foods. To avoid Thanksgiving dishes losing their luster in the days after your family gathering, try out some of these imaginative ways to transform your favorite main dishes and sides into both sweet and savory meals everyone will love. Not only will you add some great new ideas into your culinary rotation, but the planet will appreciate the reduction in holiday food waste.
 
-# 10 Healthy Thanksgiving Leftovers
+## 10 Healthy Thanksgiving Leftovers
 
 ### 1. [Crispy Mashed Potato and Stuffing Patties](https://www.tasteofhome.com/recipes/crispy-mashed-potato---stuffing-patties)
 

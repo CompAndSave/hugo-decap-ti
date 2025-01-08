@@ -12,7 +12,7 @@ Fair trade — a term that is touted around a lot — is the practice of paying 
 
 The World Fair Trade Organization (WFTO) defines fair trade as: "Fair Trade is a trading partnership, based on dialogue, transparency and respect, that seeks greater equity in international trade. It contributes to sustainable development by offering better trading conditions to, and securing the rights of, marginalized producers and workers — especially in the global South."
 
-# Fair Trade Brands You'll Love
+## Fair Trade Brands You'll Love
 
 For many people — including myself — buying fair trade means that every day we can make a difference in the lives of people who work so hard to grow, nourish, and harvest the things we love. It seems unfair to me that a [cheap chocolate](https://www.theguardian.com/business/2015/apr/04/cheap-chocolate-cocoa-farmers-africa-easter-eggs) bar or cheap tea means the end of someone else's livelihood. Exploitative practices still exist in the world today, despite close scrutiny from organizations and the buying public. The only way we can stamp them out is by buying fair trade.
 

@@ -15,7 +15,7 @@ It's that time of year when everyone can enjoy a meal outdoors. Yet those delici
 
 Eco-friendly grilling is not only about the ingredients in our meals and sides, but it is also about the way we shop, prepare, and cook our food. These eco-friendly grilling tips are sure to make your meal a bit greener.
 
-# Your Meals Will Be Greener with Our Eco-Friendly Grilling Tips
+## Your Meals Will Be Greener with Our Eco-Friendly Grilling Tips
 
 ### **Before You Start**
 

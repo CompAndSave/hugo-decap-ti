@@ -10,7 +10,7 @@ tags: []
 
 You may have noticed some new names recently on our blog. ![contributors](/blog/images/archive/2017/01/blogger.jpg)We're very happy to have a wonderful group of writers joining us as contributors to TomatoInk. Their articles will no doubt entertain, inform, and even inspire you to lead a "greener" life. Visit the blog each week to get a new perspective on sustainable living, eco-friendly travel, healthy (_and delicious_) food, and much more.
 
-# Meet Our Guest Bloggers
+## Meet Our Guest Bloggers
 
 **Jessica Cohen** is a health coach, a greener living enthusiast, and an advocate of social good. On her website, [EatSleepBe.com](http://eatsleepbe.com), she provides tips for being kinder to yourself, to others, and to the planet. Additionally, Jessica enjoys consulting with like-minded companies to create site concepts, develop editorial and social media calendars, ghost write, publish press releases, and run successful outreach campaigns. You can also find her on [Facebook](http://facebook.com/eatsleepbe), [Twitter](http://twitter.com/eatsleepbe), [Pinterest](http://pinterest.com/eatsleepbe), and [Instagram](http://instagram.com/eatsleepbe) at EatSleepBe.
 

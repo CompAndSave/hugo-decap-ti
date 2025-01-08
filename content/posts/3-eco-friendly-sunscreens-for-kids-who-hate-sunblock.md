@@ -18,7 +18,7 @@ Due to health and environmental concerns, natural eco-friendly sunscreens have g
 
 I've tried many sunscreens over the years as I've battled to find one that works. While I'll be honest and say that time was probably the thing that helped the most when making it easier to apply the sunscreen (my daughter is four-and-a-half now, and much more reasonable), I did also discover a few hidden gems in the world of eco-friendly sunscreens. I thought I should share them with you.
 
-# The Best Kid-Friendly and Eco-Friendly Sunscreens
+## The Best Kid-Friendly and Eco-Friendly Sunscreens
 
 ## Green Beaver Kids Natural Mineral Sunscreen Spray SPF 27
 

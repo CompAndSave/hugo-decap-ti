@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: [3D Printers,printers,printing,Eco-friendly]
 ---
 
-# ![3D printing](/blog/images/archive/2016/07/eco-friendly-3d-printers.jpg)Can 3D Printers Make Manufacturing More Energy Efficient?
+## ![3D printing](/blog/images/archive/2016/07/eco-friendly-3d-printers.jpg)Can 3D Printers Make Manufacturing More Energy Efficient?
 
 As natural resources dwindle and climate change marches on, we're constantly searching for new ways to sustainably produce goods. If you're concerned with how your products are developed—are the materials and production processes "green"—then you'll be interested to know what kinds of energy-efficient technologies the manufacturing industry is using.
 

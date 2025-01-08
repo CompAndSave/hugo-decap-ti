@@ -14,7 +14,7 @@ More and more people are turning to plant-based eating, and people who have neve
 
 So in the spirit of that statement, what better way to convince you than by introducing you to some delicious veggie burgers this year?
 
-# Top Six Veggie Burger Recipes
+## Top Six Veggie Burger Recipes
 
 ### 1\. Carnivore-Approved Mushroom Veggie Burger
 

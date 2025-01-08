@@ -14,7 +14,7 @@ Don't get me wrong, I work out anyway. And I'm mildly addicted to the post-worko
 
 If you're anything like me, then any old excuse will do to skip your workout. The weather — which can be foul during winter months when you live in a temperate climate — is one of the best excuses there is! But sadly, that excuse is no longer viable. I'm here to pop your balloon, deflate your whoopee, and be a general spoilsport.
 
-# Fun Fitness Routines You Can Do No Matter What the Weather
+## Fun Fitness Routines You Can Do No Matter What the Weather
 
 ## Yoga
 

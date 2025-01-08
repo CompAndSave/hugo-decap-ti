@@ -11,7 +11,7 @@ tags:
 ---
 Don't get me wrong; I love to cook, and as an avid baker, I love my oven. However, in the hot and humid summers, turning on my oven or being stuck beside the stove as the temperature climbs to what feels like volcanic heat inside my kitchen is not my favorite thing in the world. I already wrote [this post](https://www.tomatoink.com/blog/posts/meals-without-the-oven.html) detailing breakfast and lunch oven-free meals for hot summer days, so now it's time to focus on the main meal: dinner.
 
-# Dinner Recipes without the Oven
+## Dinner Recipes without the Oven
 
 Dinners are important meals because for most people it's their main meal of the day. If you have a family, it's also traditionally the time when your family comes together at the end of the day. You all sit around the table and share a meal and talk about the events of the day. It's a social moment, and for busy people it's often the only time to connect with loved ones. Dinner is important, and for many people, non-negotiable.
 

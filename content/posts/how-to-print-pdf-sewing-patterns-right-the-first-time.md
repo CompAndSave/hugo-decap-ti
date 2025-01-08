@@ -12,7 +12,7 @@ tags: []
 
 It is relatively easier to print out knitting, crochet and embroidery patterns – you can print out the images and the instructions quite easily. The scale and the size of the printouts aren't vitally important beyond being clear and legible. However this isn't true for sewing patterns. These need to be scaled up accurately for you to create the garment that you wish to. Patterns are typically in a PDF format; whether free or paid patterns. You want to be able to printout the pattern right the first time, without trial and error; without wasting paper and ink if you can help it. Even if you do know how to print a PDF, this could be slightly trickier.
 
-# Tips to print sewing patterns
+## Tips to print sewing patterns
 
 You can use regular size printing paper to print your sewing patterns. However unlike say a knitting pattern, where your instructions can be printed on a page or two, a sewing pattern will print on multiple pages. These pages will then assemble or tile together to form the actual pattern, rather like a jigsaw.
 
@@ -26,7 +26,7 @@ Below are more handy tips:
 
 This video may help too:
 
-# Our special coupon to say "happy sewing"
+## Our special coupon to say "happy sewing"
 
 Our special 4th of July offer runs this entire month; our way to say Happy Independence Day (and also Happy Sewing/ Knitting/Crocheting)! Make sure that you have plenty of ink in your printer so you're not stuck with half a pattern.
 

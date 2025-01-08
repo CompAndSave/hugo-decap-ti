@@ -10,7 +10,7 @@ tags: [eco-friendly ink cartridges,printer ink,TomatoInk,OneTreePlanted]
 
 Whenever I tell people that I write for a site called TomatoInk, their interest is immediately piqued. What does the site do? Where does the name come from? Why didn't _they_ think of this? Given the near-unanimous reaction and the history behind the unique name, I thought it was high time I told our story.
 
-# The Story of TomatoInk
+## The Story of TomatoInk
 
 ### Remanufactured Cartridges
 

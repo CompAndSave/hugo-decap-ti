@@ -12,7 +12,7 @@ Now that summer is in full swing, the question on everybody's minds is how to ma
 
 Branching out into new possibilities doesn't have to cost an arm and a leg or leave a lasting mark on the environment. There are endless creative ways to use your free time in the summer, many of which cost nothing and can boost your quality time with Mother Nature. The next time you're itching to try something new this season, mix things up and follow one of these summertime activities.
 
-# Fun, Inexpensive Summertime Activities
+## Fun, Inexpensive Summertime Activities
 
 ### 1\. Use Your Nearby Parks and Their Programming
 

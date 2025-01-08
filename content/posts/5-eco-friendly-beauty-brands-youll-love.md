@@ -10,7 +10,7 @@ tags: [corporate responsibility,natural products,sustainable brands,Eco-friendly
 
 Ongoing exposure to toxic chemicals in our daily lives is doing harm to our bodies. And these toxic chemicals aren't just in our food supply. What goes **_on_** our bodies goes **_in_** our bodies, so the exposure to toxins means our personal care and beauty products matter too. Therefore, we should all be looking for ways to use eco-friendly beauty brands in our daily routines.
 
-# The Consequences of Chemical Exposure
+## The Consequences of Chemical Exposure
 
 While other countries are more likely to make the health of their people a priority, around here we are left to do our own homework. In fact, [more than](http://www.allure.com/story/cosmetics-safety-bill-fda) 1,300 ingredients that are banned across Europe are "generally recognized as safe" here in the United States.
 
@@ -18,7 +18,7 @@ A recent study from the University of California at Berkeley [found that](http:/
 
 There is enough reason for concern to avoid using chemical-laden products, especially when there are ethical alternatives available to us. See what we've selected as some of the top eco-friendly beauty brands.
 
-# Five Transparent and Genuinely Eco-Friendly Beauty Brands
+## Five Transparent and Genuinely Eco-Friendly Beauty Brands
 
 ### **1\. Beautycounter**
 

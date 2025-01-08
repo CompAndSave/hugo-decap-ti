@@ -19,7 +19,7 @@ After doing quite a bit of extensive research, we've narrowed down the greenest 
 
 Courtyard of the Bardessono Hotel in Napa Valley.
 
-# The Greenest Hotels in the United States
+## The Greenest Hotels in the United States
 
 Get ready for your next vacation! Here are 15 of the greenest hotels in the United States.
 
@@ -87,7 +87,7 @@ The [Allison](http://www.theallison.com) was awarded the prestigious LEED Gold C
 
 We are also going to give a big honorable mention to [The King's Daughters Inn](https://thekingsdaughtersinn.com/), in Durham, North Carolina, which combined a need for preserving a historic building's architectural past with green building features and environmentally sound materials. They restored original windows, while adding a water source heat pump, a fully integrated energy management system, an ultra-high efficiency waters system, and a gray water system. They use a cistern and a rain garden to collect roof storm water run-off and avoid using public water resources to maintain landscaping. The parking lot is made of pervious concrete so the ground absorbs rainwater into the ground.
 
-# Low Carbon Footprint = Low Costs
+## Low Carbon Footprint = Low Costs
 
 Most hotels tend to use natural resources at an alarmingly high rate. By establishing green practices, they can lower electricity and water usage, which in turn is cost effective and helps the environment. Since the majority of travelers intend to make more environmentally friendly choices, hotels have the ability to substantially lower their carbon footprint while improving their own bottom line!
 

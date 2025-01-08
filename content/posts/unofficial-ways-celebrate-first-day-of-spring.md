@@ -9,24 +9,24 @@ tags: [activities,spring]
 ---
 
 > _Oh, Spring is surely coming,_
-> 
+>
 > _Her couriers fill the air;_
-> 
+>
 > _Each morn are new arrivals,_
-> 
+>
 > _Each night her ways prepare;_
-> 
+>
 > _I scent her fragrant garments,_
-> 
+>
 > _Her foot is on the stair._
-> 
+>
 > —John Burroughs, "A March Glee"
 
 The spring equinox (also called the vernal equinox) starts today, March 20, and signals the first day of spring in the Northern Hemisphere. Days and nights become more or less equal (_equi_ or _aequus_ for equal and _nox_ for nights) with 12-hour durations. We use the equinox to observe the change in seasons as there is an increase in the amount of sunlight that is now available, thanks to early dawns and late sunsets. The increased sunlight triggers singing in birds who begin migrating north, following the path of the sun as it moves northward.
 
 The March equinox is associated with rebirth and renewal in the Northern Hemisphere, which means that there are a lot of festivals. Many cultures celebrate spring festivals such as Easter, Holi, Passover, Cherry Blossom festival, and Nowruz, to name a few. But what I want to focus on in this post is the unofficial ways to celebrate the official start date of spring.
 
-# 6 Ways to Celebrate the First Day of Spring
+## 6 Ways to Celebrate the First Day of Spring
 
 ### **Go Outside**
 

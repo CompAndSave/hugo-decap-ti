@@ -10,7 +10,7 @@ tags: [Eco-friendly]
 
 A month into the new year and it's just as chilly outside in most places as it was on New Year's, but with less fanfare and buzzing excitement about turning a new leaf. New Year's resolutions becoming stale and stagnant is not a rare phenomenon. The frustration that accompanies it, however, can make it tempting to ditch our desires for change and root ourselves in our old comfort zones. Make this year different! Here are some tips for keeping your eco-friendly New Year's resolutions going — let's focus on being greener this year!
 
-# How to Keep Your Eco-Friendly New Year's Resolutions on Track
+## How to Keep Your Eco-Friendly New Year's Resolutions on Track
 
 1. ### Identify the Snags Early
 

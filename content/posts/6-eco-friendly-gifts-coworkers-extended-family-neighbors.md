@@ -16,7 +16,7 @@ While this time of year is rightfully filled with thoughts of gratitude, glitter
 
 It can be tricky, however, to know what kind of gifts our extended family, coworkers, and neighbors would appreciate. Luckily, we need not stress about choosing the perfect present. There are countless ways to express how happy we are to have them in our lives, many of which require minimal cash and are surprisingly eco-friendly. Consider some of these thoughtful gifts for the supporting cast in your life.
 
-# Eco-Friendly Gifts That Won't Break the Bank
+## Eco-Friendly Gifts That Won't Break the Bank
 
 ### 1. DIY Kits
 

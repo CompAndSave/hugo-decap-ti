@@ -16,7 +16,7 @@ As the world's demand for chocolate increases by the day, there are a number of 
 
 So how can you help? Don't worry; you don't have to stop eating chocolate, but you can now choose to support fair trade chocolate brands whose entire ethos lies in ensuring that sustainable and fairly produced cocoa is then used to make the chocolate the world craves. Fair trade chocolate brands ensure that the cocoa — from bean to bar — they use is untainted and fairly produced so that the farmers who make them [receive](http://www.fairtrade.org.uk/Farmers-and-Workers/Cocoa) adequate compensation and a living wage. Supporting these brands makes infinite sense in multiple ways. Keep reading for some of my recommendations.
 
-# The Six Best Fair Trade Chocolate Brands
+## The Six Best Fair Trade Chocolate Brands
 
 ### 1. Equal Exchange
 

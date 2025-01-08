@@ -17,7 +17,7 @@ Garage sales are a great green initiative on their own — both hosting them and
 
 But, even with this environmental head-start, there *are* a few ways you can make your garage sale even greener.
 
-# 5 Tips for Hosting an Eco-Friendly Garage Sale
+## 5 Tips for Hosting an Eco-Friendly Garage Sale
 
 ## 1. Gather Supplies
 

@@ -10,7 +10,7 @@ tags: [eco-friendly ink cartridges,recycling ink cartridges,Home Office,Ink and 
 
 When there are many major corporations throughout the nation that are not taking their carbon footprint responsibly, it's often easy to forget that the actions of even one person can make a difference. Making your home office eco-friendly, for example, can help save the world from more non-biodegradable material in our landfills, additional wasted electricity, unnecessary reliance on oil, and more, while also saving on your business expenses.
 
-# 12 Ways to Make Your Home Office Eco-Friendly
+## 12 Ways to Make Your Home Office Eco-Friendly
 
 Let's get this party started, shall we? Here are 12 ways to make your home office eco-friendly:
 

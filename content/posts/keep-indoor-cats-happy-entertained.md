@@ -10,7 +10,7 @@ tags: [how to,pets]
 
 I am a firm believer that cats are happiest when they're indoor cats. They don't have to be on their guard all the time. They don't get in the way of traffic that could potentially harm them. Cats also don't run into other unfriendly animals or people who could hurt them. Local wildlife is safe from them, and so on and so forth. You can never know what may possibly happen to them when they go out. The endless stress and worry when they've gone exploring too far away and decide to stay away from home for a few days is just too much for me. As I'm fond of saying, I wouldn't let my human children wander about without supervision, so why would I let my fur children do that?
 
-# Ways to Keep Indoor Cats Happy and Entertained
+## Ways to Keep Indoor Cats Happy and Entertained
 
 ### Screened Porch
 

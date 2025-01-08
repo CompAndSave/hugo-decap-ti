@@ -20,7 +20,7 @@ You don't have to rake your leaves.
 
 Seriously.
 
-# Why You Shouldn't Rake Your Leaves
+## Why You Shouldn't Rake Your Leaves
 
 In fact, not only do you not _have_ to rake your leaves, some lawn experts suggest that you actually _shouldn't._ It's actually way better for your lawn if you don't!
 

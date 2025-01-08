@@ -12,7 +12,7 @@ tags:
 ---
 There are many simple ways to make your home more eco-friendly, and they often don't cost a lot of money or take too much of your time. So if you've got a weekend to spare, consider some (or all) of these weekend projects to make your home more eco-friendly for good.
 
-# How to Make Your Home More Eco-Friendly
+## How to Make Your Home More Eco-Friendly
 
 ### Dim and Replace
 

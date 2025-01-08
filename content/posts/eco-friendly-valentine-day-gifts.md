@@ -12,7 +12,7 @@ Love is in the air! Valentine's Day has become a swoon-worthy excuse to celebrat
 
 Americans spend around [$18.9 billion dollars on V-Day](http://www.treehugger.com/economics/valentines-day-numbers-are-you-sitting-down.html) each year. Flowers make up $2.1 billion of those sales and cards account for $1.5 billion. These items alone amount to several truckloads of trash after just one fleeting evening of admiration. There has to be a better way!
 
-# Eco-Friendly Alternatives to Typical Valentine's Day Gifts
+## Eco-Friendly Alternatives to Typical Valentine's Day Gifts
 
 This year, instead of gifting the usual, disposable gifts (who wants to be cliché, anyway?), step outside the box and consider eco-friendly alternatives for your Valentine's Day celebration.
 

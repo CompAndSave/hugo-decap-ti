@@ -14,7 +14,7 @@ Father's Day is a time to show appreciation for all the special things your old 
 
 The benefits of also considering a more Earth-friendly gift are vast: less wasteful packaging, less negative impact on the planet, and less accumulation of clutter in the closet. To figure out which eco-friendly Father's Day gifts are best, first decide what kind of dad you have! Does he find peace in listening to music or does he crave the adventure of the wild outdoors? Follow our tips for choosing the perfect gift that won't break the bank or your bond with the planet.
 
-# Eco-Friendly Father's Day Gifts for Every Type of Dad
+## Eco-Friendly Father's Day Gifts for Every Type of Dad
 
 ## For the Outdoorsy Dad
 

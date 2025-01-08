@@ -12,7 +12,7 @@ Uh-oh! You're hosting Thanksgiving dinner for your family and friends and have h
 
 ![Thanksgiving dinner](/blog/images/archive/2016/11/cornucopia-632x421.jpg)
 
-# Thanksgiving Food
+## Thanksgiving Food
 
 ### Appetizers
 
@@ -38,7 +38,7 @@ Moving on to starches, try an unfussy but still tasty method to make mashed pota
 
 One of the most time-saving desserts is roasted pears. Simply cut firm, ripe pears in half and remove the core. Then, place pear halves on a cookie sheet lined with parchment, drizzle honey on the pears, and add some walnuts or pecans on top with cinnamon. Bake in a preheated 400 degree oven for 20-30 minutes until soft. The baking time will vary depending upon how ripe your pears are so check the oven from time to time. Serve the pears as is or top with vanilla ice cream or gelato. Your guests will thank you.
 
-# Thanksgiving Drinks
+## Thanksgiving Drinks
 
 ### Beer, Wine, and Cocktails
 
@@ -58,7 +58,7 @@ Another festive drink is nonalcoholic sangria. Combine brewed black tea with cin
 
 If you have grenadine on hand, you can create a Roy Rogers (ice, coke, and Grenadine), a sour (lemon juice, sugar, ginger ale, crushed ice, and grenadine), and of course the classic Shirley Temple (ginger ale, ice, and grenadine.
 
-# Thanksgiving Decorations
+## Thanksgiving Decorations
 
 For your table centerpiece, group small pumpkins, pinecones, acorns, and any other fall foliage found outside of your house in a large basket or bowl. Printable placemats are also an easy way to spice up your table. Get your children involved and try these Thanksgiving dinner [DIY placemats](https://www.tomatoink.com/blog/posts/printable-placemats-and-turkey-origami-for-thanksgiving.html) and turkey origami.
 

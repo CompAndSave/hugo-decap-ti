@@ -13,14 +13,14 @@ tags:
 ---
 If you've been searching for free printables, you've come to the right place! We put together some sticker paper [printables](https://www.tomatoink.com) just for you. You don't have to be an awesome crafter or DIY expert to enjoy these printables. And guess what—they are completely free and work perfectly with our [sticker paper](https://www.tomatoink.com/paper/sticker-paper).
 
-# Here's Why You Should Use Sticker Paper Printables
+## Here's Why You Should Use Sticker Paper Printables
 
 * Save time: You can print the stickers right from home—no shopping around or spending time making yourself (besides printing)
 * Unique: They give a homespun yet professional feel that you just can't get with generic labels or gift tags
 * Save money: Purchasing a pack of sticker sheets is less expensive than buying lots of different labels and tags
 * Multipurpose: You can use the stickers in a variety of ways
 
-# Got Sticker Paper? Try These Free Printables
+## Got Sticker Paper? Try These Free Printables
 
 ### Water Count Sticker Paper Printables
 

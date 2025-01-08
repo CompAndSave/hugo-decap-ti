@@ -14,7 +14,7 @@ Because one of the most challenging things about summer is the thought of being 
 
 When I was making notes for this piece, I realized that there was so much material, and so very many amazing recipes out there to minimize (or completely cut out) your oven time, that I decided to split up all the information into two posts. So in my next two posts I'll walk you through some easy summer breakfast, lunch, and dinner ideas that you can make without turning on the oven. Sound good?
 
-# Make Meals without the Oven
+## Make Meals without the Oven
 
 ## Summer Breakfasts
 

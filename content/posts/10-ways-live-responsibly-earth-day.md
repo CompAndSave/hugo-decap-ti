@@ -21,7 +21,7 @@ One of the things that people often tell me is that they live in old houses or a
 
 For those of you with children, this is a perfect way to set an example to your children so that they can continue what you start. We often talk about leaving the earth to our children, so it's important to show them what that asks of us on a daily basis, and so that they understand that one day, when it's their turn, they will have to take up the mantles. So, don't forget. Include your children in Earth Day activities. Teach them about the green choices that you're making and teach them why it's important.
 
-# 10 Ways to Celebrate Earth Day Every Day
+## 10 Ways to Celebrate Earth Day Every Day
 
 ### 1. Plant Fruit and Veg
 

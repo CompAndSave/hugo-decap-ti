@@ -21,10 +21,9 @@
       </section>
 
       <hr class="hr latest">
-
+      <div class="home-title"><h1 class="main-title">Exploring Eco-Friendly Ink and Printer Solutions</h1></div>
       {{ if ge $section_count (add $n_posts 1) }}
         <section class="post-feed">
-          <h1 class="f3">{{ i18n "more" }}</h1>
           {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first" on the outside */}}
           {{ range (first 8 (after $n_posts $section))  }}
             <div class="card-post">

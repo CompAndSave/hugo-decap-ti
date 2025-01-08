@@ -16,13 +16,13 @@ As temperatures get warmer and summer edges closer and closer, now is a perfect 
 
 ![natural sun care](/blog/images/archive/2017/04/boat-632x421.jpg)
 
-# The Facts on Sun Exposure
+## The Facts on Sun Exposure
 
 Sunburns aren't the only issue — although anyone who has logged a few skin-peeling nightmares in their lifetime will attest that they're reason enough to protect your skin. Overexposure to the sun [can cause other issues too](https://www.epa.gov/sites/default/files/documents/healtheffects_1.pdf), including wrinkles, skin cancer, cataracts, and even immune system suppression.
 
 And just in case you need any more convincing to use natural sun care, the EPA states that what many of us see as natural signs of aging are, in fact, a result of UV radiation. They [explain](https://www.epa.gov/sites/default/files/documents/healtheffects_1.pdf), "Chronic exposure to the sun also causes premature aging, which over time can make the skin become thick, wrinkled, and leathery. Since it occurs gradually, often manifesting itself many years after the majority of a person's sun exposure, premature aging is often regarded as an unavoidable, normal part of growing older. However, up to 90 percent of the visible skin changes commonly attributed to aging are caused by the sun. With proper protection from UV radiation, most premature aging of the skin can be avoided."
 
-# The Truth behind Sunscreen
+## The Truth behind Sunscreen
 
 Awareness of the dangers of excessive UV exposure has greatly increased since the days when our grandparents would sit outside slathered in baby oil with a sunlight reflector held under their faces. But the way we go about protecting ourselves may be just as dated.
 
@@ -38,7 +38,7 @@ When one of the most common ingredients in sunscreens is also a known hormone di
 
 So, what's the solution? Natural sun care!
 
-# 5 Natural Ways to Protect Yourself from the Sun
+## 5 Natural Ways to Protect Yourself from the Sun
 
 1. First, don't rely completely on sunscreens to protect you. Wear light, loose-fitting clothing to block up to 30 percent of harmful rays and protect skin without needing to apply a cream or spray. You'll also have the marked advantage of looking slightly bohemian, which is always a plus in my book.
 2. Wear a wide-brimmed hat and/or sunglasses to protect your face and your eyes on those sweet sunny days.

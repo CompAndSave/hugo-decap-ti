@@ -24,7 +24,7 @@ Aaaand then a few months (or weeks) later your home looks _exactly_ the same!
 
 But at this point, it's edging into fall and you're spending weekends shopping for back to school or planning for Halloween or celebrating Thanksgiving or preparing for Christmas. Then it's too cold to spend hours with your windows open or shivering in the garage trying to organize things. So chaos reigns until spring rolls around again, at which point you and millions like you start spring cleaning once again.
 
-# The Secret to Making Spring Cleaning Stick
+## The Secret to Making Spring Cleaning Stick
 
 So why this strange cycle? Why doesn't spring cleaning stick, despite our best intentions?
 

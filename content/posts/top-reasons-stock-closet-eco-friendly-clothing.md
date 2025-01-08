@@ -11,7 +11,7 @@ tags:
 ---
 When out at the mall and browsing through the clothing racks, most of us aren't thinking about the carbon footprint of the clothing on the hangers. Yet fashion does leave a clear-cut footprint, with environmental and even potential health hazards. It may not have dawned on us to purchase eco-friendly clothing lines, shoes, and accessories — until now. Fortunately, eco-friendly clothing lines are beginning to sprout up at the mall and online too, giving us new opportunities to stock our closets with items that won't harm the environment or ourselves.
 
-# Why Eco-Friendly Clothing Lines Are Sprouting Up Everywhere
+## Why Eco-Friendly Clothing Lines Are Sprouting Up Everywhere
 
 Who would've thought that manufacturing a polyester shirt requires large amounts of crude oil, acid gases (such as hydrogen chloride), and volatile organic compounds? Then those solvents and other byproducts used to make that polyester shirt are emitted into the environment and into the water system.
 

@@ -12,7 +12,7 @@ tags:
 ---
 It is OFFICIALLY autumn, and we're kicking things off in style over here on the TomatoInk Blog because autumn is the time to pumpkin all the things! As you all know, I have an inconsolable sweet tooth, but I'm getting a little tired of pumpkins either being used for a sweet pie (delicious but totally predictable) or even soup (also delicious, mind you, albeit a little boring). Pumpkins are so versatile that they taste amazing no matter how you serve them (although you may want to avoid serving them raw), so I figured I'd dedicate this post to all the savory pumpkin recipes out there.
 
-# Delicious and Savory Pumpkin Recipes
+## Delicious and Savory Pumpkin Recipes
 
 ### Pumpkin in Pasta Dishes
 

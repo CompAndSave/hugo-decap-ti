@@ -14,7 +14,7 @@ The concept of "spring cleaning" can be applied to our home, [office space](http
 
 Here's how you can start making your spring routine green. Examine the areas of your life where you can make some small, environmentally friendly tweaks. See what sticks and then move onto the next area where improvements can be made. By the time summer hits, you'll be making Mother Earth very proud.
 
-# Make Your Spring Routine Green
+## Make Your Spring Routine Green
 
 ### **1\. How You Get to Work**
 

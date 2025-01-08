@@ -14,7 +14,7 @@ tags:
 ---
 You're getting married! Congratulations! There's so much to think about, plan, do, and organize, and so much to stay on top of. We get that, but here's one more thing to think about: are you planning on having a green, eco-friendly wedding? Because if you're not, there are plenty of reasons why you should.
 
-# Why You Should Have a Green, Eco-Friendly Wedding
+## Why You Should Have a Green, Eco-Friendly Wedding
 
 The earth needs our help like never before. We need the earth, frankly, and a healthy hospitable earth to boot. So it might startle you to know that the average wedding in the United States produces a staggering 400 to 600 lbs of waste and an average of 62 tons of carbon dioxide! We all have a responsibility to do less damage. This is not as difficult — or as expensive — as you might think!
 

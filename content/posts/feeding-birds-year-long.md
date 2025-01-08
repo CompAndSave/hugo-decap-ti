@@ -13,7 +13,7 @@ February is National Bird Feeding Month! One of the first things I like to do wh
 
 I think everyone with a scrap of garden deserves a bird table (that's right; you're doing yourself a favor). But not everything is good for birds. You need to know what food to feed birds. Stop feeding them bread and products similar to bread, such as bagels, biscuits, crackers etc. Yes, even the ducks. Bread and bread-like products make them sick, and it simply isn't worth it. You may think you're doing the right thing, but in fact, you're harming them.
 
-# Feeding Birds Year-Round
+## Feeding Birds Year-Round
 
 There isn't a set time to feed birds. Some people feed birds during the winter months to help them, as the winter months are lean months for birds. Some people feed birds all year long. I fall into the all year long category, simply because you never know when there might be a shortage of food. Sometimes food shortages can also occur during the spring or summer months. Setting up a bird table and feeding birds can help them immensely. Birds often feed their young from bird table scraps and offerings, so it's important to ensure that the food you're putting out is safe for birds and their young.
 

@@ -13,7 +13,7 @@ It's a brand new year, which means a number of things. New expectations, new res
 
 This year's food trends are exciting because there are more flavors on our plates than ever before. We're also embracing things like mushrooms in drinks and superfoods to make us glow from the inside out. Besides all of this, veggie burgers and plant-based foods continue being trends this year, which makes me hopeful that soon they'll become the norm. Without further ado, here's a list of the latest food trends.
 
-# Hot New Food Trends for 2018
+## Hot New Food Trends for 2018
 
 ### Superfood Powders
 

@@ -29,7 +29,7 @@ As of [March 4, 2016](http://www.mapsofworld.com/world-top-ten/countries-with-hi
 
 Aside from the obvious fact that we depend on trees for own survival, deforestation often destroys numerous native plants and animals. This destruction can lead to [more diseases](https://en.wikipedia.org/wiki/Deforestation#Public%5FHealth%5FContext). So what are some simple steps you can take to reduce deforestation?
 
-# Sustainable Efforts to Curb Deforestation
+## Sustainable Efforts to Curb Deforestation
 
 ### Buy Recycled Printer Paper and Paper Products
 

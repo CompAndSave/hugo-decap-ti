@@ -12,7 +12,7 @@ Between annual holiday parties, family dinners, and end-of-year celebrations, th
 
 If you want to enjoy yourself without packing on the pounds this holiday season, keep reading for a few simple tricks on how to avoid overeating during the holidays.
 
-# How Not to Overeat during the Holiday Season
+## How Not to Overeat during the Holiday Season
 
 **Pick your poison.** If you know that there will be appetizers, alcohol, and dessert at the party, choose one of the three beforehand and make a conscious decision to eliminate the other two for the evening. This way you don't feel deprived and yet you are less likely to overdo it.
 

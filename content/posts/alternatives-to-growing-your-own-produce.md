@@ -12,13 +12,13 @@ Having a backyard bursting with organically grown fruits and vegetables sometime
 
 If you're hoping to achieve this goal and grow your own, there is a wealth of helpful how-to information you can find both online and in books, including how to create a veggie garden in a small space, with low light, or even indoors! But very rarely do you find information about what to do if you just, um, don't _want_ to grow your own.
 
-# What to Do If You Don't Want to Grow Your Own Vegetables
+## What to Do If You Don't Want to Grow Your Own Vegetables
 
 It feels almost shameful to admit, but I _know_ that there are thousands of you out there who love the idea in theory. But you know that your busy schedule, your black thumb, or your simple lack of interest in gardening would mean catastrophic failure for this particular venture.
 
 And you know what? That's OK! Environmentally friendly living isn't an exclusive club to which a pristine vegetable garden is the membership card. You're no less green without a green thumb; there are many ways to support fresh, local, organic produce without getting your hands dirty! Here are three of the best.
 
-# Alternatives to Growing Your Own Produce
+## Alternatives to Growing Your Own Produce
 
 ## **1\. Support Your Local CSA**
 

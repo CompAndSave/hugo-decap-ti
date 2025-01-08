@@ -10,7 +10,7 @@ tags: [healthy food,healthy hobbies,tips]
 
 Many of us find the winter months challenging both mentally and physically, and no wonder! The combination of dropping temperatures, reduced physical activity levels, and diminished daylight hours is enough to dampen anyone's mood. So as the hustle and bustle of the holiday season fades into the slow, dark months of January, February, and March, we find ourselves increasingly struggling to combat colds, flu, and the dreaded winter blues.
 
-# Stay Healthy and Beat the Winter Blues with These Natural Remedies
+## Stay Healthy and Beat the Winter Blues with These Natural Remedies
 
 We've compiled some effective, natural ways to help you remain healthy this winter, both inside and out.
 

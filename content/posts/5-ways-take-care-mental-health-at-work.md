@@ -12,7 +12,7 @@ While some may look at the month of October and immediately have images of pumpk
 
 This year's [theme](http://www.who.int/mental%5Fhealth/world-mental-health-day/2017/en/) is "mental health in the workplace" — a difficult thing to maintain in societies where citizens often feel overworked and exhausted. Here are some helpful methods for maintaining and improving everyday mental health for those inside and outside the workplace.
 
-# How to Take Care of Your Mental Health at Work and Home
+## How to Take Care of Your Mental Health at Work and Home
 
 ### 1\. Practice Saying "No"
 

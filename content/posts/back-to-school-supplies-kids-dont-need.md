@@ -10,7 +10,7 @@ tags: [Back to School,school supplies]
 
 The back-to-school period can be one of the most expensive times of the year for families. If you have several school-age children, you can easily spend close to $1,000 on various products for school and extracurricular activities.
 
-# Back-to-School Season Is Big Business
+## Back-to-School Season Is Big Business
 
 According to the Huntington Backpack Index for the 2016–2017 school year, you can expect to pay:
 
@@ -20,7 +20,7 @@ According to the Huntington Backpack Index for the 2016–2017 school year, you 
 
 That's a lot of money so try to buy only the necessary back-to-school items, which means your child won't be getting the latest Pokémon GO gadget for back to school.
 
-# Just Say No…
+## Just Say No…
 
 ### Fancy Pens and Pencils
 

@@ -16,7 +16,7 @@ Another upside to making your own advent calendar is that you can put your favor
 
 Anyway, without further ado, let's get onto the advent calendars!
 
-# 10 Ideas to Create Your Own Advent Calendars
+## 10 Ideas to Create Your Own Advent Calendars
 
 ### 1\. Paper City Christmas Advent Calendar
 

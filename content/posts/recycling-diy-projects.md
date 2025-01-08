@@ -10,7 +10,7 @@ tags: [DIY,photo paper,Eco-friendly,magnet paper,recycling]
 
 For most of us, saving a buck is top priority. Recycling DIY projects are great ways to save money—making something from products you already own usually costs a lot less than buying a new item. And as a bonus, recycling DIY projects help the environment by repurposing old items or waste.
 
-# Easy Recycling DIY Projects
+## Easy Recycling DIY Projects
 
 Here are a few from Country Living, Craftionary, and FaveCrafts that caught our eyes. Most of these projects are easy to produce and require minimal materials.
 

@@ -18,7 +18,7 @@ You're going to tell me that — and I'm going to tell you that you're wrong.
 
 Snacks that are both healthy and easily portable, but don't skimp on taste and flavor, aren't an impossible conundrum any more. There are many options for you to explore out there, but here are some of my favorites.
 
-# Healthy and Portable Snacks for Summer
+## Healthy and Portable Snacks for Summer
 
 ## Fruit
 

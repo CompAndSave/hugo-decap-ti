@@ -19,7 +19,7 @@ As you get ready for the holidays this year, consider the three Rs. How can you 
 
 Below are several easy ways to have a more eco-friendly holiday season.
 
-# 20 Ways to Have an Eco-Friendly Christmas Season
+## 20 Ways to Have an Eco-Friendly Christmas Season
 
 ### Reduce
 

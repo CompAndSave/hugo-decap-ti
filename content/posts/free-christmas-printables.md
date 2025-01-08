@@ -16,7 +16,7 @@ Like our [Thanksgiving Themed Table Mats](https://www.tomatoink.com/blog/posts/p
 
 There are two versions of each ornament: the first is the colored version and the second consists of outline drawings that can be colored in—this really gets kids into the festive spirit and coloring is a fun activity any time!
 
-# Here's what you will need for your free Christmas printables:
+## Here's what you will need for your free Christmas printables:
 
 * A printer (ensure that the [ink cartridge](https://www.tomatoink.com/) has sufficient amount of ink)
 * Good quality card stock for printing
@@ -25,7 +25,7 @@ There are two versions of each ornament: the first is the colored version and th
 * A hole puncher
 * String / festive ribbons
 
-# Follow these simple steps to get the printouts of the Christmas decorations:
+## Follow these simple steps to get the printouts of the Christmas decorations:
 
 1. Click on the décor item of your choice. This will open up a PDF page.
 2. Print the page using high-quality paper.
@@ -36,7 +36,7 @@ There are two versions of each ornament: the first is the colored version and th
 
 Use these printable ornaments to add a Christmas feel to the entire home. You can hang them on your Christmas tree of course; hang them up on walls, doors, and windows; or even string them on the fireplace mantle.
 
-# As for the gift tags and labels, you could use them in two ways:
+## As for the gift tags and labels, you could use them in two ways:
 
 * Simply use double-sided sticky tape to glue them on to gifts.
 * Or use a hole puncher and insert decorative string or brightly colored ribbons to attach the labels to the gifts.

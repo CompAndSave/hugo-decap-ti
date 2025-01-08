@@ -16,7 +16,7 @@ They say the kitchen is the most popular room in the home. It's where we nourish
 
 Here are some tips to make your kitchen space as green as can be without costly expenditures. These easy swaps will ensure a gentler impact on the planet, your bank account, and your patience.
 
-# Make Your Kitchen Greener
+## Make Your Kitchen Greener
 
 ### 1. Swap Paper Towels for Reusable Cloths
 

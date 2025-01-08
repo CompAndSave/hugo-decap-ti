@@ -14,7 +14,7 @@ My list only includes charities that I know best utilize their donations and use
 
 If you're ever in doubt as to the authenticity of a particular charity (including animal charities), you can look them up on the Charity Watch [website](https://www.charitywatch.org/home). It keeps charities honest, and it keeps us — the paying public — well informed.
 
-# The Best Animal Charities You Should Donate to
+## The Best Animal Charities You Should Donate to
 
 ### African Wildlife Foundation (AWF)
 

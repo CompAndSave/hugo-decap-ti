@@ -12,13 +12,13 @@ tags:
 ---
 Did you know March 10th is National Pack Your Lunch Day? If ever there were an easier way to save money and reduce your carbon footprint at the same time, you'd be hard-pressed to find it. Spending dough on dining out every day hurts our wallets and tossing out one-and-done food packaging hurts our planet — but packing a lunch helps everybody.
 
-# Celebrate National Pack Your Lunch Day!
+## Celebrate National Pack Your Lunch Day!
 
 The more time you spend getting comfortable in the kitchen, the more vibrant and delicious dishes you will create and the more confident you will feel in taking on more meals at home. Reinventing leftovers into lunchtime creations can also reduce food waste and cause us to think more critically about the food we buy each week. (We've all opened our fridges and had "oh god, what's the fuzzy substance in that jar?" moments.)
 
 The way you pack your lunch can be a massive, environmentally friendly improvement on your old practices or it can end up not making much difference at all. If you cycle through tons of plastic baggies, paper bags, disposable napkins, and cutlery each week, there is lots of room for improvement. Here are some tips to upgrading your lunchbox to leave a more positive impact on the planet.
 
-# **The Greenest Gear for Your Lunchtime Eats**
+## **The Greenest Gear for Your Lunchtime Eats**
 
 ### **Cans and Bottles**
 

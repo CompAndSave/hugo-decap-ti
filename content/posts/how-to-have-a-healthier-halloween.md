@@ -16,7 +16,7 @@ For some parents, Halloween has gotten a little out of hand since they were kids
 
 What is a parent who doesn't want his or her child to consume a truckload worth of candy to do? Here are a few ideas that may help.
 
-# Tricks and Tips for a Healthier Halloween
+## Tricks and Tips for a Healthier Halloween
 
 ### Purchase GMO-Free Snacks and Candy
 
