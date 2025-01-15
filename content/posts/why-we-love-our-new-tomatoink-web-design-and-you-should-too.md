@@ -20,8 +20,7 @@ Just like a tomato that's richly vibrant and healthy, our new website design is 
 
 A majority of our fellow TomatoInk shoppers fall into the senior age group, and we wanted to make our site more user-friendly for them.We did this by making buttons bigger as well bringing focus to helpful tools like the "Search for Ink" or "Ink Search" boxes that help you find your compatible ink cartridges by printer model.
 
-#### 
-
+#
 [![senior friendly website design](/blog/images/archive/2015/02/1_3.png "Senior Friendly Website Design at TomatoInk")](/blog/images/archive/2015/02/1%5F3.png)
 
 #### Responsive Web Design For Your Devices

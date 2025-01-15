@@ -1,5 +1,5 @@
 ---
-title: "Fun & Creative Email Marketing Campaign for Columbus Day 2013 - Tomatoink.com"
+title: "Creative Email Marketing Campaign for Columbus Day 2013"
 date: 2013-10-07T23:03:00.000Z
 slug: fun-creative-email-marketing-campaign-for-columbus-day-2013-tomatoink-com
 description: "Fun & Creative Email Marketing Campaign for Columbus Day 2013 - Tomatoink.com"
@@ -14,7 +14,7 @@ Let's have an adventure this Columbus Day! But before we get started, I just hav
 
 Are you subscribed to receive our email promotions? If you so, you know about our Columbus Day special:
 
-[![https://www.tomatoink.com/welcome/subscribe/?email=&subscriber_firstname=](/blog/images/archive/2013/10/screenshot-235x300.png)](https://www.tomatoink.com/welcome/subscribe/?email=&subscriber%5Ffirstname=)
+[![email screenshot](/blog/images/archive/2013/10/screenshot-235x300.png)](https://www.tomatoink.com/welcome/subscribe/?email=&subscriber%5Ffirstname=)
 
 With this campaign, courtesy of [Tomatoink.com](https://www.tomatoink.com/), we're going to find out. We will test your knowledge on what is considered to be one of the greatest discoveries of all time, while rewarding you for your determination to get a great deal on your next purchase. Columbus was known to have sailed on three ships, the Nina, the Santa Maria, and the Pinta. But, which one of these ships did he use to sail to the new world. Click on the ship with the correct answer to this question and be rewarded for your determination. Happy Columbus Day!
 

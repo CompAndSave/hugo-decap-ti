@@ -1,5 +1,5 @@
 ---
-title: "Hewlett-Packard offers new multifunction printers for homes and businesses"
+title: "New HP multifunction printers for homes and businesses"
 date: 2013-05-27T01:46:00.000Z
 slug: hewlett-packard-offers-new-multifunction-printers-for-homes-and-businesses
 description: "Hewlett-Packard offers new multifunction printers for homes and businesses"
@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: []
 ---
 
-[![`1](/blog/images/archive/2013/05/11-632x229.png)](/blog/images/archive/2013/05/11.png)
+[![HP LaserJet M4345 MFP](/blog/images/archive/2013/05/11-632x229.png)](/blog/images/archive/2013/05/11.png)
 
 Hewlett-Packard recently unveiled a new selection of printers for the home and office designed around meeting more of a customer's needs. In any company where printing is required, quality is often a major concern, so replacing a printer is both a major investment and a serious choice throughout the process. Perhaps more importantly, though, many businesses do a lot more than simply print papers as part of their daily operations.
 

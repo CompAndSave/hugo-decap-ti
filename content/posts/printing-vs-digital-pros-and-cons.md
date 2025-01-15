@@ -10,9 +10,7 @@ tags: []
 
 We now live in a world where everything is digitized, everything is available online. Where earlier we stored data and information in bulky documents in the form of books, files and registers that needed maintenance and storage space, we now transform all our data into digital format. So **what are the pros and cons of printing on one hand and digital data on the other?**
 
-### The benefits of digital data
-
-### 
+## The benefits of digital data
 
 [![](/blog/images/archive/2014/04/ereader-vs-book.jpg)](/blog/images/archive/2014/04/ereader-vs-book.jpg)
 

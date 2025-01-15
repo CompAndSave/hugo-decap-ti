@@ -8,14 +8,14 @@ authors: Katy Smith
 tags: []
 ---
 
-Anyone who knows about commercial inks knows about a company called INX - they are part of the Sakata INX company, which has over a billion dollars of business a year and 25 plants in the US and Canada, as well as 50 others locations spread across four continents.They are among the top three ink providers in the US, and are the only company to focus only on ink formulations for printing, from basic chemistries of the formulations to the finished product.  
-**INX MAKES BIG STRIDES IN ECO FRIENDLY PRODUCTS** 
+Anyone who knows about commercial inks knows about a company called INX - they are part of the Sakata INX company, which has over a billion dollars of business a year and 25 plants in the US and Canada, as well as 50 others locations spread across four continents.They are among the top three ink providers in the US, and are the only company to focus only on ink formulations for printing, from basic chemistries of the formulations to the finished product.
+**INX MAKES BIG STRIDES IN ECO FRIENDLY PRODUCTS**
 
-It is for this reason that it is good to pay attention to what they are doing, and they are placing a larger and larger emphasis on environmentally friendly ink systems and services, especially as it concerns digital printing operations. This includes inkjet and [printer ink cartridges](https://www.tomatoink.com/). More and more commercial applications are switching to digital machines as well, which we have discussed here previously. The digital commercial market is growing faster than experts would have deemed possible even 5 years ago, and ecologically sound practices are becoming a better and better sales point.  
+It is for this reason that it is good to pay attention to what they are doing, and they are placing a larger and larger emphasis on environmentally friendly ink systems and services, especially as it concerns digital printing operations. This includes inkjet and [printer ink cartridges](https://www.tomatoink.com/). More and more commercial applications are switching to digital machines as well, which we have discussed here previously. The digital commercial market is growing faster than experts would have deemed possible even 5 years ago, and ecologically sound practices are becoming a better and better sales point.
 ![evenesis](/blog/images/archive/2012/07/evenesis-480x280.jpg)
 
-At the SGIA show (Specialty Graphic Imaging Association) in October they released their new digital formulations, the line of Triangle EDX and JVV inks. Said Ken Kisner, President of INX Digital International:  
-![sgia_10287252](/blog/images/archive/2012/11/sgia_10287252.jpg)
+At the SGIA show (Specialty Graphic Imaging Association) in October they released their new digital formulations, the line of Triangle EDX and JVV inks. Said Ken Kisner, President of INX Digital International:
+![SGIA logo image](/blog/images/archive/2012/11/sgia_10287252.jpg)
 
 "Without a doubt, we experienced our best response to a North American show in the last five years. We spoke with many new and familiar people from throughout the U.S. as well as Latin America."
 
