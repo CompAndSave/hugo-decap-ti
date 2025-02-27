@@ -3,26 +3,7 @@
 //*--------------------------------------------------------*/
 // Color Palletes
 //*--------------------------------------------------------*/
-$color-palettes: (
-    'secondary': #559a13,
-    'primary': #e67921,
-    'blue': #0073c0,
-    'cyan': #0196e4,
-    'magenta': #fa2a92,
-    'orange': #ee4530,
-    'red': #ee3030,
-    'light-orange': #fd8524,
-    'dark-yellow': #f9c035,
-    'light-yellow': #fad71c,
-    'green': #00aa61,
-    'light-green': #73bf44,
-    'tea-green': #f2fce2,
-    'midnight': #162d39,
-    'ice': #f4fbfe,
-    'vanilla': #fff6ee,
-    'light-vanilla': #fffbf7,
-    'brown': #39281a
-);
+
 
 $black: #000000;
 $dark-gray: #333333;
@@ -33,17 +14,10 @@ $ui-light-gray: mix($light-gray, $ui-gray, 50%);
 $white: #ffffff;
 $off-white: #f7f7f7;
 
-$breakpoints: (
-        small: 0,
-        medium: 768px,
-        large: 1024px,
-        xlarge: 1200px
-);
 
 //*--------------------------------------------------------*/
 // Default Styles
 //*--------------------------------------------------------*/
-$global-font-size: 106.25%;
 $global-width: 1200px;
 $global-lineheight: 1.5;
 $body-font-family: 'Lato', Geneva, Tahoma, sans-serif;

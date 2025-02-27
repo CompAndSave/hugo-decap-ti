@@ -50,7 +50,7 @@
     }
 }
 
-@media screen and #{breakpoint(medium)} {
+@media screen and (create-breakpoint(medium)) {
     .header {
         justify-content: flex-start;
     }
@@ -63,7 +63,7 @@
     }
 }
 
-@media screen and #{breakpoint(large)} {
+@media screen and (create-breakpoint(large)) {
     .header {
         justify-content: space-between;
         padding: 0 rem 1rem;
@@ -78,7 +78,7 @@
     }
 }
 
-@media screen and #{breakpoint(xlarge)} {
+@media screen and (create-breakpoint(xlarge)) {
     .header {
         padding: 0;
     }

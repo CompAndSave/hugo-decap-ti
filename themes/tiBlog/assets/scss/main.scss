@@ -1,9 +1,191 @@
 @import 'settings';
 @import 'reset';
-@import 'base';
 @import 'base/block';
 @import 'base/components';
 
+html {
+    font-size: $global-font-size;
+}
+
+body {
+    color: $font-color;
+    font-family: $body-font-family;
+    line-height: $global-lineheight;
+    word-spacing: $global-word-spacing;
+    -ms-text-size-adjust: $global-font-size;
+    -webkit-text-size-adjust: $global-font-size;
+    background: url('../images/assets/fiber-bg_light.jpg') repeat #fff6ed;
+}
+
+.container {
+    max-width: $global-width;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.main {
+    margin: 3rem auto;
+}
+
+small {
+    font-size: 88%;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.show-for-sr, .show-on-focus {
+    clip: rect(0,0,0,0);
+    border: 0;
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute!important;
+    white-space: nowrap;
+    width: 1px;
+}
+
+h1, h2, h3 {
+    font-family: $sec-font-family;
+    line-height: 1.2;
+}
+h1 {
+    font-size: rem-calc(35);
+    margin-bottom: 1.5rem;
+}
+h2 {
+    font-size: rem-calc(30);
+    margin-bottom: 1.25rem;
+    color: get-color('secondary');
+    font-weight: 600;
+}
+h3 {
+    font-size: rem-calc(23);
+    margin-bottom: 1rem;
+}
+
+p {
+    margin-bottom: 1.5rem;
+}
+
+b {
+    font-weight: bold;
+}
+.Apple-interchange-newline {
+    display: none;
+}
+
+a {
+    line-height: 1.1;
+    font-weight: 600;
+    background: linear-gradient(0deg, get-color('primary'), get-color('primary')) no-repeat left 100%;
+    background-size: 0 2px;
+    transition: all 0.35s;
+    color: darken(get-color(primary), 5%);
+    padding-bottom: rem-calc(2);
+
+    &:hover {
+        background-size: 100% 2px;
+        background-position-x: left;
+        text-decoration: none;
+    }
+    &:focus {
+        outline: 2px dotted $ui-gray;
+    }
+
+}
+
+table {
+    margin-bottom: 1rem;
+    td, th {
+        padding: 1rem;
+        border: $global-border;
+    }
+}
+
+.font-italic, em {
+    font-style: italic;
+}
+
+.margin-2 {
+    margin: 2rem;
+}
+
+.margin-top-4 {
+    margin: 4rem;
+}
+
+details {
+    margin: 1rem auto;
+    padding: 1rem 0;
+    summary {
+        list-style-type: none;
+        cursor: pointer;
+        position: relative;
+        font-size: rem-calc(19);
+        font-weight: 700;
+        display: block;
+        &:before {
+            content: '\25BC';
+            color: $medium-gray;
+            display: inline-block;
+            width: 17px;
+            height: 17px;
+            margin-top: rem-calc(-12);
+            position: absolute;
+            right: 1rem;
+            top: 50%;
+        }
+    }
+    &[open] {
+        summary {
+            color: get-color('secondary');
+            &:before {
+                content: '\25B2';
+                color: get-color('secondary');
+            }
+        }
+    }
+    .acc-content {
+        background: get-color('vanilla');
+        padding: 1rem;
+        margin-top: 0.5rem;
+    }
+}
+
+code {
+    padding: rem-calc(5 10);
+    background: darken(get-color('light-vanilla'), 5%);
+}
+
+.responsive-embed.widescreen {
+    padding-bottom: 56.25%;
+    margin: 1rem auto;
+    height: 0;
+    margin-bottom: 0.9411764706rem;
+    overflow: hidden;
+    position: relative;
+    iframe {
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+    }
+}
+.no-border {
+    border: 0;
+}
+
+
+@media screen and (create-breakpoint(xlarge)) {
+    .container {
+        padding: 0;
+    }
+}
 .post-card-image{
     max-width: rem-calc(300);
 

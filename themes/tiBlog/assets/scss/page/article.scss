@@ -59,11 +59,28 @@
             list-style-type: decimal;
         }
     }
+    a {
+        &:has(img) {
+            background-size: 0;
+        }
+    }
+    table {
+        border-collapse: collapse;
+        margin: 2rem 0;
+        th,td{
+            padding: 1rem;
+            border: $global-border;
+        }
+        th {
+            background: $off-white;
+            font-weight: 700;
+        }
+    }
 }
 
 @import '../base/block/sharing-buttons';
 
-@media screen and #{breakpoint(large)} {
+@media screen and (create-breakpoint(large)) {
     .content {
         padding: 3rem;
 

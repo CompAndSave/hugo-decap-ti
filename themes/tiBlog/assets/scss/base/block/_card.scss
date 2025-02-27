@@ -77,13 +77,13 @@
     }
 }
 
-@media screen and #{breakpoint(medium)} {
+@media screen and (create-breakpoint(medium)) {
     .card-post {
         flex: 0 0 calc(100%/2 - 2rem);
     }
 }
 
-@media screen and #{breakpoint(large)} {
+@media screen and (create-breakpoint(large)) {
     .post-feed {
         padding: 0.5rem 1.5rem;
     }

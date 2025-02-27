@@ -9,3 +9,4 @@ static/admin/local-config.yml
 .vscode/*
 *.sh
 /resources/
+.hugo_build.lock

@@ -92,7 +92,7 @@
     }
 }
 
-@media screen and #{breakpoint(medium)} {
+@media screen and (create-breakpoint(medium)) {
     .footer {
         justify-content: space-between;
     }
@@ -100,14 +100,14 @@
         margin-bottom: 0;
         flex: 0 0 auto;
     }
-    
+
     .info-wrapper {
         flex: 1 0 0;
         padding-left: 3rem;
     }
 }
 
-@media screen and #{breakpoint(large)} {
+@media screen and (create-breakpoint(large)) {
     .footer {
         padding: 2rem 1rem;
     }
@@ -116,7 +116,7 @@
     }
 }
 
-@media screen and #{breakpoint(xlarge)} {
+@media screen and (create-breakpoint(xlarge)) {
     .footer {
         padding: 2rem 0;
     }

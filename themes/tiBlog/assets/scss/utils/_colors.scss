@@ -1,3 +1,24 @@
+$color-palettes: (
+    'secondary': #559a13,
+    'primary': #e67921,
+    'blue': #0073c0,
+    'cyan': #0196e4,
+    'magenta': #fa2a92,
+    'orange': #ee4530,
+    'red': #ee3030,
+    'light-orange': #fd8524,
+    'dark-yellow': #f9c035,
+    'light-yellow': #fad71c,
+    'green': #00aa61,
+    'light-green': #73bf44,
+    'tea-green': #f2fce2,
+    'midnight': #162d39,
+    'ice': #f4fbfe,
+    'vanilla': #fff6ee,
+    'light-vanilla': #fffbf7,
+    'brown': #39281a
+);
+
 @function get-color($value) {
     @if map-has-key($color-palettes, $value) {
         @return map-get($color-palettes, $value);

@@ -1,3 +1,6 @@
+
+$global-font-size: 106.25%;
+
 @function rem-calc($values) {
     $rem-values: ();
     $count: length($values);
@@ -21,6 +24,6 @@
     @if $value == 0rem {
         $value: 0;
     }
-    
+
     @return $value;
 }
