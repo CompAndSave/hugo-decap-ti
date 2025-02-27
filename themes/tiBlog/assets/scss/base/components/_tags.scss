@@ -1,3 +1,5 @@
+@use "../../settings";
+
 .tags {
     display: inline-flex;
     align-items: center;
@@ -12,7 +14,7 @@
         display: inline-block;
         line-height: 1;
         border: 0;
-        color: $medium-gray;
+        color: settings.$medium-gray;
         border-radius: 5000px;
         cursor: pointer;
         transition: all 0.25s ease-out;

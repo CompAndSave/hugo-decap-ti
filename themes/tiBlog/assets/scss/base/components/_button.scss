@@ -1,27 +1,29 @@
-@import '../../icomoon/variables/variables';
+@use '../../icomoon/variables/variables';
+@use "../../settings";
+@use "../../utils/base";
 
 .button {
     appearance: none;
     display: inline-block;
     vertical-align: middle;
-    border-radius: $button-radius;
+    border-radius: settings.$button-radius;
     line-height: 1;
     text-align: center;
     cursor: pointer;
     font-weight: bold;
     font-size: 1rem;
-    background-color: $button-background;
-    color: $button-color;
-    padding: $button-padding;
+    background-color: settings.$button-background;
+    color: settings.$button-color;
+    padding: settings.$button-padding;
     position: relative;
-    transition: $button-transition;
-    text-shadow: $global-text-shadow;
-    border: 2px solid $button-background;
+    transition: settings.$button-transition;
+    text-shadow: settings.$global-text-shadow;
+    border: 2px solid settings.$button-background;
     &:before {
         font-family:"TI-Icons";
-        content: $cas-i-logo-icon;
-        color: $button-background-hover;
-        font-size: rem-calc(22);
+        content: variables.$cas-i-logo-icon;
+        color: settings.$button-background-hover;
+        font-size: base.rem-calc(22);
         font-weight: normal;
         -webkit-font-smoothing: antialiased;
         opacity: 0;
@@ -34,46 +36,46 @@
         width: 100%;
         height: 100%;
         text-align: center;
-        -webkit-transition: $button-transition;
-        -moz-transition: $button-transition;
-        transition: $button-transition;
+        -webkit-transition: settings.$button-transition;
+        -moz-transition: settings.$button-transition;
+        transition: settings.$button-transition;
         text-shadow: none;
         outline-color: transparent;
     }
     &:hover, &:focus, &:active {
         outline-color: transparent;
-        background-color: $button-background-hover;
-        color: $button-color;
-        border-color: $button-background-hover;
+        background-color: settings.$button-background-hover;
+        color: settings.$button-color;
+        border-color: settings.$button-background-hover;
         &:before {
             transform: translateY(-31px);
             opacity: 1;
         }
     }
     &:focus {
-        box-shadow: inset 0 0 0 2px $white;
+        box-shadow: inset 0 0 0 2px settings.$white;
     }
     &.hollow {
-        -webkit-transition: $button-hollow-transition;
-        -moz-transition: $button-hollow-transition;
-        transition: $button-hollow-transition;
+        -webkit-transition: settings.$button-hollow-transition;
+        -moz-transition: settings.$button-hollow-transition;
+        transition: settings.$button-hollow-transition;
         border: 2px solid;
         background-color: transparent;
-        color: $button-background;
+        color: settings.$button-background;
         text-shadow: none;
         &:before {
-            color: $button-background;
+            color: settings.$button-background;
         }
         &:hover, &:active, &:focus {
-            color: $button-hollow-hover-color;
-            border-color: $button-hollow-hover-color;
+            color: settings.$button-hollow-hover-color;
+            border-color: settings.$button-hollow-hover-color;
             &:before {
-                color: $button-hollow-hover-color;
+                color: settings.$button-hollow-hover-color;
             }
         }
         &:focus {
             box-shadow: none;
-            background-color: rgba($button-hollow-hover-color, 0.15);
+            background-color: rgba(settings.$button-hollow-hover-color, 0.15);
         }
     }
 }

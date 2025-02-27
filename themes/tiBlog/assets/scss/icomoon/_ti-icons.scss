@@ -1,4 +1,4 @@
-@import "variables/variables";
+@use "variables/variables";
 
 @font-face {
     font-family: 'TI-Icons';
@@ -29,801 +29,801 @@
 
 .cas-i-order-history {
     &:before {
-        content: $cas-i-order-history;
+        content: variables.$cas-i-order-history;
     }
 }
 .cas-i-plus-circle {
     &:before {
-        content: $cas-i-plus-circle;
+        content: variables.$cas-i-plus-circle;
     }
 }
 .cas-i-asc-arrow {
     &:before {
-        content: $cas-i-asc-arrow;
+        content: variables.$cas-i-asc-arrow;
     }
 }
 .cas-i-condition {
     &:before {
-        content: $cas-i-condition;
+        content: variables.$cas-i-condition;
     }
 }
 .cas-i-desc-arrow {
     &:before {
-        content: $cas-i-desc-arrow;
+        content: variables.$cas-i-desc-arrow;
     }
 }
 .cas-i-in-cart {
     &:before {
-        content: $cas-i-in-cart;
+        content: variables.$cas-i-in-cart;
     }
 }
 .cas-i-order-review {
     &:before {
-        content: $cas-i-order-review;
+        content: variables.$cas-i-order-review;
     }
 }
 .cas-i-qa {
     &:before {
-        content: $cas-i-qa;
+        content: variables.$cas-i-qa;
     }
 }
 .cas-i-quick-reorder {
     &:before {
-        content: $cas-i-reorder;
+        content: variables.$cas-i-reorder;
     }
 }
 .cas-i-return {
     &:before {
-        content: $cas-i-return;
+        content: variables.$cas-i-return;
     }
 }
 .cas-i-small-grid {
     &:before {
-        content: $cas-i-small-grid;
+        content: variables.$cas-i-small-grid;
     }
 }
 .cas-i-star-rating {
     &:before {
-        content: $cas-i-star-rating;
+        content: variables.$cas-i-star-rating;
     }
 }
 .cas-i-success {
     &:before {
-        content: $cas-i-success;
+        content: variables.$cas-i-success;
     }
 }
 .cas-i-menu {
     &:before {
-        content: $cas-i-menu;
+        content: variables.$cas-i-menu;
     }
 }
 .cas-i-yelp {
     &:before {
-        content: $cas-i-yelp;
+        content: variables.$cas-i-yelp;
     }
 }
 .cas-i-lquo {
     &:before {
-        content: $cas-i-lquo;
+        content: variables.$cas-i-lquo;
     }
 }
 .cas-i-amazon-pay {
     &:before {
-        content: $cas-i-amazon-pay;
+        content: variables.$cas-i-amazon-pay;
     }
 }
 .cas-i-address-book {
     &:before {
-        content: $cas-i-address-book;
+        content: variables.$cas-i-address-book;
     }
 }
 .cas-i-alarm2 {
     &:before {
-        content: $cas-i-alarm2;
+        content: variables.$cas-i-alarm2;
     }
 }
 .cas-i-amex {
     &:before {
-        content: $cas-i-amex;
+        content: variables.$cas-i-amex;
     }
 }
 .cas-i-arrow-down {
     &:before {
-        content: $cas-i-arrow-down;
+        content: variables.$cas-i-arrow-down;
     }
 }
 .cas-i-arrow-down2 {
     &:before {
-        content: $cas-i-arrow-down2;
+        content: variables.$cas-i-arrow-down2;
     }
 }
 .cas-i-arrow-left {
     &:before {
-        content: $cas-i-arrow-left;
+        content: variables.$cas-i-arrow-left;
     }
 }
 .cas-i-arrow-left2 {
     &:before {
-        content: $cas-i-arrow-left2;
+        content: variables.$cas-i-arrow-left2;
     }
 }
 .cas-i-arrow-right {
     &:before {
-        content: $cas-i-arrow-right;
+        content: variables.$cas-i-arrow-right;
     }
 }
 .cas-i-arrow-right2 {
     &:before {
-        content: $cas-i-arrow-right2;
+        content: variables.$cas-i-arrow-right2;
     }
 }
 .cas-i-arrow-up {
     &:before {
-        content: $cas-i-arrow-up;
+        content: variables.$cas-i-arrow-up;
     }
 }
 .cas-i-arrow-up2 {
     &:before {
-        content: $cas-i-arrow-up2;
+        content: variables.$cas-i-arrow-up2;
     }
 }
 .cas-i-attachment {
     &:before {
-        content: $cas-i-attachment;
+        content: variables.$cas-i-attachment;
     }
 }
 .cas-i-bell {
     &:before {
-        content: $cas-i-bell;
+        content: variables.$cas-i-bell;
     }
 }
 .cas-i-finder {
     &:before {
-        content: $cas-i-finder;
+        content: variables.$cas-i-finder;
     }
 }
 .cas-i-blocked {
     &:before {
-        content: $cas-i-blocked;
+        content: variables.$cas-i-blocked;
     }
 }
 .cas-i-knowledge-base {
     &:before {
-        content: $cas-i-knowledge-base;
+        content: variables.$cas-i-knowledge-base;
     }
 }
 .cas-i-bookmark {
     &:before {
-        content: $cas-i-bookmark;
+        content: variables.$cas-i-bookmark;
     }
 }
 .cas-i-books {
     &:before {
-        content: $cas-i-books;
+        content: variables.$cas-i-books;
     }
 }
 .cas-i-briefcase {
     &:before {
-        content: $cas-i-briefcase;
+        content: variables.$cas-i-briefcase;
     }
 }
 .cas-i-bubble {
     &:before {
-        content: $cas-i-bubble;
+        content: variables.$cas-i-bubble;
     }
 }
 .cas-i-bubble2 {
     &:before {
-        content: $cas-i-bubble2;
+        content: variables.$cas-i-bubble2;
     }
 }
 .cas-i-bubbles {
     &:before {
-        content: $cas-i-bubbles;
+        content: variables.$cas-i-bubbles;
     }
 }
 .cas-i-chat {
     &:before {
-        content: $cas-i-chat;
+        content: variables.$cas-i-chat;
     }
 }
 .cas-i-bubbles3 {
     &:before {
-        content: $cas-i-bubbles3;
+        content: variables.$cas-i-bubbles3;
     }
 }
 .cas-i-bubbles4 {
     &:before {
-        content: $cas-i-bubbles4;
+        content: variables.$cas-i-bubbles4;
     }
 }
 .cas-i-busy {
     &:before {
-        content: $cas-i-busy;
+        content: variables.$cas-i-busy;
     }
 }
 .cas-i-camera {
     &:before {
-        content: $cas-i-camera;
+        content: variables.$cas-i-camera;
     }
 }
 .cas-i-video {
     &:before {
-        content: $cas-i-video;
+        content: variables.$cas-i-video;
     }
 }
 .cas-i-error {
     &:before {
-        content: $cas-i-error;
+        content: variables.$cas-i-error;
     }
 }
 .cas-i-cart {
     &:before {
-        content: $cas-i-cart;
+        content: variables.$cas-i-cart;
     }
 }
 .cas-i-checkmark {
     &:before {
-        content: $cas-i-checkmark;
+        content: variables.$cas-i-checkmark;
     }
 }
 .cas-i-checkmark2 {
     &:before {
-        content: $cas-i-checkmark2;
+        content: variables.$cas-i-checkmark2;
     }
 }
 .cas-i-clock {
     &:before {
-        content: $cas-i-clock;
+        content: variables.$cas-i-clock;
     }
 }
 .cas-i-cross {
     &:before {
-        content: $cas-i-cross;
+        content: variables.$cas-i-cross;
     }
 }
 .cas-i-gear {
     &:before {
-        content: $cas-i-gear;
+        content: variables.$cas-i-gear;
     }
 }
 .cas-i-coin {
     &:before {
-        content: $cas-i-coin;
+        content: variables.$cas-i-coin;
     }
 }
 .cas-i-logo-icon {
     &:before {
-        content: $cas-i-logo-icon;
+        content: variables.$cas-i-logo-icon;
     }
 }
 .cas-i-copy {
     &:before {
-        content: $cas-i-copy;
+        content: variables.$cas-i-copy;
     }
 }
 .cas-i-clipboard {
     &:before {
-        content: $cas-i-clipboard;
+        content: variables.$cas-i-clipboard;
     }
 }
 .cas-i-card {
     &:before {
-        content: $cas-i-card;
+        content: variables.$cas-i-card;
     }
 }
 .cas-i-discover {
     &:before {
-        content: $cas-i-discover;
+        content: variables.$cas-i-discover;
     }
 }
 .cas-i-save {
     &:before {
-        content: $cas-i-save;
+        content: variables.$cas-i-save;
     }
 }
 .cas-i-download {
     &:before {
-        content: $cas-i-download;
+        content: variables.$cas-i-download;
     }
 }
 .cas-i-download2 {
     &:before {
-        content: $cas-i-download2;
+        content: variables.$cas-i-download2;
     }
 }
 .cas-i-download3 {
     &:before {
-        content: $cas-i-download3;
+        content: variables.$cas-i-download3;
     }
 }
 .cas-i-drawer {
     &:before {
-        content: $cas-i-drawer;
+        content: variables.$cas-i-drawer;
     }
 }
 .cas-i-drawer2 {
     &:before {
-        content: $cas-i-drawer2;
+        content: variables.$cas-i-drawer2;
     }
 }
 .cas-i-drawer3 {
     &:before {
-        content: $cas-i-drawer3;
+        content: variables.$cas-i-drawer3;
     }
 }
 .cas-i-droplet {
     &:before {
-        content: $cas-i-droplet;
+        content: variables.$cas-i-droplet;
     }
 }
 .cas-i-enter {
     &:before {
-        content: $cas-i-enter;
+        content: variables.$cas-i-enter;
     }
 }
 .cas-i-email {
     &:before {
-        content: $cas-i-email;
+        content: variables.$cas-i-email;
     }
 }
 .cas-i-exit {
     &:before {
-        content: $cas-i-exit;
+        content: variables.$cas-i-exit;
     }
 }
 .cas-i-eye {
     &:before {
-        content: $cas-i-eye;
+        content: variables.$cas-i-eye;
     }
 }
 .cas-i-eye2 {
     &:before {
-        content: $cas-i-eye2;
+        content: variables.$cas-i-eye2;
     }
 }
 .cas-i-eye-blocked {
     &:before {
-        content: $cas-i-eye-blocked;
+        content: variables.$cas-i-eye-blocked;
     }
 }
 .cas-i-facebook {
     &:before {
-        content: $cas-i-facebook;
+        content: variables.$cas-i-facebook;
     }
 }
 .cas-i-file {
     &:before {
-        content: $cas-i-file;
+        content: variables.$cas-i-file;
     }
 }
 .cas-i-file2 {
     &:before {
-        content: $cas-i-file2;
+        content: variables.$cas-i-file2;
     }
 }
 .cas-i-file3 {
     &:before {
-        content: $cas-i-file3;
+        content: variables.$cas-i-file3;
     }
 }
 .cas-i-file4 {
     &:before {
-        content: $cas-i-file4;
+        content: variables.$cas-i-file4;
     }
 }
 .cas-i-file-pdf {
     &:before {
-        content: $cas-i-file-pdf;
+        content: variables.$cas-i-file-pdf;
     }
 }
 .cas-i-film {
     &:before {
-        content: $cas-i-film;
+        content: variables.$cas-i-film;
     }
 }
 .cas-i-filter {
     &:before {
-        content: $cas-i-filter;
+        content: variables.$cas-i-filter;
     }
 }
 .cas-i-flag {
     &:before {
-        content: $cas-i-flag;
+        content: variables.$cas-i-flag;
     }
 }
 .cas-i-folder {
     &:before {
-        content: $cas-i-folder;
+        content: variables.$cas-i-folder;
     }
 }
 .cas-i-folder-open {
     &:before {
-        content: $cas-i-folder-open;
+        content: variables.$cas-i-folder-open;
     }
 }
 .cas-i-forward {
     &:before {
-        content: $cas-i-forward;
+        content: variables.$cas-i-forward;
     }
 }
 .cas-i-gift-box {
     &:before {
-        content: $cas-i-gift-box;
+        content: variables.$cas-i-gift-box;
     }
 }
 .cas-i-google {
     &:before {
-        content: $cas-i-google;
+        content: variables.$cas-i-google;
     }
 }
 .cas-i-google-plus {
     &:before {
-        content: $cas-i-google-plus;
+        content: variables.$cas-i-google-plus;
     }
 }
 .cas-i-large-grid {
     &:before {
-        content: $cas-i-large-grid;
+        content: variables.$cas-i-large-grid;
     }
 }
 .cas-i-heart {
     &:before {
-        content: $cas-i-heart;
+        content: variables.$cas-i-heart;
     }
 }
 .cas-i-heart2 {
     &:before {
-        content: $cas-i-heart2;
+        content: variables.$cas-i-heart2;
     }
 }
 .cas-i-history {
     &:before {
-        content: $cas-i-history;
+        content: variables.$cas-i-history;
     }
 }
 .cas-i-home {
     &:before {
-        content: $cas-i-home;
+        content: variables.$cas-i-home;
     }
 }
 .cas-i-address {
     &:before {
-        content: $cas-i-address;
+        content: variables.$cas-i-address;
     }
 }
 .cas-i-image2 {
     &:before {
-        content: $cas-i-image2;
+        content: variables.$cas-i-image2;
     }
 }
 .cas-i-info {
     &:before {
-        content: $cas-i-info;
+        content: variables.$cas-i-info;
     }
 }
 .cas-i-key2 {
     &:before {
-        content: $cas-i-key2;
+        content: variables.$cas-i-key2;
     }
 }
 .cas-i-eco-leaf {
     &:before {
-        content: $cas-i-eco-leaf;
+        content: variables.$cas-i-eco-leaf;
     }
 }
 .cas-i-chain {
     &:before {
-        content: $cas-i-chain;
+        content: variables.$cas-i-chain;
     }
 }
 .cas-i-list-view {
     &:before {
-        content: $cas-i-list-view;
+        content: variables.$cas-i-list-view;
     }
 }
 .cas-i-pin {
     &:before {
-        content: $cas-i-pin;
+        content: variables.$cas-i-pin;
     }
 }
 .cas-i-lock {
     &:before {
-        content: $cas-i-lock;
+        content: variables.$cas-i-lock;
     }
 }
 .cas-i-mastercard {
     &:before {
-        content: $cas-i-mastercard;
+        content: variables.$cas-i-mastercard;
     }
 }
 .cas-i-meter {
     &:before {
-        content: $cas-i-meter;
+        content: variables.$cas-i-meter;
     }
 }
 .cas-i-moneyback {
     &:before {
-        content: $cas-i-moneyback;
+        content: variables.$cas-i-moneyback;
     }
 }
 .cas-i-newspaper {
     &:before {
-        content: $cas-i-newspaper;
+        content: variables.$cas-i-newspaper;
     }
 }
 .cas-i-external {
     &:before {
-        content: $cas-i-external;
+        content: variables.$cas-i-external;
     }
 }
 .cas-i-notax {
     &:before {
-        content: $cas-i-notax;
+        content: variables.$cas-i-notax;
     }
 }
 .cas-i-knowledge {
     &:before {
-        content: $cas-i-knowledge;
+        content: variables.$cas-i-knowledge;
     }
 }
 .cas-i-notification {
     &:before {
-        content: $cas-i-notification;
+        content: variables.$cas-i-notification;
     }
 }
 .cas-i-corporate {
     &:before {
-        content: $cas-i-corporate;
+        content: variables.$cas-i-corporate;
     }
 }
 .cas-i-order-tracking {
     &:before {
-        content: $cas-i-order-tracking;
+        content: variables.$cas-i-order-tracking;
     }
 }
 .cas-i-paste {
     &:before {
-        content: $cas-i-paste;
+        content: variables.$cas-i-paste;
     }
 }
 .cas-i-paste2 {
     &:before {
-        content: $cas-i-paste2;
+        content: variables.$cas-i-paste2;
     }
 }
 .cas-i-paste3 {
     &:before {
-        content: $cas-i-paste3;
+        content: variables.$cas-i-paste3;
     }
 }
 .cas-i-paypal {
     &:before {
-        content: $cas-i-paypal;
+        content: variables.$cas-i-paypal;
     }
 }
 .cas-i-paypal2 {
     &:before {
-        content: $cas-i-paypal2;
+        content: variables.$cas-i-paypal2;
     }
 }
 .cas-i-paypal3 {
     &:before {
-        content: $cas-i-paypal3;
+        content: variables.$cas-i-paypal3;
     }
 }
 .cas-i-pencil {
     &:before {
-        content: $cas-i-pencil;
+        content: variables.$cas-i-pencil;
     }
 }
 .cas-i-phone {
     &:before {
-        content: $cas-i-phone;
+        content: variables.$cas-i-phone;
     }
 }
 .cas-i-piggy-bank {
     &:before {
-        content: $cas-i-piggy-bank;
+        content: variables.$cas-i-piggy-bank;
     }
 }
 .cas-i-pinterest {
     &:before {
-        content: $cas-i-pinterest;
+        content: variables.$cas-i-pinterest;
     }
 }
 .cas-i-play {
     &:before {
-        content: $cas-i-play;
+        content: variables.$cas-i-play;
     }
 }
 .cas-i-plus {
     &:before {
-        content: $cas-i-plus;
+        content: variables.$cas-i-plus;
     }
 }
 .cas-i-printer {
     &:before {
-        content: $cas-i-printer;
+        content: variables.$cas-i-printer;
     }
 }
 .cas-i-profile {
     &:before {
-        content: $cas-i-profile;
+        content: variables.$cas-i-profile;
     }
 }
 .cas-i-help {
     &:before {
-        content: $cas-i-help;
+        content: variables.$cas-i-help;
     }
 }
 .cas-i-recycle {
     &:before {
-        content: $cas-i-recycle;
+        content: variables.$cas-i-recycle;
     }
 }
 .cas-i-trashcan {
     &:before {
-        content: $cas-i-trashcan;
+        content: variables.$cas-i-trashcan;
     }
 }
 .cas-i-checklist {
     &:before {
-        content: $cas-i-checklist;
+        content: variables.$cas-i-checklist;
     }
 }
 .cas-i-spam {
     &:before {
-        content: $cas-i-spam;
+        content: variables.$cas-i-spam;
     }
 }
 .cas-i-spinner {
     &:before {
-        content: $cas-i-spinner;
+        content: variables.$cas-i-spinner;
     }
 }
 .cas-i-stack {
     &:before {
-        content: $cas-i-stack;
+        content: variables.$cas-i-stack;
     }
 }
 .cas-i-star {
     &:before {
-        content: $cas-i-star;
+        content: variables.$cas-i-star;
     }
 }
 .cas-i-half-star {
     &:before {
-        content: $cas-i-half-star;
+        content: variables.$cas-i-half-star;
     }
 }
 .cas-i-full-star {
     &:before {
-        content: $cas-i-full-star;
+        content: variables.$cas-i-full-star;
     }
 }
 .cas-i-stopwatch {
     &:before {
-        content: $cas-i-stopwatch;
+        content: variables.$cas-i-stopwatch;
     }
 }
 .cas-i-support {
     &:before {
-        content: $cas-i-support;
+        content: variables.$cas-i-support;
     }
 }
 .cas-i-switch {
     &:before {
-        content: $cas-i-switch;
+        content: variables.$cas-i-switch;
     }
 }
 .cas-i-table {
     &:before {
-        content: $cas-i-table;
+        content: variables.$cas-i-table;
     }
 }
 .cas-i-coupon {
     &:before {
-        content: $cas-i-coupon;
+        content: variables.$cas-i-coupon;
     }
 }
 .cas-i-guarantee {
     &:before {
-        content: $cas-i-guarantee;
+        content: variables.$cas-i-guarantee;
     }
 }
 .cas-i-thumbs-down {
     &:before {
-        content: $cas-i-thumbs-down;
+        content: variables.$cas-i-thumbs-down;
     }
 }
 .cas-i-trophy {
     &:before {
-        content: $cas-i-trophy;
+        content: variables.$cas-i-trophy;
     }
 }
 .cas-i-truck {
     &:before {
-        content: $cas-i-truck;
+        content: variables.$cas-i-truck;
     }
 }
 .cas-i-twitter {
     &:before {
-        content: $cas-i-twitter;
+        content: variables.$cas-i-twitter;
     }
 }
 .cas-i-unlocked {
     &:before {
-        content: $cas-i-unlocked;
+        content: variables.$cas-i-unlocked;
     }
 }
 .cas-i-upload {
     &:before {
-        content: $cas-i-upload;
+        content: variables.$cas-i-upload;
     }
 }
 .cas-i-account {
     &:before {
-        content: $cas-i-account;
+        content: variables.$cas-i-account;
     }
 }
 .cas-i-account2 {
     &:before {
-        content: $cas-i-account2;
+        content: variables.$cas-i-account2;
     }
 }
 .cas-i-visa {
     &:before {
-        content: $cas-i-visa;
+        content: variables.$cas-i-visa;
     }
 }
 .cas-i-wand {
     &:before {
-        content: $cas-i-wand;
+        content: variables.$cas-i-wand;
     }
 }
 .cas-i-warning {
     &:before {
-        content: $cas-i-warning;
+        content: variables.$cas-i-warning;
     }
 }
 .cas-i-wordpress {
     &:before {
-        content: $cas-i-wordpress;
+        content: variables.$cas-i-wordpress;
     }
 }
 .cas-i-troubleshoot {
     &:before {
-        content: $cas-i-troubleshoot;
+        content: variables.$cas-i-troubleshoot;
     }
 }
 .cas-i-youtube {
     &:before {
-        content: $cas-i-youtube;
+        content: variables.$cas-i-youtube;
     }
 }
 .cas-i-ticket {
     &:before {
-        content: $cas-i-ticket;
+        content: variables.$cas-i-ticket;
     }
 }
 .cas-i-store-credit {
     &:before {
-        content: $cas-i-store-credit;
+        content: variables.$cas-i-store-credit;
     }
 }
 .cas-i-rquo {
     &:before {
-        content: $cas-i-rquo;
+        content: variables.$cas-i-rquo;
     }
 }
 .cas-i-search {
     &:before {
-        content: $cas-i-search;
+        content: variables.$cas-i-search;
     }
 }
 .cas-i-warranty {
     &:before {
-        content: $cas-i-warranty;
+        content: variables.$cas-i-warranty;
     }
 }

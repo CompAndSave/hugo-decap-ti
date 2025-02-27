@@ -1,4 +1,7 @@
-@import 'utils/utils';
+@use "sass:color";
+@use 'utils/utils';
+@use "utils/base";
+@use "utils/colors";
 
 //*--------------------------------------------------------*/
 // Color Palletes
@@ -9,8 +12,8 @@ $black: #000000;
 $dark-gray: #333333;
 $medium-gray: #676d7f;
 $light-gray: #dfe3e4;
-$ui-gray: mix($light-gray, $medium-gray, 50%);
-$ui-light-gray: mix($light-gray, $ui-gray, 50%);
+$ui-gray: color.mix($light-gray, $medium-gray, 50%);
+$ui-light-gray: color.mix($light-gray, $ui-gray, 50%);
 $white: #ffffff;
 $off-white: #f7f7f7;
 
@@ -26,29 +29,29 @@ $script-font: 'Oleo Script', cursive;
 $font-color: $dark-gray;
 $global-radius: 5px;
 $global-border: 1px solid $light-gray;
-$global-box-shadow: 0px 2px 4px 0 rgba(get-color('midnight'), .2);
+$global-box-shadow: 0px 2px 4px 0 rgba(colors.get-color('midnight'), .2);
 $global-word-spacing: .06em !default;
 $global-text-shadow: 1px 1px 1px rgba($dark-gray, 0.5);
 
 //*--------------------------------------------------------*/
 // button
 //*--------------------------------------------------------*/
-$button-padding : rem-calc(8 26);
+$button-padding : base.rem-calc(8 26);
 $button-background-hover-lightness: 10%;
-$button-background: get-color('primary');
-$button-background-hover: scale-color($button-background, $lightness: $button-background-hover-lightness);
+$button-background: colors.get-color('primary');
+$button-background-hover: color.scale($button-background, $lightness: $button-background-hover-lightness);
 $button-radius: 0;
 $button-color: $white;
 $button-color-alt: $dark-gray;
 $button-hollow-border-width: 1px;
 $button-hollow-hover-lightness: 0%;
 $button-transition: transform 0.35s cubic-bezier(0, 0.35, 0.65, 0.8);
-$button-box-shadow: 1px 1px 1px 0 rgba(get-color('midnight'), 0.65), $button-background -10rem 0 0 0 inset;
-$button-hover-box-shadow: 1px 1px 1px 0 rgba(get-color('midnight'), 0.65), lighten($button-background, 5%) 0 0 0 inset;
-$button-active-box-shadow: 0px 1px 5px 0px rgba(get-color('midnight'), 0.5) inset;
+$button-box-shadow: 1px 1px 1px 0 rgba(colors.get-color('midnight'), 0.65), $button-background -10rem 0 0 0 inset;
+$button-hover-box-shadow: 1px 1px 1px 0 rgba(colors.get-color('midnight'), 0.65), color.adjust($button-background, $lightness: 5%) 0 0 0 inset;
+$button-active-box-shadow: 0px 1px 5px 0px rgba(colors.get-color('midnight'), 0.5) inset;
 $button-hollow-border: 0;
 $button-hollow-border-width: 2px;
-$button-hollow-hover-color: lighten(get-color('light-orange'), 10%);
+$button-hollow-hover-color: color.adjust(colors.get-color('light-orange'), $lightness: 10%);
 $button-hollow-box-shadow: transparent inset 0 0 0 2px $button-background;
 $button-hollow-hover-box-shadow: inset 0 0 0 2em $button-hollow-hover-color;
 $button-hollow-transition: all 0.35s, $button-transition, opacity 0.75s;
@@ -57,6 +60,6 @@ $button-hollow-transition: all 0.35s, $button-transition, opacity 0.75s;
 // Form
 //*--------------------------------------------------------*/
 $input-border: 1px solid $light-gray;
-$input-border-focus: 1px solid lighten(get-color('secondary'), 5%);
-$input-shadow: inset 0px 0px 5px rgba(get-color('midnight'), 0.2);
-$input-shadow-focus: inset 0 0px 3px lighten(get-color('secondary'), 5%);
+$input-border-focus: 1px solid color.adjust(colors.get-color('secondary'), $lightness: 5%);
+$input-shadow: inset 0px 0px 5px rgba(colors.get-color('midnight'), 0.2);
+$input-shadow-focus: inset 0 0px 3px color.adjust(colors.get-color('secondary'), $lightness: 5%);

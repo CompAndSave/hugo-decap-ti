@@ -1,10 +1,12 @@
+@use "../../settings";
+
 .post-feed {
     display: flex;
     flex-wrap: wrap;
-    background: $white;
+    background: settings.$white;
 }
 .card-post {
-    background: $white;
+    background: settings.$white;
     margin: 2rem 1rem;
     align-items: center;
     border: 2px solid #f7e8db;
@@ -14,7 +16,7 @@
         margin-bottom: 0.5rem;
         font-size: rem-calc(20);
         a {
-            color: $dark-gray;
+            color: settings.$dark-gray;
             &:hover {
                 color: get-color('primary');
             }
@@ -30,8 +32,8 @@
         display: inline-block;
         padding: rem-calc(0 5);
         margin: 0 -5px 1rem;
-        border-radius: $global-radius;
-        color: $ui-gray;
+        border-radius: settings.$global-radius;
+        color: settings.$ui-gray;
     }
     .img-wrapper {
         display: flex;
@@ -52,7 +54,7 @@
         margin-top: 1rem;
         border-top: 2px solid #f7e8db;
         font-size: rem-calc(14);
-        color: $medium-gray;
+        color: settings.$medium-gray;
     }
     .read-more {
         color: get-color('secondary');

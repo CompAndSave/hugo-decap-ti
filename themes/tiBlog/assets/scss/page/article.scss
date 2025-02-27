@@ -1,8 +1,11 @@
-@import '../settings';
+@use "sass:meta";
+@use '../settings';
+@use '../utils/base';
+@use '../utils/breakpoints';
 
 .content {
-    background: $white;
-    border: $global-border;
+    background: settings.$white;
+    border: settings.$global-border;
     padding: 2rem 3rem;
 
 }
@@ -10,12 +13,12 @@
 .post-detail {
     margin: 0rem 0 2rem;
     padding: 0.5rem 0 0.75rem;
-    border-top: $global-border;
-    border-bottom: $global-border;
-    color: $medium-gray;
-    font-size: rem-calc(15);
+    border-top: settings.$global-border;
+    border-bottom: settings.$global-border;
+    color: settings.$medium-gray;
+    font-size: base.rem-calc(15);
     a {
-        color: $medium-gray;
+        color: settings.$medium-gray;
         font-weight: normal;
     }
     .author {
@@ -51,7 +54,7 @@
     ol, ul {
         margin-left: 1rem;
         li {
-            margin: rem-calc(8 0);
+            margin: base.rem-calc(8 0);
         }
     }
     ol {
@@ -69,18 +72,18 @@
         margin: 2rem 0;
         th,td{
             padding: 1rem;
-            border: $global-border;
+            border: settings.$global-border;
         }
         th {
-            background: $off-white;
+            background: settings.$off-white;
             font-weight: 700;
         }
     }
 }
 
-@import '../base/block/sharing-buttons';
+@include meta.load-css('../base/block/sharing-buttons');
 
-@media screen and (create-breakpoint(large)) {
+@media screen and (breakpoints.create-breakpoint(large)) {
     .content {
         padding: 3rem;
 

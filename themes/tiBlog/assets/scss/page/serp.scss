@@ -1,6 +1,7 @@
-@import '../settings';
-
-@import '../base/block/card';
+@use '../settings';
+@use '../utils/base';
+@use '../utils/colors';
+@use '../base/block/card';
 
 .page-title {
    margin-bottom: 2rem;
@@ -20,7 +21,7 @@
     margin: 1rem;
     transition: all 200ms ease-in-out;
     &:hover {
-        box-shadow: 0px 1px 9px 0 rgba(get-color('cyan'), .8);
+        box-shadow: 0px 1px 9px 0 rgba(colors.get-color('cyan'), .8);
     }
     a {
         border: 0;
@@ -30,9 +31,9 @@
         flex-wrap: wrap;
     }
     .post-title {
-        font-size: rem-calc(20);
+        font-size: base.rem-calc(20);
         font-weight: 800;
-        color: $dark-gray;
+        color: settings.$dark-gray;
     }
     .post-detail {
         border-bottom: 0;

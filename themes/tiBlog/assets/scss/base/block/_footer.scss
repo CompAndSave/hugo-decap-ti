@@ -1,6 +1,12 @@
+@use "sass:color";
+@use "../../settings";
+@use "../../utils/base";
+@use "../../utils/breakpoints";
+@use "../../utils/colors";
+
 .footer-wrapper {
     background: url('../../blog/images/assets/paper-bg_2e1e11.jpg') repeat #2e1e11;
-    color: $white;
+    color: settings.$white;
 }
 .footer {
     display: flex;
@@ -17,9 +23,9 @@
 .ft-title {
     display: inline-block;
     font-weight: 300;
-    font-family: $sec-font-family;
-    color: get-color('light-green');
-    font-size: rem-calc(21);
+    font-family: settings.$sec-font-family;
+    color: colors.get-color('light-green');
+    font-size: base.rem-calc(21);
     margin-bottom: 0.5rem;
 }
 
@@ -35,10 +41,10 @@
                 margin-top: 0.25rem;
             }
             a {
-                color: $white;
+                color: settings.$white;
                 border: 0;
                 &:hover {
-                    color: darken(get-color(primary), 5%);
+                    color: color.adjust(colors.get-color(primary), $lightness: -5%);
                 }
             }
         }
@@ -78,7 +84,7 @@
                 line-height: 1;
             }
             img {
-                max-height: rem-calc(25);
+                max-height: base.rem-calc(25);
             }
         }
     }
@@ -88,11 +94,11 @@
 
 .info {
     a {
-        color: $white;
+        color: settings.$white;
     }
 }
 
-@media screen and (create-breakpoint(medium)) {
+@media screen and (breakpoints.create-breakpoint(medium)) {
     .footer {
         justify-content: space-between;
     }
@@ -107,7 +113,7 @@
     }
 }
 
-@media screen and (create-breakpoint(large)) {
+@media screen and (breakpoints.create-breakpoint(large)) {
     .footer {
         padding: 2rem 1rem;
     }
@@ -116,7 +122,7 @@
     }
 }
 
-@media screen and (create-breakpoint(xlarge)) {
+@media screen and (breakpoints.create-breakpoint(xlarge)) {
     .footer {
         padding: 2rem 0;
     }
