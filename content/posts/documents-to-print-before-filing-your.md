@@ -12,11 +12,11 @@ tags: [income tax,printing,irs forms,tax return,tips]
 
 We may not like it very much, but it is that time of year again – time to file our income tax. As the D day; 15 April draws inexorably near, most of us are subtracting standard and personal deductions, determining the income bracket and calculating what we're left with after the government has had its pound of flesh. And then there is the process of printing and filling forms – something that the Affordable Care Act appears to have made all the more tedious.
 
-### Who needs to file income tax returns
+## Who needs to file income tax returns
 
 Except for individuals over the age of 65 whose only source of income is social security, all wage earners need to pay income tax to the IRS and to states that require you to pay state income tax. While standard exemptions and tax credits for specific groups do lower your tax burden and online tax calculators promise free tax filing to ease the process, there is still much that is likely causing you a bit of a headache.
 
-### Filing your taxes
+## Filing your taxes
 
 You can visit post offices and even some banks and libraries to get the tax forms you need, or you can simply download and print these from the [Forms and Publications section on the IRS website](http://www.irs.gov/Forms-&-Pubs). The latter option tends to be more convenient because related instructions and worksheets for all the forms are available with the printable forms. Also if you didn't fill out the form correctly the first time around, you can simply take another printout.
 
@@ -34,7 +34,7 @@ Here are some of the IRS forms that you may need to printout for filing purposes
 * Publication 505 - explains tax withholding and estimated tax, and how to take credit
 * Form 1099-G - Government Payments such as federal, state, or local governments
 
-### Additional forms for this year
+## Additional forms for this year
 
 With Obamacare now in place, people who signed up for the Affordable Care Act need to fill some additional IRS forms and may also have to repay some previous subsidies. While employees who receive coverage via their employer, its only the W-2 form they have to bother with, but those who bought insurance through the exchange will need to fill out some new paperwork this year – a special form called the 1095-A needs you to fill out who was covered, for how long and your premium amounts.
 

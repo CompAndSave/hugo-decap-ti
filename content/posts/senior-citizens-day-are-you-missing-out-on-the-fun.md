@@ -18,11 +18,11 @@ In fact being a mature citizen today simply means that the fun is just about sta
 
 The observance recognizes contributions and achievements or seniors as well. More and more older people are shrugging off the ‘senior' tag to embrace the chance to celebrate life and just have a great time! You can too; here are some ideas:
 
-### Dance Your Heart Out!
+## Dance Your Heart Out!
 
 This hugely entertaining and inspiring video of the famous dancing couple Pete and Beulah Mae may give you some ideas. Not that you have to put on your dancing shoes right away if there is something else you'd rather do! The takeaway from this video really is that you're never too old to have fun, to try out something new and to do stuff that you enjoy. There is never any reason to not do something you want simple because of how it would look at my age or because of what people will think! In that video, the dancers and everyone watching; they all had such fun!
 
-### Some Ideas for Celebrating National Senior Citizens Day
+## Some Ideas for Celebrating National Senior Citizens Day
 
 If you're thinking along the lines of a party, some games for senior citizens or some fun senior citizen activities, good for you!
 
@@ -37,13 +37,13 @@ If you're thinking along the lines of a party, some games for senior citizens or
 * Spend the day with grandkids, nephews, nieces. Take them to a museum, a show, a movie and a meal
 * Treat yourself to a new gadget. You can keep in touch with friends, family andgrandkids via social networks, keep yourself up to date with the news, watch funny videos and generally have a great time discovering what all the gizmo can do!
 
-### Some More Ideas for a Longer, Happier Life
+## Some More Ideas for a Longer, Happier Life
 
 There is a lot of evidence to show that people who are happy and in committed, loving relationships live longer and healthier lives. So nurture the relationships you have in your life! Communicate your love to your spouse, your children and others who mean a lot to you.
 
 Take time out for friends and family and prioritize the things that you do with them. Perhaps you can start a project that involves family: a family tree, a photo collage, timeline or a family history project. In particular spend more time with younger people such as your grandkids. This gives you a different, more youthful, more positive perspective of life.
 
-Make the effort to be physically affectionate; there is evidence to suggest that this releases happy making hormones and reduces stress hormones such as cortisol, known to be detrimental to good health.  
+Make the effort to be physically affectionate; there is evidence to suggest that this releases happy making hormones and reduces stress hormones such as cortisol, known to be detrimental to good health.
 Keep active. There is nothing as good for the body as regular physical exercise.
 
 And don't forget to have a happy, fun filled Senior Citizen's Day. Cheers!

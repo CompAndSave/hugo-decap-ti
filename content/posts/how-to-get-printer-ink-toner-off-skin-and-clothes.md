@@ -10,7 +10,7 @@ tags: []
 
 Sometimes the ink smudges on to the hands from a freshly printed page. At other times, the ink or toner powder stains your hands when you're replacing, or otherwise handling, the [ink cartridge](https://www.tomatoink.com/), to clean the printer heads, nozzles and so on. The ink can get on to the skin of your hands and elsewhere; it can even get on to your clothes. We look at how you can get rid of these pesky stains and blots.
 
-### How to get printer ink stains off your skin
+## How to get printer ink stains off your skin
 
 [![ink stains](/blog/images/archive/2014/04/DSC_1115.jpg)](/blog/images/archive/2014/04/DSC%5F1115.jpg)The first thing to remember is to try and clean the ink off as soon as possible – do not let it dry or settle on the skin because the longer it stays there, the more difficult it will be to get off. There are several things around the house you can use to clean ink off your hands:
 
@@ -23,7 +23,7 @@ Sometimes the ink smudges on to the hands from a freshly printed page. At other 
 7. If all these items are not available in the house, you could even try nail polish remover or lacquer thinner to remove the stain from the skin
 8. Some people also find that diluted bleach can remove the skin stain as well
 
-### How to get printer ink stains off your clothes
+## How to get printer ink stains off your clothes
 
 Like the skin, it is best to get [printer ink ](https://www.tomatoink.com/)off clothes as soon as possible. Don't let it dry or set; try and clean it off as soon as you realize your clothes have gotten ink on them. If it's dry toner powder, do not rub it into the clothes at any time. Rather, shake the powder off your clothes.
 

@@ -14,7 +14,7 @@ The crucial Obama speech – the Iran nuclear deal pitch at American University 
 
 The President is, quite literally with you! If toner issues could delay the press conference of the most powerful man in this country, they most certainly can mess with your plans as well. However with a bit of planning and foresight you can stay a step ahead of toner issues that may crop up with your LaserJet printer.
 
-### TROUBLESHOOTING TIPS, TONER ISSUES AND FIXES
+## TROUBLESHOOTING TIPS, TONER ISSUES AND FIXES
 
 The first thing you want to do is look after printer repair and maintenance. In other words keep your printer serviced and in good working order so it doesn't spring any nasty surprises when you can least afford it. Ensure that your cables and their connectors are properly connected. If you're using a wireless printer, make sure it is properly configured to the device that you're printing from.
 
@@ -24,7 +24,7 @@ For problems such as leaking cartridges, dealing with a low ink message, printer
 
 If you have specific printer brand or model issues, we also have a [Print & Driver Support](https://www.tomatoink.com/printer-drivers-support) segment where you will find the contact information for most of the top brands such as HP, Brother, Canon, Epson, Lexmark, Compaq, Ricoh, Dell, Samsung and others.
 
-### STOCK UP ON SUPPLIES
+## STOCK UP ON SUPPLIES
 
 Don't get caught with low ink warnings when you have more than usual printing to do; stock up on your ink and toner cartridges beforehand. Our September ink & toner special discount coupon gives you **$5 off and offers free shipping on all orders of $55 and up**. Plus you also get a free memo-pad with sticky notes to further sweeten the deal! So be sure to use coupon code **FALL5** while checking out!
 

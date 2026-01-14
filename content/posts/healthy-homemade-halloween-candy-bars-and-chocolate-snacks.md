@@ -12,7 +12,7 @@ It's that spooky time of year again and this year we are really getting into the
 
 You can be uniquely different when you hand out homemade treats that are not only healthier than store bought ones, but also fairly easy to make.
 
-### Healthy homemade Twix bars
+## Healthy homemade Twix bars
 
 These homemade chocolates are great because you get to control what goes into them – they are gluten free so it can be a great idea even for kids with gluten allergies. Here's what you'll need:
 
@@ -35,7 +35,7 @@ Meanwhile take the dates, the remaining 3 tbsp of the nut butter and about a tbs
 
 Meanwhile, melt the cooking chocolate in a double boiler. Remove the cookies from the freezer and dip each of them in the liquid chocolate one by one. Place these on another baking sheet (even foil will do, you just need to be able to peel away the finished bars easily after they set) and freeze again. When they are nice and firm, wrap them in pretty foil, clear or colorful plastic sheets or other wrappers of your choice.
 
-### Simple homemade chocolates
+## Simple homemade chocolates
 
 What you need:
 
