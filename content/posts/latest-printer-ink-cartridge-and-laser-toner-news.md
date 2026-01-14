@@ -8,7 +8,9 @@ authors: Katy Smith
 tags: [i2R e-paper]
 ---
 
-Topping the news from the printer ink cartridge and laser toner industry has been the efforts to increase the environment-friendliness of the products. Researchers are also looking into new ways the technology can be used to study and aid the natural world.**Taiwanese Research Firm Introduces Viable Reusable Paper**Environmentalists and sustainability theorists have been looking into ways by which we can reduce the global consumption of paper. One of the methods suggested was to come up with some form of reusable paper that can be wiped clean and reused after each use. 
+## Your Source for Industry Updates, Trends & Cost‑Saving Tips
+
+Topping the news from the printer ink cartridge and laser toner industry has been the efforts to increase the environment-friendliness of the products. Researchers are also looking into new ways the technology can be used to study and aid the natural world.**Taiwanese Research Firm Introduces Viable Reusable Paper**Environmentalists and sustainability theorists have been looking into ways by which we can reduce the global consumption of paper. One of the methods suggested was to come up with some form of reusable paper that can be wiped clean and reused after each use.
 
 Recently, the Industrial Technology Research Institute in Taiwan announced its own project: a reusable e-paper product named i2R e-paper. The research team claims the final product can be used more than 250 times and will be compatible with any thermal printer. It doesn't need a backlight or electrodes to print. What's more, the i2R e-paper is allegedly also capable of supporting color printing. The product is currently priced at two dollars per sheet, though it is not yet available in the US market.
 

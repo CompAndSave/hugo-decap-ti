@@ -8,10 +8,10 @@ authors: Denise Resendez
 tags: []
 ---
 
-![printer friendly web pages ](/blog/images/archive/2015/07/1_ti.jpg)We now have access to digital media practically everywhere – on our computers, tablets, phones and so on. We can download and save these pages on any of our various devices as soft copies. Yet we do need to take the occasional printout; because sometimes you just need the hard copy in your hands.  
+![printer friendly web pages ](/blog/images/archive/2015/07/1_ti.jpg)We now have access to digital media practically everywhere – on our computers, tablets, phones and so on. We can download and save these pages on any of our various devices as soft copies. Yet we do need to take the occasional printout; because sometimes you just need the hard copy in your hands.
 Now unlike digital printing from your computer, a web page presents some challenges. Web pages typically have a bunch of extra stuff. For example, ads, links to other pages, extra images, perhaps embedded videos that you don't want or need. Then there is the font – it may not be large enough to translate well to a hard copy. So if you're planning to print out web pages, here are some pointers to keep in mind:
 
-### **Web Page Printing Tips**
+## Web Page Printing Tips
 
 Look for the ‘printer friendly' version of the web page. This can work; but sometimes it may not.
 
@@ -21,14 +21,14 @@ Look for the ‘printer friendly' version of the web page. This can work; but so
 * Here's a tip before you give the print command. In the print preview you will be able to adjust the font /text size to that which is comfortable for you to read. You can do this by using the zoom feature in your browser. You can also change the settings in the print preview that you see. Increasing to 120% or 140% will work if you want to font size to be really clear and legible.
 * Printing out a PDF is also usually not a problem. PDF documents that you open with Adobe Acrobat (usually present on most PCs) have a print button that will do its job. But you have to set up a printer before you can see the print preview
 
-### **How to print an email**
+## How to print an email
 
 Using the browser Print command to print an email will usually not work. This is because the entire page will be printed along with the info about your Inbox, Draft, Sent folders, your contact list, ads and other stuff on the page. This is not just unnecessary, it prints out way more info than you want to give out in a hard copy. The Print Friendly service typically doesn't work for emails.
 
 * You could select the required text, copy, and paste into a word document and then print your email.
 * You could also use your email service providers' print feature. For instance, Gmail has a dedicated print feature: next to the reply button is the arrow pointing down. When you click here, the drop down menu has a print command. Clicking on that will open the print preview in a new browser in a simple layout. You'll only see only the mail (not the trailing mail), the date and the relevant email addresses and pictures. This also opens up the print dialog box that lets you select the number of copies.
 
-### **Other Tips for Printing Web Pages**
+## Other Tips for Printing Web Pages
 
 * Check whether the print out will appear better in Portrait or Landscape and make the right selection accordingly
 * Some printers will let you select the area of the webpage to be printed so you can choose what you want and ignore the rest. This helps you save ink

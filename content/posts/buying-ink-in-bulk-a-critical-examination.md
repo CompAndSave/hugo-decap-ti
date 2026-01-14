@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Evaluating the True Benefits and Risks of Bulk Purchasing
+
 [![top rated printer cartridges ](/blog/images/archive/2013/05/generic-security_01-632x234.png)](/blog/images/archive/2013/05/generic-security%5F01.png)
 
 TomatoInk - Shop Safely with Us

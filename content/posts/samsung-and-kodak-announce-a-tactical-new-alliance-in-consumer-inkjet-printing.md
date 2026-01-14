@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: [agreement,kodak,printers,samsung]
 ---
 
+## What the Partnership Means for Consumers
+
 Two big names Kodak and Samsung Electronics have decided to form a strategic alliance to sell consumer inkjet printers in Europe.This means Samsung will sell Samsung all-in-one inkjet printers using Kodak's printer and proprietary inkjet technology.
 
 ![samsung kodak agreement](/blog/images/archive/2012/06/agreement-online-professional-translation-632x416.jpg)

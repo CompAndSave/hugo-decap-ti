@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Hidden Factors That Affect Performance and Cost
+
 It does not matter if you use ink cartridges, laser toner cartridges, ink cartridges that use compatible ink, or any other type of printer ink cartridge, your printer will need periodic maintenance. This can be especially true for those who use inkjet printers and inkjet printer cartridges. These printers have a history of clogging up and often require a variety of maintenance procedures to be preformed on them. This is one of the main reasons so many people have turned to laser printers.
 
 ![source: threefivesmedia.co.uk](/blog/images/archive/2013/02/paper_out_of_printer.png)

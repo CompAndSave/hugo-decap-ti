@@ -7,7 +7,7 @@
 {{ end }}
 <div class="detail-wrapper">
   <h2 class="post-title">{{ .Title | safeHTML }}</h2>
-  <p class="excerpt">{{ .Summary | safeHTML }}</p>
+  <div class="excerpt">{{ .Summary | safeHTML }}</div>
   <a href="{{.RelPermalink}}" class="read-more">Read More <span class="show-for-sr">About {{ .Title | safeHTML }}</span></a>
   <div class="post-detail">
     <span class="cas-i-clock"></span> <span class="date">{{ .Date.Format .Site.Params.dateFormat }}</span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<span class="read-time">{{ .ReadingTime }} min read</span>

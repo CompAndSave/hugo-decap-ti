@@ -9,7 +9,7 @@ authors: Denise Resendez
 tags: []
 ---
 
-When dealing with an online retailer the first time, do not take it for granted that they have good customer service - this is the easiest thing to verify before you hit the pay button, and usually takes less than a few minutes.Customer service is very important to businesses who are interested in building a business which will last a long time - such companies, no matter what they sell, know that the most important part of any business is first and foremost how you treat your customer. 
+When dealing with an online retailer the first time, do not take it for granted that they have good customer service - this is the easiest thing to verify before you hit the pay button, and usually takes less than a few minutes.Customer service is very important to businesses who are interested in building a business which will last a long time - such companies, no matter what they sell, know that the most important part of any business is first and foremost how you treat your customer.
 
 ![source: imgarcade](/blog/images/archive/2012/11/satisfaction-imgarcade.png)
 
@@ -17,7 +17,7 @@ source: imgarcade
 
 Of course, the most important part of customer service is making sure that your product or service is the best possible, and this is especially true in the field of printing supplies. Toner cartridges and laser toner cartridges, as well as inkjet and [compatible ink](https://www.tomatoink.com/) cartridges can be made much less expensively by companies who specialize in remanufactured and compatible printer ink cartridges.
 
-**WHAT TO LOOK FOR; IF IT'S NOT THERE, YOU SHOULDN'T BE EITHER** 
+## WHAT TO LOOK FOR; IF IT'S NOT THERE, YOU SHOULDN'T BE EITHER
 
 A company which puts the hard work into making a great aftermarket printer ink cartridge or laser toner cartridge is not going to skimp when it comes to supplying great customer service. The website itself is also a good indicator that you are dealing with a company which is intent on providing the best quality product and which is interested in making sure that their customer's satisfaction is their number one goal.
 
@@ -39,5 +39,5 @@ After you have ascertained the quality of the website and familiarized yourself 
 
 This can include questions about your specific printer model and exactly which remanufactured or compatible printer ink cartridges and laser toner cartridges, their manufacturing and quality control systems and their warranty. On the warranty, the length of the warranty is very important with ink cartridges, and another good indicator of a company is how hard the warranty is to activate if something does go wrong.
 
-All this takes just a few minutes, but it can be worth it immediately - you can save up to 80% off getting original equipment directly from the printer manufacturer, and remanufactured and compatible cartridges can deliver crisp, clear prints that are every bit as good as the original cartridges installed in your printer when you bought it.  
+All this takes just a few minutes, but it can be worth it immediately - you can save up to 80% off getting original equipment directly from the printer manufacturer, and remanufactured and compatible cartridges can deliver crisp, clear prints that are every bit as good as the original cartridges installed in your printer when you bought it.
 ![generic-man_01](/blog/images/archive/2013/05/generic-man_01-632x234.png)

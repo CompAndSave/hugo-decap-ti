@@ -12,13 +12,13 @@ tags: [E-Waste,printer cartridges,recycling,Eco-friendly]
 
 Electronic waste or [ewaste / e waste](http://en.wikipedia.org/wiki/Electronic%5Fwaste) is a serious global issue. We are all surrounded by electronics; we use them all the time. When these objects reach the end of their useful life, they get tossed into the trash – quite simply there is a newer, niftier, faster gadget out there that is more interesting and will possibly get the job done better. According to the EPA, e-waste is the fastest growing segment of the world's trash problem.
 
-#### What is E-Waste? Some Startling Facts About E-Waste
+## What is E-Waste? Some Startling Facts About E-Waste
 
 E waste is all the discarded electronics and gadgets that we have used – mobile phones, computers, TVs, stereo systems & other entertainment devices, printers, printer cartridges, gaming consoles, cameras, refrigerators etc. An estimated 80 to 85% of e waste ends up in incinerators or landfills and[ only about 12.5% of e waste is currently recycled](https://www.dosomething.org/facts/11-facts-about-e-waste). While electronic waste comprises just 2% of what lands up in American landfills, e waste is about 70% of all toxic waste generated – some scary recycling facts here!
 
 Much of the so-called ‘waste' isn't waste at all; electronic equipment and parts can very easily be recycled or reused. Copper, silver, gold and palladium are some of the precious metals that we throw away along with our e-waste – we could be throwing away as much as $60 million each year in gold and silver alone. To put this into perspective, as much as 75 lb gold could be recovered from every one million phones recycled!
 
-#### Retiring vs. Reusing
+## Retiring vs. Reusing
 
 We want the new gadgets – faster, with superior looks and features and advanced capabilities. But we don't know what to do with the old stuff, so it languishes in our basements or finds its way to landfills. This is both wasteful (as we saw above there is a lot that can be retrieved from it) and it is also toxic to the environment. Heavy metals, mercury, lead, chromium and so on can leach into the ground and get into our water ways.
 
@@ -36,7 +36,7 @@ New Life Electronics Recycling in Oswego performs a similar function, [recycling
 
 Recently Forbes ran an article about how [recycling ewaste can benefit US national security](http://www.forbes.com/sites/williampentland/2015/01/19/why-uncle-sam-should-support-stronger-e-waste-recycling-efforts/). Counterfeit electronic parts (read failure prone) apparently pose a significant threat to the country's defense system. Experts are of the view that recycling can help control counterfeits getting into the system.
 
-#### What You & I Can Do to Help With Recycling
+## What You & I Can Do to Help With Recycling
 
 While it is true that the government can implement initiatives that encourage recycling – foregoing tax on refurbished electronics, offering incentives for recycling and so on – there is much that you can I can do as well.
 

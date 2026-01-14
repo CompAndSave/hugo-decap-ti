@@ -8,13 +8,13 @@ authors: Katy Smith
 tags: []
 ---
 
-A lot of printing revolutions have happened in the last twenty years. Advances in printers, ink and head design as well as dealing with digital photos and images have changed this industry.From the moment of taking the picture until it is ready for printing, modern printers have made printing truly professional images from a home printer something which we expect now even from an inexpensive machine. One of the truly astounding advances in printing, and one which is so removed from what most people consider printing many people won't think of it as such. 
+A lot of printing revolutions have happened in the last twenty years. Advances in printers, ink and head design as well as dealing with digital photos and images have changed this industry.From the moment of taking the picture until it is ready for printing, modern printers have made printing truly professional images from a home printer something which we expect now even from an inexpensive machine. One of the truly astounding advances in printing, and one which is so removed from what most people consider printing many people won't think of it as such.
 
 The latest huge advance, which is now gaining traction at a growing pace, is 3-D printing.
 
 Here at [TomatoInk](https://www.tomatoink.com/), we are pretty interested in the future of printing. Who knows...maybe in the future we will be able to provide you a full range of cartridges for your brand new 3D printer!
 
-**AFFORDABLE 3-D PRINTING FINALLY ARRIVING**
+## AFFORDABLE 3-D PRINTING FINALLY ARRIVING
 
 There are several different methods of doing this, but in most cases there is a nozzle or set of nozzles (think inkjet printing here) that extrudes plastic and builds the model layer by layer. The design can be taken from most major 3-D modeling programs, CAD CAM and other 3-D design software.
 
@@ -28,7 +28,7 @@ They have gotten to the point now where the tolerance level of the printers is g
 
 The latest 3-D printer is also reminiscent of an inkjet printer, except instead of the [ink cartridges](https://www.tomatoink.com/) holding ink they hold, in this case, a molecular adhesive. Voxel jet has perfected this technology. Like the laser, this 3-D printer uses powdered substrates of metal or plastic, and the adhesive is applied with super fine precision by nozzles which are very similar to inkjet nozzles.
 
-**3-D PRINTING NOT JUST FOR DESIGN ANYMORE**
+## 3-D PRINTING NOT JUST FOR DESIGN ANYMORE
 
 The Voxeljet 3-D printer is geared specifically towards production purposes, and that is another thing that these printers already have in common with our living room printers.
 

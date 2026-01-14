@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Introducing the New TomatoInk
+
 One of these days, you may check [www.TomatoInk.com](https://www.tomatoink.com/) and realize that you landed on a totally different website. Keep calm and say hello to **the new and improved TomatoInk homepage!**
 
 [![New TomatoInk Website](/blog/images/archive/2014/07/ti1.png)](/blog/images/archive/2014/07/ti1.png)

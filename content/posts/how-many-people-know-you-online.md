@@ -8,11 +8,13 @@ authors: Katy Smith
 tags: []
 ---
 
+## Understanding Digital Visibility and Online Reach
+
 ![image source: getyoursiterank](/blog/images/archive/2012/07/socialmedia-632x421.jpg)
 
 image source: getyoursiterank
 
-In the beginning of 2012, the number of internet user worldwide touched the two billion mark. The number would be increasing even as you read this. The users come from diverse background and encourage diverse businesses to set their shop online. Today, you got a series of online services that continuously evolve and innovate in a bid to draw customers and retain old ones.Rapidly growing online sectors include entertainment, travel, event tickets, electronics, and apparel. Businesses face fierce competition trying to market their products and services. Today, it's no longer enough to open a brick-and-mortar store. You need to step online to prove your mettle.Recession changed a lot, both online and otherwise. Consumers suddenly became more particular than ever of prices. Several websites took it as a golden opportunity to build a huge clientele with their low-priced offerings. They became the masters of attractive discounts, free shipping, special offers for students or members of the site, gifts on bulk purchase, and more. They knew how to grab customers with both hands. In fact, such sites made the web world a hub of competition and roaring business. 
+In the beginning of 2012, the number of internet user worldwide touched the two billion mark. The number would be increasing even as you read this. The users come from diverse background and encourage diverse businesses to set their shop online. Today, you got a series of online services that continuously evolve and innovate in a bid to draw customers and retain old ones.Rapidly growing online sectors include entertainment, travel, event tickets, electronics, and apparel. Businesses face fierce competition trying to market their products and services. Today, it's no longer enough to open a brick-and-mortar store. You need to step online to prove your mettle.Recession changed a lot, both online and otherwise. Consumers suddenly became more particular than ever of prices. Several websites took it as a golden opportunity to build a huge clientele with their low-priced offerings. They became the masters of attractive discounts, free shipping, special offers for students or members of the site, gifts on bulk purchase, and more. They knew how to grab customers with both hands. In fact, such sites made the web world a hub of competition and roaring business.
 
 In 2011, [online marketing](https://www.tomatoink.com/) in the United States touched $31.3 billion, says eMarketer's reports. This accounts for 20 percent of the total expenditure on advertising in the US. According to the reports, total merchandise sales figure on the web market was estimated at $188.1 billion in 2011, which is anticipated to reach $269.8 billion by the year 2015.
 

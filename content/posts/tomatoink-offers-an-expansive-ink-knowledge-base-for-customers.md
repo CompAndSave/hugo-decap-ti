@@ -10,7 +10,7 @@ tags: []
 
 [![TomatoInk Ink and Toner Cartridges ](/blog/images/archive/2013/06/profile_01-632x135.jpg)](/blog/images/archive/2013/06/profile%5F01.jpg)
 
-TomatoInk Ink and Toner Cartridges
+## TomatoInk Ink and Toner Cartridges
 
 Knowledge is often the key to success, and even within the ink and printing industry, this is often the case. For many people, their considerations on ink begin and end with replacing cartridges inside of their printer when the cartridges begin to run low, but for the serious business or home location, there are a variety of other important things to know, especially when you want to [buy ink online](https://www.tomatoink.com/).
 

@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## A Practical Guide to Color Accuracy, Longevity, and Professional-Grade Results
+
 [![diy photo album](/blog/images/archive/2013/07/a4albumf1-632x420.jpg)](/blog/images/archive/2013/07/a4albumf1.jpg)
 
 DIY Photo Album From Instaxworld

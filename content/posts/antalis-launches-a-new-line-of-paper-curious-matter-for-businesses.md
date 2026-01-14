@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Innovative, Sustainable Paper Solutions Designed to Inspire Creativity
+
 [![Curious Matter Paper](/blog/images/archive/2013/05/BrIiVmwCAAAihWq.jpg)](/blog/images/archive/2013/05/BrIiVmwCAAAihWq.jpg)
 
 Curious Matter Paper

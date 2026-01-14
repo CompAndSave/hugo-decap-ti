@@ -12,7 +12,7 @@ tags: []
 
 You might have missed it, but our [TomatoInk](https://www.tomatoink.com/) team has recently updated our logo design to reflect a key national observance in February that helps saves lives every year. Read on to find out why our logo design this month encourages you to be hale and hearty.
 
-### TomatoInk February Logo Design
+## TomatoInk February Logo Design
 
 We at TomatoInk have embarked to join the national movement against cardiovascular disease (CVD). During the weekend, we updated our company logo as a symbol of this by adding hearts since common CVD symptoms are heart disease and strokes. We hope to help save hearts, or at last spread awareness about American Heart Month, with this updated company logo.
 

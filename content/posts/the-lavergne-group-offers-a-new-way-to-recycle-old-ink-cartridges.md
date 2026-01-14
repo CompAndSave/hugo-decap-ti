@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Innovative Approaches to Sustainable Recycling
+
 Do you enjoy recycling your old ink cartridges as a way of minimizing waste, [helping the environment](https://www.tomatoink.com/environmentally-friendly-green-ink-and-toner-cartridges), or otherwise just not discarding things? If so, then you're in luck, because HP and the Lavergne Group have recently come up with a new technique for recycling older plastic ink cartridges into new, usable ink cartridges.
 
 ![source: eweek.com](/blog/images/archive/2013/04/346x214printercartrecycle1.jpg)

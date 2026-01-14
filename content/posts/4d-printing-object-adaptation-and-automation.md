@@ -8,11 +8,14 @@ authors: Katy Smith
 tags: []
 ---
 
+
 With 3D printing a reality, it was only a matter of time before scientists began experimenting with the idea of 4D printing. But what does this mean for the scientific community, and in turn, for the world? According to an article published on [Smithsonian.com](https://www.smithsonianmag.com/innovation/Objects-That-Change-Shape-On-Their-Own-180951449/), research into the field of 4D printing could mean a complete shift in the way our society manufactures everything and anything, from printing entire meals to recreating facial features to repair a patient's face.
 
 ![source: brit.co](/blog/images/archive/2013/03/4d-printing.jpg)
 
 source: brit.co
+
+## How Materials Evolve Over Time to Meet Dynamic Needs
 
 To begin to understand the implications and possibilities attached to this research, it's crucial to understand exactly what 4D printing would enable. The major difference from 3D printing is that objects would be able to adapt to different needs. The article gives the example of a pipe, 4D-printed, having the capability to change its shape, from something linear, to something supporting a cube-structure, for example. Additionally, 4D printed objects would be able to recreate themselves. Of the two possibilities suggested herein, this seems more nebulous. Perhaps that's because different sources and forms of energy would have to be incorporated in order to reach that goal.
 

@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Collaborative Efforts to Reduce Printing Waste
+
 The Great Ormond Street Hospital for Children [(GOSH)](http://www.gosh.nhs.uk/), one of the UK's largest and most reputable hospitals, recently announced that it was partnering with The Recycling Factory to accept donations of used cartridges, toner, and various electronic gadgets as a way to help raise money for its charity section. The proceeds from this plan (of which The Recycling Factory is donating 100%) helps to construct new facilities and provide care for children with various diseases. Funds are also used for the research of new techniques to fight diseases and otherwise aid the people who are least able to protect themselves.
 
 ![recycling plant uk](/blog/images/archive/2013/04/recycling-plant-uk.jpg)

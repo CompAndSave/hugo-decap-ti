@@ -18,7 +18,7 @@ According to the terms of the settlement, Multilaser acknowledged that HP has ex
 
 During the press conference that followed, Stephen Nigro, senior vice president at HP, made it clear that Hewlett-Packard was committed to "monitor\[ing\] the marketplace for intellectual property infringements as part of their commitment to worldwide testing and enforcement efforts."
 
-**Printer Cartridge Prices Climb Rapidly**
+## Printer Cartridge Prices Climb Rapidly
 
 Printer ink cartridge prices continue to rise steadily as former suppliers of budget [ink cartridges](https://www.tomatoink.com/) increase their product prices. Top offenders include Epson, Kodak, and Lexmark. The prices have increased by as much as seven percent in the past two years.
 

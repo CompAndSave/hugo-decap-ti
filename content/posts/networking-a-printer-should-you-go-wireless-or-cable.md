@@ -8,7 +8,9 @@ authors: Katy Smith
 tags: []
 ---
 
-The point of a printer is to be connected to something else so it can actually print, right? Naturally, the connections that you use can actually have a big impact on how well your printer works for your home or office, so let's take a look at some of the things that can help you decide.  
+## Comparing Reliability, Speed, and Setup Requirements
+
+The point of a printer is to be connected to something else so it can actually print, right? Naturally, the connections that you use can actually have a big impact on how well your printer works for your home or office, so let's take a look at some of the things that can help you decide.
 In terms of setup, it's often very easy to connect a printer wirelessly to a home or office network. This has the distinct advantage of making the printer available to many different machines with minimal setup times on each one, and about the only really important consideration is having your local wi-fi network strong enough to fill your building. However, wireless access is also a potential security problem; if your computers are storing or printing sensitive information, it may be possible for someone to hack in from the outside and steal some very important information. To that end, a wireless network for a business can be something of a security risk, so you'll want to balance the importance of your data with the convenience of printing it.
 
 ![source: jegsworks.com](/blog/images/archive/2013/04/network-server-3computers-laptop-printer.png)
@@ -19,7 +21,7 @@ source: jegsworks.com
 
 Alternately, you can set up your machines to use a sandbox program that will isolate the internet access on your machine from the rest of your computer, preventing any data from intruding into your sensitive areas while still offering you network access for research, communications, and other actions.
 
-![printer cables](/blog/images/archive/2013/04/printer-cables-632x524.jpg) 
+![printer cables](/blog/images/archive/2013/04/printer-cables-632x524.jpg)
 
 If you are considering using a wired network to hook up your printers, remember that your [online cartridge store](https://www.tomatoink.com/) will usually stock a variety of cables. Be sure to purchase a cable that's long enough to reach the appropriate socket and is compatible with the type of printer you're using; not all printers use direct USB connections (especially among older models), so [having the right extended wire](https://www.tomatoink.com/usb-printer-cables) is important for being able to put the printer where you want it and still connect to your network.
 

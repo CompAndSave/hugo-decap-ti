@@ -14,14 +14,14 @@ Electronic or e-commerce refers to commercial transactions that are initiated an
 
 image source: forbes
 
-  
-**The Basics of E-commerce**
+
+## The Basics of E-commerce
 
 E-commerce strategies can be divided into two main categories: the pure-click model and the brick-and-click systems. Pure-click companies are website start-ups with no previous existence as a traditional commercial venture. These companies have to create their operational models from scratch and these tend to be vulnerable in their initial phase. The right [online marketing](https://www.tomatoink.com/) strategy is integral to their success and continuing existence as they do not have a readymade following to sell to.
 
 Brick-and-click companies, on the other hand, are existing companies that have added an online site for e-commerce. Most big brands have now gone the brick-and-click way and have added an official online e-commerce catalog in addition to regular agents and retail outlets. Though these companies have the advantage of drawing on their prior ad campaigns and store promotions to draw clients to their online store, they still need to focus on internet-specific online marketing strategies if they are to succeed.
 
-**Online Marketing and E-commerce**
+## Online Marketing and E-commerce
 
 E-businesses are some of the most popular shopping outlets for customers because of their convenience and as well as the attractive prices. Online businesses are open for commerce 24×7\. They also tend to offer lower prices and better bargains. But, the very popularity of the market has led to a high level of competition between businesses. With dozens of different sites offering similar products and services, the right marketing strategy becomes integral to business success. Some of the major areas of online marketing include the following.
 

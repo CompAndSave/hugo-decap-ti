@@ -14,7 +14,7 @@ As the world economy continues to struggle to climb out of the economic crises o
 
 Image source: gowebbaby.com
 
-**More and more retailers adding online storefronts**
+## More and more retailers adding online storefronts
 
 As traditional retail outlets continue to struggle with rising overheads and increasing competition from online storefronts, many have decided to take the fight to rival territory. An increasing number of retailers are starting an online storefront to sell their products to customers across the country; many have even gone global. Different brands have gone about this in different ways. Whereas some companies have added an online catalog and shopping cart for select items to their official websites, others have entered into tie-ups with independent online stores, with the latter getting exclusive rights to sell brand items online. Yet other corporations, especially established retail giants, have set up independent web stores.
 
@@ -26,15 +26,15 @@ Nevertheless, despite this very real advantage, traditional retail outfits need 
 
 image source: forbes
 
-**Online marketing has its own rules**
+## Online marketing has its own rules
 
 One of the first things such companies need to learn is that online marketing is far less direct than direct sales and marketing strategies. For example, research has proved beyond doubt that an attractive window display is one of the most powerful tools in a traditional retailer's arsenal. In contrast, even the most attractive webpage will be wasted unless customers can be persuaded to check it out in the first place.
 
 Extensive consumer research is the only answer. Companies need to find out:
 
-• what online shoppers are looking for  
-• how they search for what they want  
-• where do they go to get information on brands and products  
+• what online shoppers are looking for
+• how they search for what they want
+• where do they go to get information on brands and products
 • why they choose certain products over others?
 
 Only once this insight has been gathered can an effective e-commerce strategy be created.

@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Surprising Facts That Could Help You Save Money and Print Smarter
+
 Colorants, pigments, dyes – call it what you will, but **[ink](https://www.tomatoink.com/)** is rather a weird and wonderful thing; with a rather weird and wonderful history. Used since ancient times either for drawing or for communicating thoughts, ideas and emotions, ink in its various forms has some rather fun facts associated with it. The way that ink is made, as well as the price of ink and other facts related to ink, are rather interesting.
 
 [![Printer Ink](/blog/images/archive/2014/07/ink-153967_640.png)](/blog/images/archive/2014/07/ink-153967%5F640.png)

@@ -14,9 +14,11 @@ Laser Printer (From Cross Duck on Flickr)
 
 Laser printers are often called the "workhorse" of the office, and not without good reason. These printers can have a long lifespan and often produce many hundreds of pages of output in any given business office. These machines are slightly more of an initial investment than their cousins, the inkjet printers, but often last longer and are more efficient if properly maintained.
 
- Keeping your [laser printer ](https://www.tomatoink.com/nsearch/?q=laser+printer&Submit=Search)in prime form is easy if you perform some simple maintenance procedures. As with any quality piece of office equipment, take pride in your investment and don't neglect the necessary maintenance processes that will keep your machine running for a long time to come.
+Keeping your [laser printer ](https://www.tomatoink.com/nsearch/?q=laser+printer&Submit=Search)in prime form is easy if you perform some simple maintenance procedures. As with any quality piece of office equipment, take pride in your investment and don't neglect the necessary maintenance processes that will keep your machine running for a long time to come.
 
 It is worth noting that while these general cleaning procedures do apply to most all laser printers, it is recommended that you consult your product manual before attempting any sort of machine maintenance.
+
+## Simple Maintenance Steps to Extend Printer Life
 
 1\. Before doing any work with your laser printer you should be sure and unplug the machine and let it rest for at least one hour. During this time you will allow the fuser and other internal components to cool down preventing any burns that may otherwise occur.
 

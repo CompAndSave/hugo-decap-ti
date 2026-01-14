@@ -14,11 +14,11 @@ As most things go wireless, it was only logical that printers went the same way.
 
 However, wireless printers also do have their downside. For instance, loading a document on to a wireless printer could be a little slower and there could be other issues, such as Connectivity. Let's examine these issues and evaluate what you can do about them.
 
-### Proper setup and configuration
+## Proper setup and configuration
 
 To begin with, the setup and configuration of your wireless printer is important – all of the hardware and the software need to be in order. Ensure that the proper equipment required is available – your PC will need to have a wireless adapter and your printer itself will need to be wireless ready or will need a network adapter or a wireless adapter.
 
-Follow the step by step instructions for the particular wireless printer brand and model, to ensure that a proper wireless connection is established. Remember those step by step instructions may vary significantly between different brands and even different models within the same brand or make of printer.   
+Follow the step by step instructions for the particular wireless printer brand and model, to ensure that a proper wireless connection is established. Remember those step by step instructions may vary significantly between different brands and even different models within the same brand or make of printer.
 However, in spite doing everything right, your [wireless printer](https://www.tomatoink.com/nsearch/?q=wireless+printer&Submit=Search) may still experience connectivity issues after having successfully and painlessly printed some or several times. To avoid or resolve this, do the following:
 
 1. Check for an install firmware and software update when they become available. Sign up for update alerts or enable automatic updating if required. This way your software is up to date and less likely to encounter glitches.

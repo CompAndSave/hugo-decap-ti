@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## All-in-One Devices Designed for Versatility
+
 [![HP LaserJet M4345 MFP](/blog/images/archive/2013/05/11-632x229.png)](/blog/images/archive/2013/05/11.png)
 
 Hewlett-Packard recently unveiled a new selection of printers for the home and office designed around meeting more of a customer's needs. In any company where printing is required, quality is often a major concern, so replacing a printer is both a major investment and a serious choice throughout the process. Perhaps more importantly, though, many businesses do a lot more than simply print papers as part of their daily operations.

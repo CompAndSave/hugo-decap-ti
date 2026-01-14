@@ -14,15 +14,15 @@ When [photo printing](https://www.tomatoink.com/paper) from home was new, there 
 
 source: printhouse.co.uk
 
-**Learn Your Printer**
+## Learn Your Printer
 
 Before you even print a photograph, read your printer's manual. We know, it's not exactly a great at-the-beach summer read, but it'll be worth it. Not only will you be well versed about what to do in the case of a malfunction, but you'll have a better understanding of all of your printer's features. To that end, explore your printer driver as well. Lewis and Clark didn't sit on one side of America and say, "Oh, all of America must look just as it does here." They went, instead, on one of the largest explorations in history. One of the many things they learned is that this country is as varied as it is large. Likewise, with your photo printer, there are a myriad of settings there that you can toggle to affect every photo you print, thus making it more suited to your needs.
 
-**Paper Quality**
+## Paper Quality
 
 Just as it's important to select the right paper finish for the look you're seeking on each printed photo, it's crucial to consider quality. Quality does affect price. Are you looking to print out dozens of photos to pin up at your cubicle at work, or are you selecting just a few to frame and put on display on your mantel? Depending on your printing needs, you might want to use [higher quality paper](https://www.tomatoink.com/paper). To give yourself the option to print however you like whenever you like, you might even consider keeping both higher quality and more modestly priced paper on hand at all times.
 
-**Comfort is in the Copies**
+## Comfort is in the Copies
 
 Are you an Adobe Photoshop star? Even if you're a professional graphic designer or photo editor, it's always a great idea to make copies on your computer. We don't say as much because of a doubt in your editing skills, but maybe you want to see what a photo looks like in black and white. Maybe sepia is more your thing, or perhaps you want to change the focus or crop part of a photo. It'd be a shame if you make changes to your only copy, only to later decide you don't like those changes.
 

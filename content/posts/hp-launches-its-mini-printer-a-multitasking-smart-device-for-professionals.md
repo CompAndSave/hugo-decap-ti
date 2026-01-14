@@ -14,7 +14,7 @@ First it was computer, then cell phones, and now printers. The present generatio
 
 image source: Hp.com
 
-**Features**
+## Features
 
 The new OfficeJet 150 printer is a multitasker. It can print, fax, copy, and scan. The device weighs three kilos and has a width of one foot. This product of HP can snugly fit into your backpack!
 

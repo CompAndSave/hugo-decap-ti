@@ -12,7 +12,7 @@ tags: []
 
 Did you know it's possible to use eco-friendly printers for printing? In this post we tell you all about green printers, about what makes them green, and the choices you should make if you're planning to buy a printer this year.
 
-#### What Makes a Printer Eco-Friendly?
+### What Makes a Printer Eco-Friendly?
 
 A printer that saves you money _and_ is good for your wellbeing is also most likely to be one that has the least negative impact on the environment. We recommend picking high yield printers, they give you more printouts per ink or toner cartridges being used. So if you're getting more page printouts per cartridge that means fewer empty cartridges reaching landfills.
 
@@ -25,7 +25,7 @@ Energy efficient printers are also eco friendly because they help lower your car
 * **Above all: Don't print unless you have to**
 
 #
-#### Eco-Friendly Printer Recommendations
+### Eco-Friendly Printer Recommendations
 
 [The Canon PIXMA MX922](http://www.amazon.com/Canon-MX922-Wireless-Printer-Scanner/dp/B00AVWKUJS/) Energy Star Wireless Inkjet Office All-in-One Printer is a good
 
@@ -43,7 +43,7 @@ option because of the auto double sided print feature, border less printing opti
 * [Xerox ColorQube 8570DN](http://www.amazon.com/ColorQube-8570DN-Printer-Duplex-Ethernet/dp/B00IWZ9N30/) Color Solid Ink Printer is another good option that is Energy Star qualified, with good user reviews and an auto duplex printing option
 [Find our awesome combo packs for this printer here!](https://www.tomatoink.com/index.php/Xerox-ColorQube-8570DN-Ink-Cartridges)
 
-### Pick the Right Ink & Toner Cartridges
+## Pick the Right Ink & Toner Cartridges
 
 Remanufactured inks are a good idea environmentally speaking. These cartridges are made by recycling used ones; by checking them for integrity and refilling them.
 

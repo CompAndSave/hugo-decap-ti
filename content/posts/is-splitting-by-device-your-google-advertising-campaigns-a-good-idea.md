@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Evaluating Performance, Cost Efficiency, and Targeting Accuracy
+
 It is no secret that as more devices come out more focused attention will have to be paid to them in terms of using Google advertising campaigns. Just a few years ago, this was not the case. A well-developed ad campaign was able to pull its weight and often brought in good results. Today, that has changed.
 
 ![source: priteshgupta.com](/blog/images/archive/2013/02/responsive-web-design.jpg)

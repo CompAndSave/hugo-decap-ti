@@ -14,13 +14,13 @@ Market statistics and industry analysis both confirm that the e-commerce industr
 
 image source: business2community
 
-**E-commerce sales set to shoot through the roof**
+## E-commerce sales set to shoot through the roof
 
 A recent study by UK-based online retail trade organization Interactive Media in Retail Group (IMRG) predicted that global e-commerce sales will exceed 1.25 trillion dollars by 2013\. An almost unimaginable figure considering that the estimated global sales figure for 2011 was only 961 billion dollars. The IMRG study also reported that the number of internet users across the globe will reach a staggering 3.5 billion in 2013\. Similar predictions have been advanced by most global online market research groups, federal as well as independent.
 
 The figures make sense when we consider the customer-friendly nature of these online storefronts. Great discounts, 24×7 shopping hours, anytime, anywhere shopping, and nationwide shipping are just some of the services offered by these web-based retail ventures. But, the potential for high profits have attracted innumerable players to the e-commerce field, making the competition shoot sky-high.
 
-**Building an effective online marketing strategy**
+## Building an effective online marketing strategy
 
 The answer then is to have a solid e-commerce and [online marketing](https://www.tomatoink.com/) strategy that will effectively attract visitors to your site, and also help you turn them into paying customers. Some of the essential tools in the online marketing arsenal include effective website design, superior search engine optimization (SEO) tools, and persuasive and high-quality ad copy. Poor website design and inferior internet marketing support services can lead to a waste of valuable and often limited resources, leading to eventual failure.
 

@@ -8,7 +8,10 @@ authors: Katy Smith
 tags: []
 ---
 
-As more and more online customers are using a variety of devices to buy products and get company information, Google is working toward solutions that can help online businesses to make sense of the new analytics that are coming out. In simple terms, Google has determined that the data gathered from websites is simply no longer enough to help businesses understand what their customers are doing and purchasing. This problem can be especially critical for large companies who have for some time now been asking for cross-platform viewing of their Google Analytics data. 
+
+## Advanced Tracking Capabilities for Large Organizations
+
+As more and more online customers are using a variety of devices to buy products and get company information, Google is working toward solutions that can help online businesses to make sense of the new analytics that are coming out. In simple terms, Google has determined that the data gathered from websites is simply no longer enough to help businesses understand what their customers are doing and purchasing. This problem can be especially critical for large companies who have for some time now been asking for cross-platform viewing of their Google Analytics data.
 
 ![feat-hed-mobile](/blog/images/archive/2012/12/feat-hed-mobile.png)
 

@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Improving Convenience, Flexibility, and Productivity
+
 [![wireless printing ](/blog/images/archive/2013/08/Wireless-Printing-Solution-for-iPad-and-Apple-iOS-Devices-632x459.jpg)](/blog/images/archive/2013/08/Wireless-Printing-Solution-for-iPad-and-Apple-iOS-Devices.jpg)
 
 Image from Printers.iyogi.com

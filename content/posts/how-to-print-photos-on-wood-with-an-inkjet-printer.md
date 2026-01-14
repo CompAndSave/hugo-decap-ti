@@ -18,7 +18,7 @@ Think of all the things you could do by getting pictures onto wooden surfaces.
 * You could also print out landscapes or still life drawings that you are particularly fond of, for your patio or porch.
 * How about some inspirational quotes or pictures of people you admire for your home office?
 
-### **What You Will Need for Printing Photos On Wood** 
+## What You Will Need for Printing Photos On Wood
 
 ![wood transfer photo](/blog/images/archive/2015/07/01B5F9D3-E488-4061-B7E8-4AC42BFE1D14.jpg)
 
@@ -30,7 +30,7 @@ Image from Ehow.com
 * Cutting implements
 * Your fave photos, landscapes, or quotes of whatever it is you plan to print, reversed (ensure that the image of sufficient resolution to translate well into printed pictures. Add any filters or borders you need to, enhance contract etc; consider monochrome images or sepia tints too)
 
-### **How to Create Your DIY Photos Printed on Wood**
+## How to Create Your DIY Photos Printed on Wood
 
 The image you plan to print has to be reversed (flipped). Since you will be printing out a mirror image which will then be transferred. This is important for photos but particularly important for text, quotes or some patterns. Giving a print command from your mobile phone? Use apps such as this Photo Editor app from iTunes for Apple devices. For Android devices, use the Mirror Photo app on Google Play.
 
@@ -40,6 +40,6 @@ Once your picture is ready to print, insert a sheet of wax paper into the printe
 
 Now quickly place your image, wet side down on the wooden surface you've chosen to use. Smooth it down using a spatula or a credit card. When the ink has had time to transfer to the wood, carefully peel away the wax paper or parchment. Let the wooden surface dry and set and you're done!
 
-### **Special July Coupon Code to Save on Ink Cartridges**
+## Special July Coupon Code to Save on Ink Cartridges
 
 And just in case you're worrying about the extra expense of ink cartridges, you need not! Not only do we have the best deals in ink and toner cartridges, our special discount all this month is sure to bring a smile to your face. Use the coupon code **5JULY** during checkout to get **[$5 off each order value of $55 and up](https://www.tomatoink.com).** Plus, you'll get **[a Free 4th Of July Tote Bag & Free Shippin](https://www.tomatoink.com)g** along with all orders placed before 07/31/2015 midnight (PST).

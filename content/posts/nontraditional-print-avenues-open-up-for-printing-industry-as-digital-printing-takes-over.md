@@ -10,7 +10,7 @@ tags: []
 
 The printing industry continues to adapt to new marketplace conditions. New printers, especially in the digital realm have expanded the capabilities of many professional printers, and the newest digital machines now produce as good an image quality as offset printers.
 
-**SMALL, CUSTOM JOBS GOOD FOR LARGE AND SMALL PRINT COMPANIES**
+## SMALL, CUSTOM JOBS GOOD FOR LARGE AND SMALL PRINT COMPANIES
 
 The easy set-up of [digital printers](https://www.tomatoink.com/), though, makes them much more versatile for short run and custom jobs, and there is a huge untapped market in that category for art, small business and organizations and other specialty printing applications. The easy and cheap availability of ink cartridges and compatible ink for many types of printers used by small and home businesses will be another factor in reduced costs of operation, which is critical for small start ups.
 
@@ -22,7 +22,7 @@ Spineless classic project. Alice in Wonderland in 1 single Poster
 
 The script is in 4 pt. Times New Roman, and column width is key to fitting the entire book on a poster size sheet of paper. The projects are printed on 170 gsm Lumisilk paper. This is an excellent chlorine and acid free archival grade paper, and is a multi-coated matte paper. Digital printing shows its adaptability by being able to print in a wide variety of ink formulations and on a wide variety of media.
 
-**ON DEMAND PRINTING ALLOWS FOR SINGLE BOOK RUNS**
+## ON DEMAND PRINTING ALLOWS FOR SINGLE BOOK RUNS
 
 On demand book printing for reasonable prices is also becoming a lucrative market; [Photo bucket](http://photobucket.com/) has an excellent photo printing service, with many different size, paper and cover choices. These books are printed on high quality paper, and Photo bucket goes out of its way to warn you if your images will not make a good print (for instance, to small an image results in pixelation).
 

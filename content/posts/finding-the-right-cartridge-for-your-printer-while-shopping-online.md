@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Design Enhancements for Broader Printing Applications
+
 Having compatible parts for your printer(s) is a very important consideration, especially if your business goes through a lot of ink in the course of your day-to-day operations. In fact, parts compatibility is so important that you might even look to purchase an older printer model just so you can have it be compatible with the cartridges you're already using. Adding onto that is the fact that there can be so many different cartridges and you've got a serious issue on your hands.
 
 ![source: pcworld](/blog/images/archive/2012/11/pcworld-480x280.jpg)

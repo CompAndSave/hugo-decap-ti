@@ -12,7 +12,7 @@ Recently, Toshiba America Business Solutions (TABS) came out with a press releas
 
 ![national no-print day](/blog/images/archive/2012/07/national-no-print-day.jpg)
 
-**A Commitment to Sustainability and Green Printing Practices**
+## A Commitment to Sustainability and Green Printing Practices
 
 TABS, which is a managed print and professional services branch of electronics giant Toshiba Corp., launched the campaign at the beginning of June 2012 at the Sustainable Brands 2012 Conference held in San Diego. For some time now the California-based branch has been working on a long-term crusade to educate businesses on smarter, greener, more sustainable printing practices.
 
@@ -28,7 +28,7 @@ Tabs planned to launch the sustainability campaign on October 23 as part of the 
 
 Unfortunately, the provocative title backfired badly as it was interpreted in an overwhelmingly negative way by national paper and print industries.
 
-**Toshiba Backtracks, Engages in Damage-Control Strategies**
+## Toshiba Backtracks, Engages in Damage-Control Strategies
 
 Following the heavy backlash, Toshiba's top executives made the decision to scrap the campaign. The area office was also insistent in clarifying any re-launch of the legitimate commercial printing industry.
 Hopefully, the idea will get fresh life in another avatar, as sustainable and green campaigns of this kind can only help the industry, and its customers, in the long run. As of now, all websites and pages related to the National No-Print Day have been unpublished.

@@ -8,13 +8,13 @@ authors: Katy Smith
 tags: []
 ---
 
-**Nano Ink Has Many Advantages**
+## Nano Ink Has Many Advantages
 
 Inkjet or digital printing has been getting better ever since it was introduced, and has long dominated the small consumer market for low cost, high quality prints. Lately, inkjet technology has also been gaining ground in many types of commercial printing, and the latest inks and print head technologies are helping that transition. These same technologies will also be seeing widespread use in consumer formats as well, but it looks as though, especially in Europe, the digital format is going to take over the printing industry much quicker than many people thought even five years ago.
 
-One of the things which will push inkjet technology into this century are nano inks and nanographic presses, both of which are what Landa is concentrating on. Nanotechnology has seemingly been making inroads into all types of industries, and it was only a matter of time until nanotechnology adapted itself to the inks and printers which we all use. For a long time commercial printing has just not used inkjet technology. Usually new technologies are used at the producers level and gradually sift down into the consumer market as designers figure out ways to make the new equipment work with smaller, consumer platforms.  
-  
-**How Will The Ink Affect The Mix?**
+One of the things which will push inkjet technology into this century are nano inks and nanographic presses, both of which are what Landa is concentrating on. Nanotechnology has seemingly been making inroads into all types of industries, and it was only a matter of time until nanotechnology adapted itself to the inks and printers which we all use. For a long time commercial printing has just not used inkjet technology. Usually new technologies are used at the producers level and gradually sift down into the consumer market as designers figure out ways to make the new equipment work with smaller, consumer platforms.
+
+## How Will The Ink Affect The Mix?
 
 Landa's work in nano inks is going to have major impacts on the industry - it allows for a surprising number of specialty formations depending on the task at hand, and can use much less water. Nano ink is made of billions of microscopic water based droplets with pigment particles in the tens of nanometers size, and the final film is only 500 nanometers or so thick. This is less than half that of offset, traditional presses and substantially less than large inkjet machines would use.
 

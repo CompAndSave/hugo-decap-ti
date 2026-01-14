@@ -10,13 +10,13 @@ tags: []
 
 [![Ink and toner cartridges discount](/blog/images/archive/2013/06/Ink-Cartridges-Toner-Cartridges-TomatoInk.png)](/blog/images/archive/2013/06/Ink-Cartridges-Toner-Cartridges-TomatoInk.png)
 
-Save up to 80% on Ink and Toner
+## Save up to 80% on Ink and Toner
 
 Not everyone is focused on buying ink when they visit our website, and if you're one of them, you may be interested in the affiliate program now offered by [TomatoInk](https://www.tomatoink.com/). In modern times, most people have access to at least one printer, especially at the place where they work. Many more people have at least one printer in their house, and the thing that brings them all together is a regular need for ink. Of course, different people have different paces for purchasing ink, and we understand those needs. In fact, that's part of the reason why we offer such an extended return time for each of our products; some people may go for months before even opening a cartridge box, and when they do, they should be able to return it if there are any defects.
 
 [![TomatoInk Affiliate Program](/blog/images/archive/2013/06/1-632x308.png)](/blog/images/archive/2013/06/1.png)
 
-Become a TomatoInk Affiliate
+## Become a TomatoInk Affiliate
 
 [TomatoInk's affiliate program](http://www.shareasale.com/shareasale.cfm?merchantID=40756) offers you the chance to join in on the business through a fairly straightforward partnership. When you advertise with TomatoInk, you'll earn a generous commission based on the size of the sale (the more they buy, the more you earn), and while this probably isn't going to replace your day job, it can certainly add up to a nice amount of money over time and allow you to buy that luxury good you've been wanting to get. TomatoInk offers a large selection of products, excellent customer support, and handles everything once people are actually on the site.
 

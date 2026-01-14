@@ -16,7 +16,7 @@ It's going to be that fun, festive time of year soon and we thought we would put
 
 There are two versions of each ornament: the first is the colored version and the second consists of outline drawings that can be colored in – this really gets kids into the festive spirit; besides coloring is a fun activity any time!
 
-**Here's what you will need for your free** **Christmas printables**:
+## Here's what you will need for your free **Christmas printables**:
 
 * A printer (ensure that the [ink cartridge](https://www.tomatoink.com/) has sufficient amount of ink)
 * Good quality card stock for printing
@@ -25,7 +25,7 @@ There are two versions of each ornament: the first is the colored version and th
 * A hole puncher
 * String / festive ribbons
 
-**Follow these simple steps to get the printouts of the Christmas decorations:**
+## Follow these simple steps to get the printouts of the Christmas decorations:
 
 * Click on the décor item of your choice – this will open up a PDF page
 * Print the page using good quality paper
@@ -38,7 +38,7 @@ You can hang these ornaments on your Christmas tree, hang them up on walls, door
 
 As for the gift tags and labels, you could use them any one of two ways – (a) you could simply use double sided sticky tape to glue them on to gifts, or (b) you could use a hole puncher and insert decorative string or brightly colored satin ribbons (you can also use gold or silver ribbon or striped ribbons) to attach the labels to the gifts. This will give your decorations a uniquely beautiful look no matter how you use them.
 
-Download Here:  
+Download Here:
 [Printable Christmas Tree Ornaments](https://www.tomatoink.com/)
 
 For more creative and unique ways to get a good use out of your printer and ink cartridges, [subscribe to our mailing list](https://www.tomatoink.com/welcome/subscribe) and [follow us on Facebook](https://www.facebook.com/tomatoinktoner).

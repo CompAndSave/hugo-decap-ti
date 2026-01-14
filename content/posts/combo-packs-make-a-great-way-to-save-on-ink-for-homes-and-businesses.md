@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Maximizing Value Through Bundled Ink Solutions
+
 [![brother lc61 ink cartridges ](/blog/images/archive/2013/06/WINK-BROTHER-LC61-COMBO40.jpg)](/blog/images/archive/2013/06/WINK-BROTHER-LC61-COMBO40.jpg)
 
 TomatoInk Brother LC61 Combo Pack

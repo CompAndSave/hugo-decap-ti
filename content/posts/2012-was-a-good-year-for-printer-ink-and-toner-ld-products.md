@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Highlighting Growth, Innovations, and Industry Milestones
+
 LD Products, a leader in the toner ink and printer ink industry, has a very good year for 2012\. This is not the first year that this ink cartridge giant showed gains. In 2012, the ink toner company set a milestone when it filled its 6 millionth order. The company expects equal or better growth in the upcoming years.
 
 ![ld](/blog/images/archive/2013/01/ld.jpg)

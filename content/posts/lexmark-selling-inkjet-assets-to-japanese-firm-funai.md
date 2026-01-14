@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Industry Impact of a Strategic Divestment
+
 In an interesting move for the printing industry, Lexmark International recently announced the sale of inkjet assets to the Japanese firm Funai for approximately $100 million USD. The total sale includes over fifteen hundred patents (both local and domestic) as well as some actual manufacturing operations that Lexmark International has previously used to support their inkjet business over the years.
 
 ![funai headquarters ](/blog/images/archive/2013/04/home_banner-funai-632x165.jpg)

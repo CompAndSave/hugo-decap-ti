@@ -8,6 +8,7 @@ authors: Katy Smith
 tags: []
 ---
 
+## Reevaluating Long-Term Printing Costs
 One of the most important considerations when deciding whether to go for inkjet or laser printing is exactly what sort of printing is going to be done and how this is going to be used by employees or customers. Put simply, inkjet is more expensive but produces higher-quality graphics while laser toner is much cheaper, but is suitable for more frequent printing, especially if the pages are primarily black and white.
 
 The reason this has truly become important is because, over the last few years, laser printers have been able to shrink to the point where they can be purchased and used by the average home or business without taking up an incredible amount of space. Early laser printers, in fact, were so massive that only larger businesses could realistically manage to fit them somewhere and get enough use out of them to make the cost worthwhile. This trend is actually very common when technology advances; like cell phones, early models are often larger and less capable than those that are developed later once the original idea has been proven.

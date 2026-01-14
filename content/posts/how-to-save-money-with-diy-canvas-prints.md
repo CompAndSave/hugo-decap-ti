@@ -18,21 +18,21 @@ You could order photo canvas prints online; there are services that will do this
 
 In this DIY tutorial, we tell you how to. You can create a series of canvases – the five best pictures of your child growing up or the most spectacular images from your exotic holiday for instance. Or you can create a jigsaw/grid out of one image to create wall art of larger dimensions - here you print out one part of the image on each separate canvas and then put them all up in way that creates a whole picture.
 
-#### What You Need for Your Canvas Printing
+## What You Need for Your Canvas Printing
 
-• Pieces of canvas (you could get just the canvas which you can frame or have mounted, or you can get ready mounted canvas boards)  
-• Printing paper  
-• Paint brushes  
-• Scissors or craft knife  
+• Pieces of canvas (you could get just the canvas which you can frame or have mounted, or you can get ready mounted canvas boards)
+• Printing paper
+• Paint brushes
+• Scissors or craft knife
 • Mod Podge (All-in-one glue and sealer; dries clear, is non toxic and is easy to clean up)
 
-#### Sourcing Supplies to Create Cheap Canvas Prints
+## Sourcing Supplies to Create Cheap Canvas Prints
 
 You can source supplies to create your DIY canvas wall art quite cheaply from places such as the Dollar Store or the Dollar Tree; any place that sells low-cost art and craft supplies. You could source Mod Podge, canvas sheets and other craft supplies quite cheaply online as well; Amazon tends to have a selection of highly economical options.
 
 For cheap printing paper and ink cartridges you need look no further than [TomatoInk.com](https://www.tomatoink.com/). Whether you have an Epson, HP, Brother, Canon, Dell or practically any other brand of printer; you will find some of the most economical compatible ink cartridges here. Search by brand or by printer model number to find the right match. You could save up to 80% on your purchases and you also have the option of buying earth friendly remanufactured cartridges.
 
-#### **How to Create Your Own Canvas Prints**
+## **How to Create Your Own Canvas Prints**
 
 The first thing is to select your images with care. The images should be large enough and be of a resolution to facilitate prints of the size you need. You can edit images, sharpen colors and contrast, add interesting filters and even transform color images into monochrome or sepia.
 

@@ -17,7 +17,7 @@ Here's what you will need:
 * Double sided tape or glue
 * Goodies to put inside the box
 
-[![](/blog/images/archive/2013/10/candy.jpg)](/blog/images/archive/2013/10/candy.jpg)
+[![halloween candies](/blog/images/archive/2013/10/candy.jpg)](/blog/images/archive/2013/10/candy.jpg)
 
 How to make your own trick or treat boxes:
 
@@ -31,14 +31,14 @@ How to make your own trick or treat boxes:
 * Stuff candy and other treats into the box from the other side and glue or tape it shut if you are making the pillow box. If you are making the coffin, insert the bottom piece into the top piece to keep it shut.
 * Fill the name of the person in the space provided (A Halloween treat for——-)
 
-[![](/blog/images/archive/2013/10/coffin-2.jpg)](/blog/images/archive/2013/10/coffin-2.jpg)
+[![cofffin shape tag](/blog/images/archive/2013/10/coffin-2.jpg)](/blog/images/archive/2013/10/coffin-2.jpg)
 
 And in case you don't have the time to print out and make those trick ‘n' treat boxes, simply print out and use our **Double Sided Gift Tags** to go with the goodie bags or boxes you're thinking of using. Just print, punch a hole as indicated and put a string or ribbon through it to attach to your goodie bag.
 
 Now wait for those faces to light up when you present your unique little "Trick or treat" boxes stuffed with goodies!
 
-**Download here:**
+## Download here:
 
-[Happy Halloween - Gift Tag](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/coffin-gift-tags-tomatoink.pdf)  
-[Spooky Cat - Gift Tag](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/spooky-cat-gift-tags-tomatoink.pdf)  
+[Happy Halloween - Gift Tag](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/coffin-gift-tags-tomatoink.pdf)
+[Spooky Cat - Gift Tag](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/spooky-cat-gift-tags-tomatoink.pdf)
 [Spooky Cat - Candy Box](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/spooky-cat-tomatoink.pdf)

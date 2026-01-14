@@ -9,7 +9,7 @@ tags: []
 ---
 ![ink and toner facts ](/blog/images/archive/2015/06/thumbnail-2.jpg)We have frequently spoken about how buyers can make wiser choices when it comes to ink and toner purchases. In a recent post for instance, we busted some of the [myths that surround non-original equipment manufacturer (OEM) cartridges](https://www.tomatoink.com/blog/posts/5-myths-about-non-oem-printer.html) so that you can make a more informed choice when you need to replace your ink or toner cartridge. We thought to share some more information that many in the printer cartridge industry would prefer wasn't made common knowledge. Here's what Wikipedia isn't telling you:
 
-### The Real Cost of Toner and Ink Cartridges
+## The Real Cost of Toner and Ink Cartridges
 
 It is a question asked often enough: *why is printer ink or toner so expensive*? Why does it cost more than vintage champagne? And as importantly, why do so many branded or OEM cartridges run out of toner or ink so fast? According to experts studying trends in the printer cartridge industry, this is a very deliberate strategy aimed at making consumers make more frequent purchases.
 
@@ -17,12 +17,12 @@ OEM companies such as Epson and HP (and to a lesser extent Canon as well) have p
 
 The fact is that many cartridges are really cheap to make. They cost less than a dollar to produce and the mark up is actually so huge as to be extortionate. With so many high quality low cost compatible options offered now, OEMs devised a very deliberate marketing strategy: (a) sell cheap printers(b) include a ‘starter' cartridge with so little ink in it that the user needs to by a replacement almost immediately. (c) Charge high amounts for low ink cartridges that require frequent replacements. (d) Some OEMs even embed technology to block and prevent use of compatible products.
 
-### Economical Options Available for The Buying Public
+## Economical Options Available for The Buying Public
 
 It is well known that you can get the same print quality at a fraction of the price when you opt for compatible products over OEM products. In addition, the buying public has access to high yield toner cartridges that give far more printed pages than do standard sizes. Assuming that the standard page coverage is about 5%, standard size cartridges will give you about 2600 printed pages whereas high yield sizes may give you up to 6500 pages. Also referred to as extended yield or jumbo ink and toner cartridges, these are far more economical to use, particularly for people who do a lot of printing.\
 Not only that, the more pages you get per cartridge, the fewer units you use, and the less impact this has on the environment. Cartridges use up precious resources and create a lot of pollution during the manufacturing process. The disposal of discarded cartridges and other e-waste present a serious environment threat too!
 
-### Recent advancements in the printer cartridge industry
+## Recent advancements in the printer cartridge industry
 
 Even as many OEM products that rely on older technology are force-fed to the unsuspecting public, there are some exciting things going on in the printer cartridge industry which will offer us all some amazing options in the near future.
 

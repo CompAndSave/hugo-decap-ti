@@ -8,8 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
-  
-**Nano Technology and Ink Formulation**At the same time that consumer printer manufacturers are having increased financial struggles through increasing raw materials costs and other, self-inflicted business decisions new leaps in ink formulations and quality are being made on a regular business. One of these lies in a new method of creating luminescent inks. 
+
+## Nano Technology and Ink FormulationAt the same time that consumer printer manufacturers are having increased financial struggles through increasing raw materials costs and other, self-inflicted business decisions new leaps in ink formulations and quality are being made on a regular business. One of these lies in a new method of creating luminescent inks.
 
 In this instance, eggs are the source of the nano inks. Plasma streams are directed at either the yolk or white of the egg; they each render different 'carbon dots', or C-dots, and measure only 2.2 nan-meters (nm) or 3.4 nm, with the egg white yielding the larger, 3.4 nm C-dots.
 
@@ -23,7 +23,7 @@ Nano inks like the one above and other nano ink formulations such as waterless i
 
 image source: xrite.com
 
-**Water Based and Alternative Media Formulations**
+## Water Based and Alternative Media Formulations
 
 Ink formulations such as that by Digitl Ink of the UK, who have developed two water based inks designed specifically to print on textiles and fabrics directly, opposed to the normal screen printing process that has been used most often for this type of printing. A big advantage to the water based inks in these applications is the lack of odor, which is especially useful in commercial printing environments.
 
@@ -37,8 +37,8 @@ There is not much question that the manufacturers of consumer printers will have
 
 image source: iformulate.biz
 
-  
-**The Fast Changing World of Printing and Ink Technologies**
+
+## The Fast Changing World of Printing and Ink Technologies
 
 And in the end, there will always be alternatives to the higher cost OEM [ink cartridges](https://www.tomatoink.com/). The remanufactured and compatible ink cartridge manufacturers that originally started because of the exorbitant prices original manufacturers were charging will; continue to fill an important niche in the printing and ink industry. They have become experts at repairing and refilling used ink cartridges, and are making better and better brand new cartridges that are indistinguishable from their more expensive counterparts. As new printing technologies come online, these manufacturers will continue to offer less expensive alternatives to the original equipment.
 

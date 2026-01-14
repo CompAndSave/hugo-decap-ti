@@ -8,11 +8,13 @@ authors: Katy Smith
 tags: []
 ---
 
+## Key Industry Insights and Market Trends
+
 [![printing companies ](/blog/images/archive/2013/05/Print-74-with-Rick-632x510.jpg)](/blog/images/archive/2013/05/Print-74-with-Rick.jpg)
 
 Printing Companies (Image from GFForms.com)
 
-The IDC, or the [International Data Corporation](http://www.idc.com/), recently announced its results for an examination of the internet web press market. According to the reports, the most important players for inkjet are Canon, HP, and Japanese-based Ricoh.(You can get cheap ink cartridges by clicking [here](https://www.tomatoink.com/))
+The IDC, or the [International Data Corporation](http://www.idc.com/), recently announced its results for an examination of the internet web press market. According to the reports, the most important players for inkjet are Canon, HP, and Japanese-based Ricoh.(You can get cheap ink cartridges from [TomatoInk](https://www.tomatoink.com/))
 
 Since the internet was first put online, web printing has rapidly grown to become a major industry. At times, this is only to be expected; major retailers like Amazon typically include receipts with each package they ship, and that's not even counting what it takes to print the shipping labels themselves. When companies may have as many as hundreds of orders per-minute (or more), having completely reliable printers and plenty of supplies is a huge consideration. Equally important are some other web-based factors for printing, including inserts for packages and mail, books that are printed on-demand, and items such as greeting cards or invitations that may end up being sent to a large number of people.
 

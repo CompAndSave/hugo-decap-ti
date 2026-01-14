@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Optimizing Settings for Professional Results
+
 [![epson stylus nx420 printer](/blog/images/archive/2013/07/nx420_fca-ior-nn_690x460-632x421.jpg)](/blog/images/archive/2013/07/nx420%5Ffca-ior-nn%5F690x460.jpg)
 
 Image from Epson.com

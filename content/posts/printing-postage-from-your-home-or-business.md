@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Saving Time and Money With On-Demand Mailing
+
 There are many benefits to printing postage at home or at your own office, primarily including convenience and lower costs. The convenience factor kicks in when you have a busy day and don't have the time to stop at the post office to either buy stamps or mail something. In fact, in that way, the convenience factor can also impact cost. You don't have to pay for the gasoline to get you to the post office (with branches closing, this may become even more important in the future). Likewise if you're preparing a business mailing, you don't have to take time out of your business day just to buy postage.
 
 ![source: stamps.com](/blog/images/archive/2013/03/click-print-mail.gif)

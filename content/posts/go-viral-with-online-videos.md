@@ -8,7 +8,9 @@ authors: Katy Smith
 tags: [internet,videos,viral]
 ---
 
-Online marketing industry has many tricks up its sleeve. And the latest tactic seems to be to adopt some very innovative ideas like merging content and commerce in videos.So, what are we looking at now? 
+## Strategies to Increase Engagement, Reach, and Shareability
+
+Online marketing industry has many tricks up its sleeve. And the latest tactic seems to be to adopt some very innovative ideas like merging content and commerce in videos.So, what are we looking at now?
 
 A music news site shows a video in which a pop duo, a sensation on internet, showcasing a variety of clothes.
 

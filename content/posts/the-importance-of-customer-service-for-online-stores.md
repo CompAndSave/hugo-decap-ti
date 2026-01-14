@@ -14,7 +14,7 @@ Whether your business is online, brick and mortar or some combination of the two
 
 source: thedrum
 
-**CUSTOMER SERVICE CAN MAKE ALL THE DIFFERENCE**
+## CUSTOMER SERVICE CAN MAKE ALL THE DIFFERENCE
 
 Even some large, well run businesses were late to the game when it came to supplying real time, first rate service to customers. In many cases, no phone numbers were supplied, just a 'contact us' form or an email. Now, though, most companies have realized the value of making sure that they have a well-run customer service department. It can be the difference between staying in business and growing and slowly going out of business.
 
@@ -22,12 +22,12 @@ The good thing about the internet is the various avenues that it gives business 
 
 It is also a great component to dedicate some of your customer service resources to Facebook and Twitter feeds - if someone asks a question or has a problem, you can offer solutions or resolve their problem right there.
 
-This type of service pays off in several important ways. Internet stores are like brick and mortar stores in one very important respect - if a person is happy with the shopping experience, chances are when they need that product again, whether it is art supplies or the toner cartridges and [ink cartridges](https://www.tomatoink.com/) to print pictures of the art, if a person received a good product at a good price they will usually come back.  
+This type of service pays off in several important ways. Internet stores are like brick and mortar stores in one very important respect - if a person is happy with the shopping experience, chances are when they need that product again, whether it is art supplies or the toner cartridges and [ink cartridges](https://www.tomatoink.com/) to print pictures of the art, if a person received a good product at a good price they will usually come back.
 If you want to talk with us, you can[ email us](https://www.tomatoink.com/contact/) or find us in our [online chat](https://www.tomatoink.com/contact/). We are also on [Twitter](https://twitter.com/tomatoinktoner) and [Facebook](https://www.facebook.com/tomatoinktoner)!
 
 ![tomatoink ink and toner cartridges](/blog/images/archive/2013/07/generic-man_01-1.png)
 
-**TRUE CUSTOMER SERVICE EXTENDS TO ALL ASPECTS OF YOUR ONLINE STORE**
+## TRUE CUSTOMER SERVICE EXTENDS TO ALL ASPECTS OF YOUR ONLINE STORE
 
 With online only stores, that means several other things which fold into customer service but are more infrastructure related than active customer service. This involves the way the website works - is it easy to search for the item that you need, such as the exact type of paintbrush you need, or the correct compatible ink cartridges for your printer? Are there multiple ways to look up the product?
 

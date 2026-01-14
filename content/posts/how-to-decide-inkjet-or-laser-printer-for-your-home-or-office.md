@@ -8,6 +8,8 @@ authors: Denise Resendez
 tags: []
 ---
 
+## Choosing the Right Printer Based on Usage and Cost
+
 [![inkjet vs laser printer](/blog/images/archive/2013/08/93_8961_2.jpg)](/blog/images/archive/2013/08/93%5F8961%5F2.jpg)
 
 Inkjet vs. Laser Printer (From DigitalVersus.com)

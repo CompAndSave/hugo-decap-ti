@@ -8,7 +8,9 @@ authors: Katy Smith
 tags: []
 ---
 
-If your printer is producing faded text or images, or if it is not producing anything at all, you may need to fill your inkjet cartridges. This is not as complex as some people make it out to be. It is also a great way to save money on many brands of cartridges.Generally speaking, the task is simple: you want to add new ink to the cartridge. This ink is most often purchased as a separate kit and contains the tools you will need to perform the job. It should be noted that many brands of printers do not recommend that [inkjet cartridges](https://www.tomatoink.com/) be refilled by owners. You will have to decide if you want to try this or not. 
+## Step-by-Step Methods to Extend Cartridge Life and Lower Printing Costs
+
+If your printer is producing faded text or images, or if it is not producing anything at all, you may need to fill your inkjet cartridges. This is not as complex as some people make it out to be. It is also a great way to save money on many brands of cartridges.Generally speaking, the task is simple: you want to add new ink to the cartridge. This ink is most often purchased as a separate kit and contains the tools you will need to perform the job. It should be noted that many brands of printers do not recommend that [inkjet cartridges](https://www.tomatoink.com/) be refilled by owners. You will have to decide if you want to try this or not.
 
 ![office printer](/blog/images/archive/2012/07/refill-kit.jpg)
 

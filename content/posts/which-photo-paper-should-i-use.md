@@ -8,7 +8,9 @@ authors: Katy Smith
 tags: []
 ---
 
-There are many reasons for electing to print your own photos at home. Aside from the convenience of being able to print from your own desk, you have the opportunity to print at a lower cost (and still get a high quality result), size the photo however you like and make edits to the photo, hampered only by your photo editing software. In addition to all the choices that are inherent in printing your own photos is the decision of which paper to use.  
+## Choosing the Right Paper for Your Printer and Ink
+
+There are many reasons for electing to print your own photos at home. Aside from the convenience of being able to print from your own desk, you have the opportunity to print at a lower cost (and still get a high quality result), size the photo however you like and make edits to the photo, hampered only by your photo editing software. In addition to all the choices that are inherent in printing your own photos is the decision of which paper to use.
 There are four main types of finishes on photo paper. (By finishes, we mean the look and feel of the printed photo itself.) These four are: glossy, matte, lustre and canvas. Of course, you can always use whichever finish you like, but there are standards that may help you decide which to use.
 
 ![lustre canvas](/blog/images/archive/2013/03/lustre-canvas-632x341.jpg) ![glossy matte](/blog/images/archive/2013/03/glossy-matte-632x345.jpg)
@@ -21,6 +23,6 @@ It's easiest to think of glossy, matte and lustre on a scale. At one end of the 
 
 At the other end of the scale, the flatter end, you have the matte finish photo paper. Matte finishes can sometimes leave a photograph looking a little bit grainy when compared to the glossy or lustre finishes, but doesn't show as many finger prints, and doesn't reflect light back at the viewer. In between both glossy and matte finishes, you'll find the lustre finish. With a little bit of gloss, some light is reflected, and details may be more easily visible than with a matte finish.
 
-If you find that you are still having some difficulty determining which is the best finish for your photos, you might consider experimenting by picking one picture and printing it onto all four finishes. This is one of the many benefits of printing your photos at home-the ability to experiment before printing dozens of photos, thus saving money and ending up with the result that best suits your needs and preferences. Find photo paper here. 
+If you find that you are still having some difficulty determining which is the best finish for your photos, you might consider experimenting by picking one picture and printing it onto all four finishes. This is one of the many benefits of printing your photos at home-the ability to experiment before printing dozens of photos, thus saving money and ending up with the result that best suits your needs and preferences. Find photo paper here.
 
 ![printer cartridges discount](/blog/images/archive/2013/05/generic-savings_01-632x234.png)

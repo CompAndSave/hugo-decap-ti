@@ -1,6 +1,5 @@
 {{ define "main" }}
-  {{ $paginator := slice }}
-  {{ $paginator = .Paginator .Pages }}
+  {{ $paginator := .Paginate .Pages }}
   
   {{ $pageTitle := .Title }}
   {{ $pageType := .Type }}

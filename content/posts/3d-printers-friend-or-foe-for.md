@@ -14,7 +14,7 @@ tags: [3D Printers,Eco-friendly,E-Waste]
 
 The question is a compelling one: If you can buy an object from the market, mass produced in way that creates a small carbon footprint per unit, should you accord yourself the luxury of creating such an object at home? Should you do it for the sheer joy of expressing your creativity? Lets discuss the pros and cons of 3D printing; the possible positive and negative impacts of 3d printing on the environment.
 
-### How 3D Printers Can Positively Impact the Environment
+## How 3D Printers Can Positively Impact the Environment
 
 For one, they help cut down on transport and packing materials. Raw materials are delivered to a manufacturing facility. The process typically flows like this: the finished goods are packaged, transported to dealer and then to a retail outlet. You buy an item from a shop and take it home or you order it online and it reaches from whichever distant location that housed it. These are significant environmental costs vis-a-vis creating the precise object you need as per your own precise specifications without having to transport it over long distances.
 
@@ -24,7 +24,7 @@ The unique ability to ‘print' spare parts is a truly useful capability that 3D
 
 Recycling a 3D printed product is theoretically easier since these are typically simple, single material objects. Most typically resins are used to create ABS filament which are fairly easy to recycle. In fact it is even possible to print using biodegradable materials; to make a conscious choice to create an object from earth friendly materials.
 
-### Possible Environmental Costs of 3D Printing
+## Possible Environmental Costs of 3D Printing
 
 So what would you say to people who say something like, "the world doesn't need more c\*\*p". If you can buy a cheaply produced coffee mug from a dollar store, what real need is there to create a one of a kind item for yourself at the cost of the time, energy and resources that would typically be consumed? The apprehension is that if 3D printing gets easier, more people will create more stuff they don't really need, and we are all literally stuck with more waste.
 

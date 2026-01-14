@@ -10,7 +10,7 @@ tags: []
 
 ![diy recipe book](/blog/images/archive/2015/08/ti-08-11-2015-300x600.jpg)For those of us who have the time, cooking can be enjoyable and even therapeutic! Cooking at home helps you eat healthier since you have better control over the ingredients the way your meal is made. Plus, you can tailor your meals to suite your own tastes and special diet. We would love to share with you ways to eat healthy and organize nutritious recipes.
 
-### **Take a Step Towards a Healthy Change**
+## Take a Step Towards a Healthy Change
 
 Though we may be young at heart, sometimes our body reminds us we aren't exactly 21 anymore. We encounter more medical conditions as time wears on. For example, heartburn with old favorite spicy foods! When that happens, it might be time to change your eating habits for your digestive system. Some of us could also be on medications for hypertension, diabetes, high cholesterol or heart issues, etc. All these conditions should be taken into account to prevent medication interacting with food choices.
 
@@ -30,7 +30,7 @@ In general you should aim for:
 * Some additional low fat dairy to replenish calcium stores of the body
 * Perhaps some B12 fortified foods (or a supplement) added to the diet
 
-**Healthy and Easy Recipes**
+## Healthy and Easy Recipes##
 
 ![healthy berry smoothie ](/blog/images/archive/2015/08/7189773492_be4538e0fe_o-632x976.jpg)
 
@@ -48,7 +48,7 @@ Here are some online resources for healthy recipes:
 * Here are some great suggestions if you usually need to [cook for just a couple of people](http://www.seniorchef.co.nz/recipes)
 * Mayo Clinic also has these [diabetes friendly recipe](http://www.mayoclinic.org/healthy-lifestyle/recipes/diabetes-meal-plan-recipes/rcs-20077150) suggestions to offer
 
-### **DIY Project: Organize Your Recipes In Binder**
+## DIY Project: Organize Your Recipes In Binder
 
 Who doesn't love the convenience of pulling out a recipe from almost anywhere? It can be convenient, but it might be worth the time to print out a good recipe. Save yourself the hassle of looking it up repeatedly.
 
@@ -62,6 +62,6 @@ ones you no longer use or don't do well with your diet. Then organize them under
 
 Use a giant binder if you have one! This will make it easier when your collection starts building up. If you have lots of recipes you may need more binders or files. Tip: Use post-its or labels to indicate different segments or contents to easily find what you're looking for.
 
-### **Special Coupon To Help Your Healthy Recipe Project**
+## Special Coupon To Help Your Healthy Recipe Project
 
 We are offering 5% off all orders this August. So don't forget to use Coupon: [AUG5 ](https://www.tomatoink.com)for any order you place until 08/31/2015 at [TomatoInk](https://www.tomatoink.com). So here's wishing you good luck on your happy cooking and healthy eating journey!

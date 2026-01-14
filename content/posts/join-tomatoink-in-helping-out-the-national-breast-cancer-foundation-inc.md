@@ -14,7 +14,7 @@ _"Having had cancer, one important thing to know is you're still the same person
 
 A little can go a long way, even by sharing some of this information in this post with friends or family. First, here's a little more about the amazing NBCF organization.
 
-### **About the NBCF's Programs**
+## About the NBCF's Programs
 
 Started in 1991 by founder Janelle Hall's own personal experience with breast cancer, she wanted this organization to be a support system for diagnosed women and stress the importance of early detection. Today in 2015, her vision has come true with some of these excellent support programs below:
 
@@ -25,7 +25,7 @@ Started in 1991 by founder Janelle Hall's own personal experience with breast ca
 * The Breast Health Education program consists of community outreaches all over the country that help educate people about cancer and offer early detection services
 * Via their Breast Cancer Research programs, the NBCF also works with some of the finest cancer researchers to continue the quest for effective and lasting cures for cancer.
 
-### **Tips and Facts about Breast Cancer** 
+## Tips and Facts about Breast Cancer
 
 Early detection is often the key to breast cancer survival and prevention. Here are some tips and facts that might surprise you. Share them with friends and loved ones:
 
@@ -35,10 +35,10 @@ Early detection is often the key to breast cancer survival and prevention. Here 
 * Learn [how to perform breast self exams](http://www.nationalbreastcancer.org/breast-self-exam) (this is important because about 40% of diagnosed breast cancer are detected by women who felt a lump or irregularity)
 * Consult a medical practitioner to know how frequently you should have a mammogram and undergo clinical exams given your age and health history
 * Exercise regularly, eat healthy and maintain a healthy body weight. Make the lifestyle modifications to your life and that of your family to help boost immunity to lower your cancer risk as well as that of your family members
-* Give up smoking and cut down on alcohol to lower your risk  
+* Give up smoking and cut down on alcohol to lower your risk
 You can help other women in your family and friend circle by spreading this information. You can also get involved with a cancer society program in your community as a volunteer or you can actually initiate a program by becoming a sponsor. You can also make a direct donation to breast cancer research (donate once or opt for recurring donations) or other programs.
 
-### **Join Us In Supporting the NBCF this October**
+## Join Us In Supporting the NBCF this October
 
 We hope you learned some interesting facts about breast cancer in this post. The NBCF truly is doing wonderful things to help people affected by breast cancer and we are proud to partner with them this month.
 

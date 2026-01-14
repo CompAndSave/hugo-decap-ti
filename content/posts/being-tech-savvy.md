@@ -1,5 +1,5 @@
 ---
-title: "Being tech savvy"
+title: "Being Tech Savvy"
 date: 2014-03-21T18:10:00.000Z
 slug: being-tech-savvy
 description: "Being tech savvy"
@@ -8,11 +8,13 @@ authors: Katy Smith
 tags: []
 ---
 
+## Confessions of a Proudly Non-Technical Adult
+
 By [Joe Pisani](http://www.stratfordstar.com/author/stratford-star/ "View all posts by Joe Pisani") on February 20, 2014 in [Did I Say That?](http://www.stratfordstar.com/category/opinion/did-i-say-that/ "View all posts in Did I Say That?")
 
 Throughout my career, I've had the utmost respect for people with the technical skills to perform vital functions in the office environment, such as operating the Keurig coffee machine, hanging Christmas lights and cleaning mold out of the refrigerator (not to mention the slimy residue that accumulates inside the microwave).
 
-[![](/blog/images/archive/2014/03/Technology_21.jpg)](/blog/images/archive/2014/03/Technology%5F21.jpg)
+[![globe clipart](/blog/images/archive/2014/03/Technology_21.jpg)](/blog/images/archive/2014/03/Technology%5F21.jpg)
 
 These are the people who keep the office purring like a well-oiled Metro-North train. When I was a manager, I'd often give them bonuses for taking the initiative. "Alice, here's $5\. Would you turn on my computer … pretty please."
 
@@ -28,7 +30,7 @@ But then the next day, while I was ensconced in my office, thinking deep thought
 
 "Someone put the cartridge in backwards! The #%@\*\*#@! copier is broken AGAIN! Call the repairman!"
 
-"I called, but they said we don't have a service contract anymore!"  
+"I called, but they said we don't have a service contract anymore!"
 (I guess I was too busy dealing with emergencies to renew the service contract.)
 
 As a mob began to form, I came to the rescue. "We can't allow this sort of calamity to occur! I'm going to take immediate action and … put out a memo."

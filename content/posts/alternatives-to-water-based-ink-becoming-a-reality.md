@@ -10,13 +10,13 @@ tags: []
 
 ![ink-153967_6401](/blog/images/archive/2014/07/ink-153967_6401-632x494.png)
 
-**More Inks Moving Away From Water Based Medium**
+## More Inks Moving Away From Water Based Medium
 
 Inkjet printers are becoming more and more refined, and as they expand in capabilities and volume, the ink manufacturers are rushing to bring new products to bear. Benny Landa, who built the company that HP bought when they decided to go into the ink business. Landa was and is a force in the field, and one thing has always had him thinking - and now he is acting. For the first time in a long time he has once again formed a new company, and will be making special inks just for ink jet printers.
 
 Inkjets are being widely used in the sheetfed press, and he has developed partnerships with the makers of sheetfed press machines, among them Heidelberg, Komori and others. What is special about the inks Landa is developing is not the colors or clarity but rather in the way the inks are made, though of course that will have an impact on the quality of the printed material as well. The inks are already proving to have a wide range of uses and applications, and that will only increase as time goes on.
 
-**Advantages of the New Generation of Inks**
+## Advantages of the New Generation of Inks
 
 The new ink is an alternative to water based ink, which is desirable for a number of reasons, especially with the larger jobs that use the sheetfed machines. Being waterless, it dries much quicker, but there are other advantages to this. It allows for a wider formulation of the ink for specific requirements of certain types of printing, and as the technology becomes more widespread and refined other benefits will arise. Storage time of ink media should increase as well, and an extended shelf life is never bad for ink and [toner cartridges](https://www.tomatoink.com/)
 

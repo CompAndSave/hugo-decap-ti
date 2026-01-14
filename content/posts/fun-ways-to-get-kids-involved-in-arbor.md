@@ -34,7 +34,7 @@ You could buy saplings from a local nursery or transplant saplings you have nurt
 
 ### An Arbor Day Ramble
 
-| [![](/blog/images/archive/2015/04/8-Kid-looking-up-in-wonder-1024x682-1020x679.jpeg)](/blog/images/archive/2015/04/8-Kid-looking-up-in-wonder-1024x682-1020x679.jpeg) |
+| [![Arbor day image banner](/blog/images/archive/2015/04/8-Kid-looking-up-in-wonder-1024x682-1020x679.jpeg)](/blog/images/archive/2015/04/8-Kid-looking-up-in-wonder-1024x682-1020x679.jpeg) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Identify trees, go tree-spotting (Image via [Tiny Trees](https://www.pinterest.com/familythemeday/tree-crafts-and-arbor-day-projects-for-kids/))                      |
 
@@ -42,16 +42,16 @@ The weather is great for a ramble in the woods or a park. While you're spending 
 
 ### Arbor Day Printables
 
-Coloring is a simple, fun activity for smaller kids: simply print out these [Arbor Day coloring sheets ](http://www.apples4theteacher.com/coloring-pages/arbor-day/)and get kids involved in some creative coloring. Slightly older kids can enjoy this [Arbor Day alphabetical order worksheet ](http://www.apples4theteacher.com/holidays/arbor-day/printables/alpha.html)where they arrange words like evergreen, oak, willow, plant etc in the right order. There are more [Arbor Day worksheets](http://www.apples4theteacher.com/holidays/arbor-day/printables/) that you can print out to increase awareness: jumble worksheet, word search challenge and so on.
+Coloring is a simple, fun activity for smaller kids: simply print out these [Arbor Day coloring sheets](http://www.apples4theteacher.com/coloring-pages/arbor-day/)and get kids involved in some creative coloring. Slightly older kids can enjoy this [Arbor Day alphabetical order worksheet](http://www.apples4theteacher.com/holidays/arbor-day/printables/alpha.html)where they arrange words like evergreen, oak, willow, plant etc in the right order. There are more [Arbor Day worksheets](http://www.apples4theteacher.com/holidays/arbor-day/printables/) that you can print out to increase awareness: jumble worksheet, word search challenge and so on.
 
 ### Arbor Day Crafts
 
 
-| [![](/blog/images/archive/2015/04/color-by-nymber-working-together-.jpg)](/blog/images/archive/2015/04/color-by-nymber-working-together-.jpg) |
+| [![coloring worksheets](/blog/images/archive/2015/04/color-by-nymber-working-together-.jpg)](/blog/images/archive/2015/04/color-by-nymber-working-together-.jpg) |
 | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Print out coloring worksheets (Image via [here](http://www.notimeforflashcards.com/category/letter-recognition))                              |
 
-These fun [Arbor Day Crafts on Pinterest ](https://www.pinterest.com/familythemeday/tree-crafts-and-arbor-day-projects-for-kids/)are easy to organize and will really engage kids: a tree collage, paintings created with kids' hands, egg carton trees, the toilet paper tree and much more. Get kids to make stuff which you can then proudly display around the house!
+These fun [Arbor Day Crafts on Pinterest](https://www.pinterest.com/familythemeday/tree-crafts-and-arbor-day-projects-for-kids/)are easy to organize and will really engage kids: a tree collage, paintings created with kids' hands, egg carton trees, the toilet paper tree and much more. Get kids to make stuff which you can then proudly display around the house!
 
 
 ### Recycled Crafts
@@ -60,7 +60,7 @@ Older kids will enjoy crafts projects involving waste or recyclable items. This 
 
 ## Our special promotion for Arbor Day
 
-| [![](/blog/images/archive/2015/04/TomatoInk-1020x378.png "We'll donate a tree to be planted whenever you order from us this month! ")](/blog/images/archive/2015/04/TomatoInk-1020x378.png) |
+| [![TomatoInk Arbor Day Image Banner](/blog/images/archive/2015/04/TomatoInk-1020x378.png "We'll donate a tree to be planted whenever you order from us this month! ")](/blog/images/archive/2015/04/TomatoInk-1020x378.png) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Help us make a positive and green impact!|
 

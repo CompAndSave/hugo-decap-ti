@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Smart Buying Strategies for Long-Term Savings
+
 [![empty toner cartridge ](/blog/images/archive/2013/07/5814843578_d639fee893_b-632x474.jpg)](/blog/images/archive/2013/07/5814843578%5Fd639fee893%5Fb.jpg)
 
 Toner Cartridge (From SChermpeter42 on Flickr)

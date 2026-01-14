@@ -8,11 +8,13 @@ authors: Katy Smith
 tags: []
 ---
 
+## Faster Printing Solutions for Everyday Productivity
+
 [![office printer ](/blog/images/archive/2013/05/1-632x356.jpg)](/blog/images/archive/2013/05/1.jpg)
 
 Office printer image from Couriermail.com
 
-Hewlett-Packard, one of the biggest names in printing, recently took the mystery away from its newest line of products and set about announcing all that it could do. The Officejet Pro X line is the highlight of these new items, with a host of innovations that help to make it a good choice for many businesses.In its standard office printing mode, the Officejet Pro X is capable of printing as many as seventy high-quality pages per minute, or faster than one page per second, which ranks it among the fastest and most efficient desktop printers anywhere in the market. This is particularly valuable for any businesses that have a lot of rush jobs (for example, needing to deliver something to customers or patients) or who simply do a lot of [printing ](https://www.tomatoink.com/)and don't want employees to be standing around for ten or fifteen minutes, waiting to get something so they can return to work. 
+Hewlett-Packard, one of the biggest names in printing, recently took the mystery away from its newest line of products and set about announcing all that it could do. The Officejet Pro X line is the highlight of these new items, with a host of innovations that help to make it a good choice for many businesses.In its standard office printing mode, the Officejet Pro X is capable of printing as many as seventy high-quality pages per minute, or faster than one page per second, which ranks it among the fastest and most efficient desktop printers anywhere in the market. This is particularly valuable for any businesses that have a lot of rush jobs (for example, needing to deliver something to customers or patients) or who simply do a lot of [printing ](https://www.tomatoink.com/)and don't want employees to be standing around for ten or fifteen minutes, waiting to get something so they can return to work.
 
 However, the speed of a printer doesn't really matter much if the ink cartridge can't keep up. This was taken into consideration early in the design process, and the end result was the line of HP 970 and 971 inkjet cartridges. These two versions feature pigments that are not only long-lasting, but extremely quick to dry as well. When you're printing at the Officejet Pro X's best speed, the rate at which the ink dries really is a major consideration. It's always nice to see that cartridge technology is keeping pace with the power of the printers themselves.
 

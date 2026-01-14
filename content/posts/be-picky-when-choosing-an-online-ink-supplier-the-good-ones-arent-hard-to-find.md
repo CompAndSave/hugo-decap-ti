@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: []
 ---
 
-**How Easy It Is**
+## How Easy It Is
 
 The supplier you choose to get your ink cartridges from can make a big difference in price, quality, available models of ink cartridges and laser toner cartridges, and whether or not their warranty is any good. These things will make all the difference in which supplier you choose. Reputable dealers will have a long track record to judge them by, and there will be no confusion about their warranty language. Also, keep an eye on shipping costs as some resellers pad their profit by overcharging for shipping.
 
@@ -18,7 +18,7 @@ These days, it is easy to get a website; that can be set up in a matter of days,
 
 TomatoInk Ink and Toner Cartridges
 
-**What to Look For In a Good Supplier**
+## What to Look For In a Good Supplier
 
 How fast a company ships and how good their customer service is is a good sign about the overall quality of the company. Before you order, call their customer service and ask for a specific product, like the Brother Compatible LC31Bk and other 31 series cartridges. When you talk to them are they helpful, and do they quickly find the right product that you need? Do they answer all your questions about the product?
 

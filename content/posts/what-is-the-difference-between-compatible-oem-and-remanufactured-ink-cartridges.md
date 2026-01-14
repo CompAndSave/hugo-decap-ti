@@ -10,7 +10,7 @@ tags: []
 
 [![compatible ink and toner cartridges](/blog/images/archive/2013/07/profile_06-632x126.jpg)](/blog/images/archive/2013/07/profile%5F06.jpg)
 
-TomatoInk Compatible Printer Cartridges
+## TomatoInk Compatible Printer Cartridges
 
 In today's market there are a multitude of choices when it comes to replacing your printer's empty ink cartridges. There is a lot of misinformation out there and many companies may try to use scare tactics to force you to purchase their products. But really, this tangle of decisions is made a whole lot easier if you know a few simple facts. We're going to break down the wall of confusion and make sure that you have all the information you need when choosing replacement ink for your printer. There are three main kinds of replacement ink you may purchase, compatible cartridges, OEM cartridges, and remanufactured cartridges. Before long you'll know the pros and cons of each and be able to confidently decide what is best for you!
 

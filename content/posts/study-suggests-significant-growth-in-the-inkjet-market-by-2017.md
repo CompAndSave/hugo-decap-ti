@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Market Projections and Industry Outlook
+
 [![printer ink cartridges](/blog/images/archive/2013/06/printer-ink-cartridges1-632x292.jpg)](/blog/images/archive/2013/06/printer-ink-cartridges1.jpg)
 
 CMYK Printer Ink from Marcelopedra.com

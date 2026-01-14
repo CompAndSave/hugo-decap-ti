@@ -10,7 +10,7 @@ tags: []
 
 [![Harvest Savings with TomatoInk](/blog/images/archive/2013/06/generic_01-632x234.png)](/blog/images/archive/2013/06/generic%5F01.png)
 
-Harvest Savings with TomatoInk
+## Harvest Savings with TomatoInk
 
 It seems everyone these days is moving towards "green" ways of doing things. This is great for our environment and really a step in the right directions, but sometimes it can be hard to know just how to make your life and business a little more environmentally friendly. Sometimes these "green" products are cost-prohibitive, especially for small businesses or new families just starting out. It's difficult when you want to do the environmentally responsible thing but it costs you a lot of extra money. Luckily, there are plenty of things you can do to turn your home or business into a green machine, and all without spending a small fortune to do it.
 

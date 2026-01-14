@@ -10,7 +10,7 @@ tags: []
 
 [![printer cartridge upcycling ](/blog/images/archive/2015/06/ti_300x250_060315.jpg)](/blog/images/archive/2015/06/ti%5F300x250%5F060315.jpg)For most of us empty ink cartridges are just that – empty and of no use. They are ready for the garbage bin or for recycling if you're inclined to make the effort. But that isn't all they are good for. In fact empty ink cartridges can be put to some really creative uses. We bring you some terrific upcycling ideas to put used cartridges to work; some fun and enjoyable DIY projects for you!
 
-**Eco-friendly Upcycling for Printer Cartridges**  
+## Eco-friendly Upcycling for Printer Cartridges
 In keeping with our constantly ongoing endeavors to make a positive difference to the ecology we, like to think that there is life for an ink cartridge beyond mere printing.
 
 **1\. Every part of a used ink cartridge can be useful** – An empty cartridge can hold pencils and other stationery on your desk. You can use it as a divider, to separate pens, pencils, and markers. Wrap it first with decorative paper and then use hot glue to the stationery box. You can use the casing of the cartridge as a plant starter. More often than not, there is a little residual ink left over in the cartridge; you can use this for kid's craft or painting projects.
@@ -23,7 +23,7 @@ In keeping with our constantly ongoing endeavors to make a positive difference t
 
 **5\. The ink cartridge wind chime** – String the used cartridges and printer drums together for a cheap and cheerful wind chime!
 
-**Fun Upcycling Ideas from Pinterest**
+## Fun Upcycling Ideas from Pinterest
 
 And then there are all the great eco friendly upcycling ideas for [used printer cartridges on Pinterest ](https://www.pinterest.com/inkcartridges/look-what-i-made-out-of-used-printer-ink-cartridge/)– here are a few of the best:
 

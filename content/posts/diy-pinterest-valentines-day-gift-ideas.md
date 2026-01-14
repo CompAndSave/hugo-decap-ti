@@ -11,7 +11,7 @@ tags: []
 
 For all those who believe that Valentine's Day is about showing how much you care rather than about how big expensive your gift is, this DIY post is going to be very interesting. Now is the time to get together a few things from around the house and to put on your thinking cap to make fun, thoughtful, and memorable gifts or keepsakes for this special day of love. Here are some DIY Pinterest Gift Ideas for Valentine's Day:
 
-### **The ‘I Love You' Banner**
+## The ‘I Love You' Banner
 
 Don't cringe yet! It doesn't have to say only ‘I love you' and it doesn't have to be bright red either. It can say anything that you truly feel and want to convey and it can be as sober as you want it to be. Take photo paper or stiff card paper sheets of the same size and use your home printer to print out one letter on each of the sheets.
 
@@ -21,11 +21,11 @@ So if you're saying ‘I Love You' you need eight sheets, and so on. You could e
 | ---------------------------------------------------------------------------------------------------------------- |
 | Via TheHappyScrapsGuestBook                                                                                      |
 
-### Matching T-Shirts
+## Matching T-Shirts
 
 They could be schmaltzy as you want or as pert and tongue in cheek as you want. So pick images and text to go along with it; look for cute his and hers motifs. Last year we had the idea to do [an Anti Valentine Day t shirt post](https://www.tomatoink.com/blog/posts/anti-valentines-day-diy-t-shirt-printing-designs.html). You can use the same procedure to create matching Valentine's Day t shirts for him and her as well this year. You can actually do this at home with your printer, t shirt transfer papers, parchment paper, an iron, and of course t shirts.
 
-### A Collage of Your Pictures
+## A Collage of Your Pictures
 
 Create wall art from a bunch of pictures specially picked and printed for the occasion. Or print out a few special pictures (a series of pictures representing a story of your relationship could be a good idea) and have them mounted or framed. Since you're printing the pictures at home, you could add some text and messages that help to convey your emotions as well.
 

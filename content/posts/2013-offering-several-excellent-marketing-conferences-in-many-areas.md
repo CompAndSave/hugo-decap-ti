@@ -16,11 +16,11 @@ Many of the best marketing conferences being conducted this year will concentrat
 
 Some of the most important aspects to attending marketing conferences are the incredible networking opportunities that they offer. It can be very important to meet other people who are associated with marketing. These individuals will often share new ideas as well as offer their particular talents. They will also often accept your information which can lead to more business for you or your company.
 
-**Here at [TomatoInk](https://www.tomatoink.com/) we highly recommend this conferences:**
+## Here at [TomatoInk](https://www.tomatoink.com/) we highly recommend this conferences:
 
 [The SXSW Conference:](http://sxsw.com/) This particular conference will offer attendees introductions to some of the newest technologies that are coming to light. It also offers some great guest speakers. It also includes a film and music festival that will be fun for attendees and family members. The conference is on March 5th and will be held in Austin, Texas.
 
-![sxsw](/blog/images/archive/2013/02/sesx-400x280.png) 
+![sxsw](/blog/images/archive/2013/02/sesx-400x280.png)
 
 [The Sirius Decisions Summit:](https://www.siriusdecisions.com/Events/Summit.aspx) For those who want to go to one of the very best, this is the one. It brings together many of the best greatest minds in the marketing industry and the conference covers a wide variety of issues associated with modern marketing. The conference will be in San Diego and begins on May 8th. This one will be packed so register early.
 

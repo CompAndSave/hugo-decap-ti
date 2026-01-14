@@ -10,7 +10,7 @@ tags: []
 
 [![printer cartridges discount](/blog/images/archive/2013/05/generic-savings_01-632x234.png)](/blog/images/archive/2013/05/generic-savings%5F01.png)
 
-Top Deals on Ink and Toner at TomatoInk
+## Top Deals on Ink and Toner at TomatoInk
 
 If you've never bought ink online before, you may be wondering if it's time to make the switch and change your business plan a little. Let's take a look at some of the advantages and disadvantages to buying ink cartridges online.
 

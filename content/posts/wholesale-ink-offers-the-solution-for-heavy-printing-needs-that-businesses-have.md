@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Cost-Effective Options for High-Volume Printing
+
 [![ink cartridge and toner cartridge warranty](/blog/images/archive/2013/06/11.png)](/blog/images/archive/2013/06/11.png)
 
 TomatoInk Offers 1 Year Money Back Guarantee on all products!

@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: [best printers,Eco-friendly]
 ---
 
+## Tips to Save Power, Reduce Bills, and Go Green While Printing
+
 ![energy-efficient](/blog/images/archive/2016/05/colourbox4124723_low.jpg)If you print often, you know just how much waste you can produce over time between paper and cartridges. However, there are some really great [eco-friendly](https://www.tomatoink.com/blog/posts/eco-friendly-technology-trends-2016.html) options on the market right now. When you choose to buy an energy efficient printer, you are not only helping to save the environment, but you are also saving yourself money! How can you tell if a printer is up to these standards? Here are some things to look for when searching for your next eco-friendly printer:
 
 * **Is it ENERGY STAR Qualified?** If so, this means the printer has been awarded the trusted, government backed label for energy efficiency.
@@ -27,4 +29,4 @@ Check out these Energy Star qualified printers that may be just what you're look
 
 Remember: buying an energy efficient printer helps the environment, but it also helps you [save money](https://www.tomatoink.com/blog/posts/how-remanufactured-cartridges-save-some-green.html)! It's a win-win!
 
-_If you liked this post, be sure to tell us about it. To keep track of future interesting posts like this one, [subscribe to our newsletter](https://www.tomatoink.com/welcome/subscribe/). To find the best ink and toner cartridge deals, like us on [Facebook](https://www.facebook.com/tomatoinktoner/) or check out the [best printer cartridge deals](https://www.tomatoink.com/coupon) currently available._ 
+_If you liked this post, be sure to tell us about it. To keep track of future interesting posts like this one, [subscribe to our newsletter](https://www.tomatoink.com/welcome/subscribe/). To find the best ink and toner cartridge deals, like us on [Facebook](https://www.facebook.com/tomatoinktoner/) or check out the [best printer cartridge deals](https://www.tomatoink.com/coupon) currently available._

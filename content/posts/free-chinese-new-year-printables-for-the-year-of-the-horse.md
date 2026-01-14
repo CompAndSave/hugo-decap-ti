@@ -18,7 +18,7 @@ While traditional dancing tigers/dragons are very large objects meant to be donn
 
 [![Chinese New Year](/blog/images/archive/2014/01/tiger.png)](/blog/images/archive/2014/01/tiger.png)
 
-**What You Will Need:**
+## What You Will Need:
 
 * Good quality printing paper or card stock
 * A printer with a reasonably [new ink cartridge](https://www.tomatoink.com/)
@@ -28,7 +28,7 @@ While traditional dancing tigers/dragons are very large objects meant to be donn
 * Two disposable chopsticks or barbecue skewers made from wood
 * Glitter, feathers, streamers or other decorations
 
-**What To Do:**
+## What To Do:
 
 * Click on the link that says "Head" to see the PDF page of the head open up. Print this and cut along the dotted line to get the shape of the head.
 * Similarly, click on the link that says "Tail" and a PDF printable for the tail opens up. Print this as well and cut along the dotted line to get the shape of the tail.

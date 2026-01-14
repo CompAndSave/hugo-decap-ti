@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Best Practices to Preserve Ink Quality and Shelf Life
+
 [![store printer cartridges ](/blog/images/archive/2013/05/Rolling-Printer-Cart-002-480x280.jpg)](/blog/images/archive/2013/05/Rolling-Printer-Cart-002.jpg)
 
 Storing Printer Cartridges (Image from Forrent.com)

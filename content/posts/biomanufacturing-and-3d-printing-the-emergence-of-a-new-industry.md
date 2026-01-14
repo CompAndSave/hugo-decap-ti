@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Where Biology and Additive Manufacturing Converge
+
 The idea of growing a human body organ in a lab isn't a new one. It's been researched for awhile, and even addressed in pop culture through comic books, movies, novels and more. Highly controversial, stem-cell research and cloning have been at the heart of the attempts to grow human body organs. What if it were possible to create a blueprint that a computer could spool to a 3D printer, which could then use "bioink" to create brand new body organs?
 
 It's already undergoing research, according to an article published on [IowaNow](http://now.uiowa.edu/2013/02/ui-researchers-developing-3d-printer-bio-ink-create-human-organs). Their goal? In addition to improving overall manufacturing, they are researching creating functioning human organs, and looking to succeed in the next decade or less. This is great, right?

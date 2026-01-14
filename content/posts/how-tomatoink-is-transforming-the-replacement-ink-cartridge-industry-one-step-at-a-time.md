@@ -10,7 +10,7 @@ tags: []
 
 [![tomatoink ink and toner cartridges ](/blog/images/archive/2013/07/generic-man_01-1-632x234.png)](/blog/images/archive/2013/07/generic-man%5F01-1.png)
 
-TomatoInk Saves You Up to 80% On Ink and Toner
+## TomatoInk Saves You Up to 80% On Ink and Toner
 
 TomatoInk is an internet only company that is changing the face of the replacement ink cartridge industry as you know it. For many people when their printer ink cartridges run dry, their only thought was, "Great, now I'll have to spend upwards of $60 to get new ink from \[insert major printer manufacturer here\]." TomatoInk is changing all that by bringing consumers the opportunity to replace their empty cartridges with either new [compatible cartridges or remanufactured cartidges](https://www.tomatoink.com/) at significant savings to them.([Subscribe](https://www.tomatoink.com/welcome/subscribe) to our newsletter to receive deals on your email)
 

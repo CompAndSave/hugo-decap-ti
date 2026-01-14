@@ -8,7 +8,9 @@ authors: Katy Smith
 tags: []
 ---
 
-Many advances in technology such as computers, Internet access, and broadband services have made it possible for many businesses to perform many of their most important tasks in the "virtual" world. In many ways, this has meant more production, faster turnaround times, and less human effort required. It has also meant a great savings, in real dollars, for many businesses. But working in the virtual world can have its drawbacks as well. 
+## Seasonal Strategies to Boost Engagement
+
+Many advances in technology such as computers, Internet access, and broadband services have made it possible for many businesses to perform many of their most important tasks in the "virtual" world. In many ways, this has meant more production, faster turnaround times, and less human effort required. It has also meant a great savings, in real dollars, for many businesses. But working in the virtual world can have its drawbacks as well.
 
 ![image source: theranest.com](/blog/images/archive/2012/10/paperless-therapy-office-theranest.jpg)
 

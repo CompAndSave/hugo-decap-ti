@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: []
 ---
 
-**Just How Easy Is It To Become An Ink Cartridge Seller?**
+## Just How Easy Is It To Become An Ink Cartridge Seller?
 
 The compatible ink cartridge seller you choose to get your [ink cartridges](https://www.tomatoink.com/) from can make all the difference in price and quality. Also, you should look for all available models of ink cartridges and laser toner cartridges, and whether or not their warranty is any good. Judging the small parts of a business can make all the difference in which supplier you choose. The best ink sellers will have a long history to judge them by, and their warranty will be good (at least a year) and easy to understand.
 
@@ -18,7 +18,7 @@ Getting a website is easier than ever - it is much harder to turn that site into
 
 image source: itbusiness.ca
 
-**How to Find a Good Retailer of Ink Cartridges**
+## How to Find a Good Retailer of Ink Cartridges
 
 A good sign that you're dealing with a professional company is the customer service. Pay close attention to the shipping charges, and whether they keep you notified and supply tracking numbers for your product. These are great indicators of a responsible reseller who has the customer's best interests at heart.
 

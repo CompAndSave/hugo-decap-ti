@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Improving color vibrancy and durability in sublimation printing
+
 It was recently announced that [Graphics One, LLC](http://www.graphicsone.com/), which is also known as GO, has plans to launch a new type of dye sublimation ink that is professional grade. The new ink will include specially formulated tack that is said to be able eliminate forms of ghosting and will also eliminate the necessity of sub tacky dye paper.
 
 ![graphic one dye sublimation ink](/blog/images/archive/2013/02/dye-sublimation-ink.jpg)

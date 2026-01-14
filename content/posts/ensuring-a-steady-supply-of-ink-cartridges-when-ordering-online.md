@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Why Print Still Plays a Role in Digital Workflows
+
 [![generic-man_01](/blog/images/archive/2013/05/generic-man_01-632x234.png)](/blog/images/archive/2013/05/generic-man%5F01.png)
 
 Like all products that have something consumed in order to be used, printers often need to have a particular part replaced in order to continue functioning. This guide will examine some ways to ensure that whatever printer your home or business is using is able to have refills on the ink for as long as possible.The first thing you should do is figure out how old your printer is. Often, new printer lines come with a new style of cartridge designed to effectively integrate with the printer and provide all the necessary printing ability.

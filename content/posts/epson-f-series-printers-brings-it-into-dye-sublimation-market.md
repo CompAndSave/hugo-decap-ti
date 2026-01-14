@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Planning Ahead to Prevent Printing Downtime
+
 It was recently announced that Epson will be entering the dye-sublimation printing arena. This is the company's first move into this expanding marketplace. It will do so with two transfer printers (both dye-sublimation) and roll-fed. They are the 64-inch SureColor F7070 and the smaller 44-inch SureColor F6070.
 
 ![Epson SureColor F6070](/blog/images/archive/2013/01/F6070_550x310.png)

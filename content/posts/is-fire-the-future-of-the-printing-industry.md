@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Exploring Experimental Technologies and Emerging Concepts
+
 [![Printing printing image ](/blog/images/archive/2013/05/download-1.jpg)](/blog/images/archive/2013/05/download-1.jpg)
 
 Printer image from WePrintQuick.com

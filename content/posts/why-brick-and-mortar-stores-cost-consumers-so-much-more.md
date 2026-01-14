@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Understanding Pricing Differences Between Online and Retail
+
 [![brick and mortar stores ](/blog/images/archive/2013/08/bricks-n-mortar-businesses-can-learn-from-online-sellers-632x422.jpg)](/blog/images/archive/2013/08/bricks-n-mortar-businesses-can-learn-from-online-sellers.jpg)
 
 Image from Fusion-Consulting.com

@@ -16,7 +16,7 @@ You can be uniquely different when you hand out homemade treats that are not onl
 
 These homemade chocolates are great because you get to control what goes into them – they are gluten free so it can be a great idea even for kids with gluten allergies. Here's what you'll need:
 
-[![](/blog/images/archive/2014/10/AHumbleBumbleHomemadeTwix2.jpg)](/blog/images/archive/2014/10/AHumbleBumbleHomemadeTwix2.jpg)
+[![Homemade Twix Bars](/blog/images/archive/2014/10/AHumbleBumbleHomemadeTwix2.jpg)](/blog/images/archive/2014/10/AHumbleBumbleHomemadeTwix2.jpg)
 
 * ½ a cup of white rice flour (you could also use buckwheat flour)
 * 2 tbsp evaporated cane juice (you can also use coconut sugar; if not use regular sugar)

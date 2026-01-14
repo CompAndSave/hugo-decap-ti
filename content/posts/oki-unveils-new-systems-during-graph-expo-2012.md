@@ -8,13 +8,16 @@ authors: Katy Smith
 tags: []
 ---
 
+
+## Highlights and Industry Implications of Oki’s Latest Announcements
+
 It is no secret that printer technology is making huge advances and this trend is likely to continue over the next several years as well. These advances mean that needs are changing as well, especially in printer industry. As these advances continue, ink cartridge companies are having to find new solutions in order to provide the best services for their customers. The fact that they have to find solutions for a wide range of printer sectors only makes the challenge more daunting.
 
 The basic solution to all of these new challenges is to find ways to cater their products and offerings in such a way that they meet the specific requirements of each customer. Of course, these needs will vary a great deal, making it crucial that ink cartridge products be available in a variety of forms.
 
 One way that ink jet and printer ink vendors are able to keep abreast of the latest advances is through seminar and conventions that occur on a regular basis worldwide. These gatherings allow vendors and companies to interact and to learn about new products as well as discover what consumers and customers want and need. The Graph Expo 2012 Tradeshow and conference took place between October 7th and 12th, and it brought together a large number of the print sector's most influential and important companies.
 
-During the Expo, Oki, an ink company, unveiled its new technology of the proColour Series. These are commercial grade digital color printers. Oki also unveiled many other products during the Expo. The proColour provides its users with production-quality output along with exceptional color accuracy with EFI Fiery and Pantone support on certain models. 
+During the Expo, Oki, an ink company, unveiled its new technology of the proColour Series. These are commercial grade digital color printers. Oki also unveiled many other products during the Expo. The proColour provides its users with production-quality output along with exceptional color accuracy with EFI Fiery and Pantone support on certain models.
 
 ![image source: okidata](/blog/images/archive/2012/12/pro920wt.jpg)
 

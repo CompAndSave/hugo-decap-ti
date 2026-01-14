@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## What is 3D Printing?
+
 [![what is 3d printing ](/blog/images/archive/2013/08/09-20-2012form-1-on-desk00-1348689824.jpg)](/blog/images/archive/2013/08/09-20-2012form-1-on-desk00-1348689824.jpg)
 
 Image from Engadget.com

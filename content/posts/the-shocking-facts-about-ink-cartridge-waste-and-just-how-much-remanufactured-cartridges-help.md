@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## The Environmental Impact of Reuse and Recycling
+
 [![printer cartridges in landfills ](/blog/images/archive/2013/08/993512_orig.jpg)](/blog/images/archive/2013/08/993512%5Forig.jpg)
 
 Image from E-WasteAustralia.weebly.com

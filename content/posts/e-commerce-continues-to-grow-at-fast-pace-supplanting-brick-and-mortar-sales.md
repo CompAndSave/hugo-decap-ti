@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: []
 ---
 
-The year 2012 saw a continued steady rise in internet, or e-commerce sales. In the third quarter the total of e-commerce sales totaled over $55 billion, an increase of 3.7% from the second quarter. These sales now account for around 5% of total sales, up from about 1.5% in 2003.5% doesn't sound like a lot, but that percentage is increasing as warehousing and distribution systems get better and more efficient. 
+The year 2012 saw a continued steady rise in internet, or e-commerce sales. In the third quarter the total of e-commerce sales totaled over $55 billion, an increase of 3.7% from the second quarter. These sales now account for around 5% of total sales, up from about 1.5% in 2003.5% doesn't sound like a lot, but that percentage is increasing as warehousing and distribution systems get better and more efficient.
 
 Of course, some things don't do well in the new sales models; other products and companies seem custom made for an online distribution system, and industries have grown by large amounts since the advent of efficient ordering and delivery systems.
 
@@ -16,7 +16,7 @@ Of course, some things don't do well in the new sales models; other products and
 
 source: pcworld
 
-**SOME BUSINESSES ARE A NATURAL MATCH FOR E-TAILING**
+## SOME BUSINESSES ARE A NATURAL MATCH FOR E-TAILING
 
 The computer and printing industry has seen both a boom in business in the last ten years even as prices on devices have gone steadily down, and the industry of supply and peripherals has grown just as much. Traditionally, retailers use add-on's as an easy way to increase the profit; for computers, you are looking at anything from upgraded keyboards and mouse's to better monitors. For printers, they are looking to keep selling you specialty papers and inks.
 

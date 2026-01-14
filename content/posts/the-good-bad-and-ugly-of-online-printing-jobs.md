@@ -8,7 +8,9 @@ authors: Katy Smith
 tags: []
 ---
 
-If you run a business, whether it is online, brick and mortar, or a combination, chances are good that you will need printing jobs performed at some time or another. With today's printing technology, business owners now have three basic options when it comes to getting their printing work performed. Let's take a look at those and some of the problems that can arise from each. 
+## What to Expect When Outsourcing Print Work
+
+If you run a business, whether it is online, brick and mortar, or a combination, chances are good that you will need printing jobs performed at some time or another. With today's printing technology, business owners now have three basic options when it comes to getting their printing work performed. Let's take a look at those and some of the problems that can arise from each.
 
 The first option many business owners have available for printing job is to do it themselves, in-house. With high quality ink jet cartridges and fast printers now commonly available, many printing jobs can be performed right in the office. This goes far beyond the usual black text on white paper printing most of us are accustomed to seeing done in the office. Modern printers and [toner cartridges](https://www.tomatoink.com/) that can provide a variety of colors make in-house printing a snap.
 

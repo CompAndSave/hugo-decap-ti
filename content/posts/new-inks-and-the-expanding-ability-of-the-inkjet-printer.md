@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: []
 ---
 
-**Digital Printing Gaining Ground on Traditional Commercial Printing**
+## Digital Printing Gaining Ground on Traditional Commercial Printing
 
 HP has stepped up its game when it comes to photo printing. The new latex inks and HP Indigo Press technologies make printing more professional grade work more accessible than ever before. These new technologies make inkjet printing which rivals silver halide production and conventional printing technologies.
 
@@ -20,8 +20,8 @@ Digital, or inkjet printing is gaining ground quickly, and the latex and Indigo 
 
 The latex inks also are very valuable in the fact that they can produce odorless indoor displays, something which has been a problem with some large format printing in the past. Especially with the latex inks, their ability to print to unconventional media means an increased palette that includes floor graphics, textiles, and other flexible and rigid materials. Obviously, these printers are more aligned towards professional users, but as always the expanding abilities of these printers are gradually becoming more and more affordable to the small and home based business and hobbyist who have a large desire to print professional quality work without contracting an actual printer.
 
-  
-**Expanded Colors, Blacks and Grays and Why They Are So Important To Quality**
+
+## Expanded Colors, Blacks and Grays and Why They Are So Important To Quality
 
 In addition to the expanded palette of blacks and grays, the Indigo Digital presses also offer expanded cyan and magenta inks. These expanded color palettes are what allows the new printers to reproduce the results formally only seen in silver halide and the traditional printing fields.
 

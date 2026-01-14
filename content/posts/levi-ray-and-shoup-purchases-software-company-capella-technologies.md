@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## What the Acquisition Means for Print Management Solutions
+
 [![Capella Technologies ](/blog/images/archive/2013/05/1-632x218.png)](/blog/images/archive/2013/05/1.png)
 
 Capella Technologies (Image from Capella Tech.)

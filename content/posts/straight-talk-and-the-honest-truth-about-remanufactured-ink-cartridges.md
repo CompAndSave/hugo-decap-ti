@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## What You Need to Know About Quality, Savings, and Performance
+
 [![HP 56 57 ink cartridges ](/blog/images/archive/2013/07/ZINK-HP-56-57-COMBO3.jpg)](/blog/images/archive/2013/07/ZINK-HP-56-57-COMBO3.jpg)
 
 HP 56 / 57 Compatible Ink Cartridges

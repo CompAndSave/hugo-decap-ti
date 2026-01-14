@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Smart Planning Strategies to Avoid Shortages and Overstocking
+
 One of the biggest advantages to [buying ink in bulk](https://www.tomatoink.com/) is that you won't have to take nearly as many trips down to the store to pick up some ink, which among other things will save you time, gas, and productive use of your printer. However, even the best online delivery doesn't mean you can totally forget about inventory management. Despite that, following a few basic principles can ensure that your business doesn't run out of ink. Follow the simple steps below to help set things up and ensure you'll have all the ink you need.
 
 ![WINK-BROTHER-LC51-COMBO40](/blog/images/archive/2013/06/WINK-BROTHER-LC51-COMBO40.jpg)

@@ -16,7 +16,7 @@ There are more such effective ways to tell the world about your web existence. R
 
 Image source: lucralux.com/
 
-**Online marketing ways**
+## Online marketing ways
 
 • Create product feeds. It is a file that contains product descriptions, images, pricing, special features, and sometimes ratings. Submit the feeds to websites that compare products.
 

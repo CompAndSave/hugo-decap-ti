@@ -10,9 +10,9 @@ tags: []
 
 It is possible for anyone to encounter printer problems from time to time. There could be poor quality of printouts, drying out of printer heads, paper jams and so on. Let's look at some common printer ink cartridge problems and toner cartridge problems and how you can avoid or resolve them:
 
-### The printer won't print
+## The printer won't print
 
-[![](/blog/images/archive/2014/06/ink-cartridge-2.jpg)](/blog/images/archive/2014/06/ink-cartridge-2.jpg)
+[![HP ink cartridges](/blog/images/archive/2014/06/ink-cartridge-2.jpg)](/blog/images/archive/2014/06/ink-cartridge-2.jpg)
 
 Firstly, ensure that you have the right type of ink cartridge installed for your printer brand and model. It isn't necessary that you buy expensive OEM or original manufacturer cartridges – **[compatible cartridges](https://www.tomatoink.com/)** are made to exact printer specifications and work just as well. However, it is necessary that the correct cartridge for the brand and model be used.
 
@@ -20,7 +20,7 @@ Then check to see that the **[ink cartridge](https://www.tomatoink.com/)** or th
 
 Also, ensure that your printer is not out of paper and that the paper is properly placed in the tray. If there is still a problem, try restarting the system.
 
-### Poor quality printouts
+## Poor quality printouts
 
 The most obvious cause of this could be that the printer ink cartridge or toner cartridge is exhausted and may need to be replaced. However, there are other reasons why you may not be getting the best quality printouts. Check the following to see what the problem could be:
 

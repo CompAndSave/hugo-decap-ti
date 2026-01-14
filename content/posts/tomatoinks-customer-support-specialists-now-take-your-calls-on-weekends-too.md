@@ -14,7 +14,7 @@ TomatoInk has taken 2015 a step further by offering 7 day customer service to ou
 
 TomatoInk's customer support team has solutions for all your printer cartridge related questions, comments, and concerns.
 
-### How Do I Call Customer Support?
+## How Do I Call Customer Support?
 
 [![Weekend Customer Support](/blog/images/archive/2015/01/11.png "TomatoInk Dares You To Call This Weekend")](/blog/images/archive/2015/01/11.png)
 

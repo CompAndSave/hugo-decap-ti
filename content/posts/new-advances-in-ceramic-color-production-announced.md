@@ -8,7 +8,9 @@ authors: Katy Smith
 tags: []
 ---
 
-Not all inkjet printing jobs are done on paper. One particular area of printing that has long waited for major advancements is the ceramic imaging market. Now, Electronics for Imaging, Inc (EFI) has come up with an innovative way of improving ceramic imaging, and they are calling it the EFI Cretaprint® C3 printer.When the C3 printer is incorporated with the Fiery® proServer for Cretaprint, users will find a new world of opportunities when it comes to the ceramic imaging market. The Cretaprint C3 multipurpose digital ceramic decoration printer was designed with over five years of research as well as 15 years of customer feedback. 
+## Innovations Improving Color Durability and Performance
+
+Not all inkjet printing jobs are done on paper. One particular area of printing that has long waited for major advancements is the ceramic imaging market. Now, Electronics for Imaging, Inc (EFI) has come up with an innovative way of improving ceramic imaging, and they are calling it the EFI Cretaprint® C3 printer.When the C3 printer is incorporated with the Fiery® proServer for Cretaprint, users will find a new world of opportunities when it comes to the ceramic imaging market. The Cretaprint C3 multipurpose digital ceramic decoration printer was designed with over five years of research as well as 15 years of customer feedback.
 
 ![Image source: cretaprint](/blog/images/archive/2012/10/cretaprint-c3-632x463.jpg)
 
@@ -22,5 +24,5 @@ The new unit was designed with a single chassis that is more than capable of acc
 
 The optional Fiery server is the first dedicated color management solution that is designed especially for the ceramic market. It will literally redefine the design and production processes that are used for color in the ceramic imaging sector. It can do this by allowing for automated, predictable, and controlled results. The Fiery server works as an effective bridge between the ceramic print production and organic business management solutions. In simple terms, this means less waste, more production, and increased profits because companies will no longer have to endure the trial and error method of finding the right color palette or color management profile.
 
-For those who have been searching for a reliable and affordable ceramic color production solution, this may be the answer. Given the number of years dedicated to its design and testing, the C3 may be the best answer to common problems that ceramic printing companies face everyday.  
+For those who have been searching for a reliable and affordable ceramic color production solution, this may be the answer. Given the number of years dedicated to its design and testing, the C3 may be the best answer to common problems that ceramic printing companies face everyday.
 ![generic-man_01](/blog/images/archive/2013/05/generic-man_01-632x234.png)

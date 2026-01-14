@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## How Printed Electronics Are Reshaping Modern Technology
+
 [![Conductive inks ](/blog/images/archive/2013/08/image30.png)](/blog/images/archive/2013/08/image30.png)
 
 Image from RichardBanks.com

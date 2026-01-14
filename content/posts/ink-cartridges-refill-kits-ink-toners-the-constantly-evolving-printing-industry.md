@@ -12,7 +12,7 @@ Printer ink cartridges are an integral component in industrial printing. Certain
 
 Even today, you may find printers that consume an entire room space. A large number of businesses depend on printers for creating their products. A few examples are, banner printing, t-shirt printing, advertising, print media, and more.
 
-**Bulk buying and printing**
+## Bulk buying and printing
 
 Although the basics of printing are the same, industrial printing turns out to be more complex. One of the major differences is in the volume. Commercial printing is usually in bulk and so is buying. This facilitates a continuous supply of cartridges without interruption in work or decline in productivity. Many ink cartridges even facilitate paper setting and template setting, which are vital aspects of the printing process.
 
@@ -22,7 +22,7 @@ Printer [ink cartridges](https://www.tomatoink.com/) evolve continuously. Manufa
 
 They are cost-effective and provide the maximum printing. You get continuous service from your printer without having to replace cartridges frequently.
 
-**Refill kits**
+## Refill kits
 
 They are popular among smaller businesses. For any business, the cost of advertising and printing is one of the chief concerns. Marketing is must; businesses need to showcase their products or services. They might need printouts for description, sales, discounts or offers to customers, newsletters, pamphlets, posters, and more. Printing is an indispensable part of marketing.
 
@@ -30,7 +30,7 @@ They are popular among smaller businesses. For any business, the cost of adverti
 
 Industrial printing relies on cartridges to generate superior quality prints. For a business, quality of printing can spell doom or boon. Usually, industries use ink cartridges, but they may also use replacement units at times. Running out of ink can be a nightmare for a business.
 
-**Ink toners**
+## Ink toners
 
 They are for specialized printers. The printers carry out multiple functions and are manufactured for a specific industry. Nowadays, you can get printers that are suited to your task. Cartridges come in a variety too. This has made it possible to widen the horizon of printing, making it more creative and varied.
 

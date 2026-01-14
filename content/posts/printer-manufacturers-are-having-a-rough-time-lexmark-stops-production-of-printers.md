@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: []
 ---
 
-**The Demise of Lexmark Printers**
+## The Demise of Lexmark Printers
 
 Lexmark announced in August that it would no longer be manufacturing inkjet printers. For much of Lexmark's history they have made cheap, subpar equipment that, as one industry professional put it, struggled to print text much less good color prints. However, in the last five or six years they had upgraded their design and manufacturing capabilities and had started to turn out some really good printers.
 
@@ -20,8 +20,8 @@ They are not the only company which is having trouble in the consumer printing m
 
 There has been an increase across the board in raw materials and some other costs, especially anything associated with petro chemicals. This includes almost all plastics as well as transportation costs, and these rising costs are putting the squeeze on many manufacturers. Lexmark was close enough to the edge that they simply decided to abandon the consumer inkjet market completely.
 
-  
-**Bad Business Decisions By Printer Companies and How You Can Save Money on Ink Cartridges**
+
+## Bad Business Decisions By Printer Companies and How You Can Save Money on Ink Cartridges
 
 Many other printers are also re-aligning their companies to concentrate more on the industrial and professional printing portion of the industry, but the end of Lexmark's efforts in this area of consumer printing is a blow. They say that the machines out currently will still have warranty and supplies made available, but it is a question as to how long the OEM cartridges will be on the market.
 

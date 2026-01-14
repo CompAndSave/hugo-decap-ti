@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: [okidata C920WT]
 ---
 
+## Breakthroughs Expanding Print Design Capabilities
+
 For many businesses, the ability to print solid white has been a dream not accomplished when it comes to solid white printing that is both fast and cost effective. Well, that has changed now. It was recently announced that OKI Europe has now developed an innovative printing solution that handles white printing with the introduction of their digital LED A4 and A3 white toner printers.The company states that its new models, the C711WT and C920WT, have resolved the problems white printing has heretofore faced and these models can address issues ranging from simple T-shirt transfers to film printing and much more, including an innovative system that can be used via in-store point-of-sale applications.
 
 ![Okidata printer](/blog/images/archive/2012/10/oki_white.png)

@@ -4,8 +4,10 @@ theme = 'tiBlog'
 publishDir = 'blog'
 uglyURLs = true
 summaryLength= 15
-paginate = 9
 disqusShortname = 'https-www-tomatoink-com-blog'
+
+[pagination]
+    pagerSize = 9
 
 [params]
     name= 'TomatoInk'

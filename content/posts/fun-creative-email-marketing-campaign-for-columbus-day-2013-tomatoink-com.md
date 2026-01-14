@@ -8,7 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
-**Climb aboard and save 12% on ink! Happy Columbus Day!**
+
+## Climb aboard and save 12% on ink! Happy Columbus Day!
 
 Let's have an adventure this Columbus Day! But before we get started, I just have two questions, how well do you know your history? We all know Christopher Columbus loved to travel. He loved the sea, he loved to explore, and he yearned for new adventures. We also know that he was the first man to complete four round-trip voyages between Spain and the Americas with the support of the Crown of Castile. Columbus had the determination and drive, to sail the seas for months on end without knowing if he would live or die. He was a go getter! Are you a go getter?
 

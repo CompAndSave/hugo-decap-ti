@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## How to Avoid Compatibility Errors and Wasted Spending
+
 [![foldable comptuer](/blog/images/archive/2013/06/rolltop-portable-computer5.jpg)](/blog/images/archive/2013/06/rolltop-portable-computer5.jpg)
 
 Foldable Computer Concept (From Tuvie.com)

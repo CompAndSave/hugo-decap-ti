@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: []
 ---
 
-**Does The Quality Rival OEM Products?**
+## Does The Quality Rival OEM Products?
 
 The first time you go to a brick and mortar store to buy ink cartridges for your new inkjet or laser printer you are probably going to suffer some sticker shock. The ink that you get for free when you buy most printers does not even have a black cartridge; that uses the color all the faster, and it is not unusual to spend more on the ink than you did on the printer.
 
@@ -24,7 +24,7 @@ One of the first things you want to pay attention to is the quality of the ink -
 
 With modern manufacturing and the proper process and quality control in place, getting a remanufactured ink cartridge or compatible ink jet cartridge that is as good as the OEM cartridge is possible. The same factory should be tasked with both remanufacturing old cartridges and in building new compatible cartridges that are, for all intents and purposes the same as the manufacturers original equipment.
 
-**Finding the Best Seller**
+## Finding the Best Seller
 
 For a business to be successful, especially an online retailer some things are extremely important. The warranty is very important, and should be easy to understand and put into action if something happens. All warranties should be at least six months to a year, and the terms and conditions should be spelled out in plain language.
 

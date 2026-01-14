@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Clarifying Common Recycling Definitions
+
 Many people want to do their part to help clean up the Earth. One way they do this is through recycling of their ink cartridges, laser toner cartridges, compatible ink, printer ink cartridges, etc. But, many people become confused when they see so many different terms being used. The EPA has decided to help these individuals by reducing it all down to three simple words: Reduce, Reuse, and Recycle. Knowing what these terms mean will help anyone who needs to handle ink cartridges, laser toner cartridges, and printer ink cartridges that are no longer serviceable.
 
 ![source: littlerock.org ](/blog/images/archive/2013/02/RecycleReduceReuse.jpg)
@@ -22,6 +24,6 @@ Then there is "recycle". In terms of ink cartridges and laser toner cartridges, 
 
 ![recycle](/blog/images/archive/2015/02/recycle.png)
 
-The truth is it has never been easier to reduce, reuse, or recycle old ink cartridges or laser toner cartridges. And it has never been more important that we all do our part to reduce the impact our printing needs have on the planet. Make it a habit to always reduce, reuse, or recycle your old ink cartridges or laser toner cartridges, and if your company does not a policy for doing this, consider making one for them.[Subscribe to our newsletter and get fresh discounts twice per month.](https://www.tomatoink.com/welcome/subscribe) 
+The truth is it has never been easier to reduce, reuse, or recycle old ink cartridges or laser toner cartridges. And it has never been more important that we all do our part to reduce the impact our printing needs have on the planet. Make it a habit to always reduce, reuse, or recycle your old ink cartridges or laser toner cartridges, and if your company does not a policy for doing this, consider making one for them.[Subscribe to our newsletter and get fresh discounts twice per month.](https://www.tomatoink.com/welcome/subscribe)
 
 ![Harvest Savings with TomatoInk](/blog/images/archive/2013/06/generic_01.png)

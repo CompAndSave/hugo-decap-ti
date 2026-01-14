@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Building Brand Awareness and Engagement in Real Time
+
 Online marketing techniques continue to evolve. One of the more current tactics being employed today for online marketing and brand recognition is being used via [Twitter](https://twitter.com/tomatoinktoner). Using Twitter as a CRM (Customer Relationship Management) tool has been proven to be an effective way to interact with customers and potential customers. Because of Twitter's popularity it is also a very broad platform that allows companies to reach millions of people, if the CRM goals are established and performed correctly.
 
 ![source: yudiz](/blog/images/archive/2013/01/teitter-market-1600-banner-right-yudiz.png)
@@ -28,7 +30,7 @@ As is true with any type of CRM effort, a strategy is required. But with Twitter
 
 With this in mind, a company that is preparing its Twitter CRM goals may want to limit itself to using Twitter for certain activities such as marketing, public relations, brand recognition, acquiring new customers, and limited amounts of customer service. When a company has a clear idea of what they want to do on Twitter they can develop solutions to handle any type of challenge that may present itself. Using the old shotgun blast approach of throwing everything into a Twitter account will not work. Companies must be selective when they are developing their Twitter presence.
 
-Here at [TomatoInk](https://www.tomatoink.com/), we like to use Twitter to talk with you, but if you don't use it...don't worry! You can always contact us [here.](https://www.tomatoink.com/contact)  
+Here at [TomatoInk](https://www.tomatoink.com/), we like to use Twitter to talk with you, but if you don't use it...don't worry! You can always contact us [here.](https://www.tomatoink.com/contact)
 Do not miss the chance to get awesome discounts and [subscribe](https://www.tomatoink.com/welcome/subscribe) to our newsletter!
 
 ![printer cartridges discount](/blog/images/archive/2013/05/generic-savings_01-632x234.png)

@@ -16,7 +16,7 @@ The way that we take and store pictures has altered drastically in the past deca
 
 We now have practically every significant moment of life captured in our phones and digital cameras; these can easily be transformed into a photo album or a very professional looking coffee table book. Today we take a photo album tutorial to see how you can transform your Christmas pictures, New Year Party images, Valentine day pictures, birthday or anniversary pictures into a self publication such as this. So when a digital picture is just not enough, here's what to do:
 
-#### Online Photo Album Services
+## Online Photo Album Services
 
 | [![online photo album printing](/blog/images/archive/2015/01/design-service.jpg "Where To Print Your Album Online")](/blog/images/archive/2015/01/design-service.jpg) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,7 +26,7 @@ There are many online or in store services that offer you the option of printing
 
 There are limitations of course: you could have concerns about the privacy of your pictures, and obviously you would miss the satisfaction of creating a DIY album by yourself. Also these professionally created photo albums can cost a packet. So why not put your home printer to good use!
 
-#### Print Your Own Photo Album
+## Print Your Own Photo Album
 
 | [![photo album printer](/blog/images/archive/2015/01/6a00d8358081ff69e2019b01b167e0970c-800wi.jpg "Print Your Own Photos With Canon PIXMA MG7120,")](/blog/images/archive/2015/01/6a00d8358081ff69e2019b01b167e0970c-800wi.jpg) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: [canon,color ink cartridge system,LUCIA 8,Toner,Ink,LUCIA 12]
 ---
 
-**Expanded Color and Cartridge Refinements Produce Astounding Results**
+## Expanded Color and Cartridge Refinements Produce Astounding Results
 
 Canon has leapt ahead in design recently with the LUCIA 8 color ink and cartridge system. The biggest apparent advantage of the LUCIA system is the fact that there are a total of eight colors, which allows finer mixing and an even better economic factor - the more base colors, the better and more efficiently the ink is used and the better the resulting prints will turn out. If quality is important to you because you are a purist or because you are in the business of small run printing, you will not believe the difference this makes in fine photo and art prints..
 
@@ -22,7 +22,7 @@ The system goes further than that, though, with a total of 12 colors in this pig
 
 image source: canon
 
-**The Advantages of Increased Color Gamuts**
+## The Advantages of Increased Color Gamuts
 
 The LUCIA system delivers a wider color gamut, better image quality and accurate color reproduction. The availability of the new colors increases the accuracy of the color reproduction. There are also other benefits to this specific ink formulation. It has an increased polymer coating which, especially for photo printing leads to increased print longevity.
 

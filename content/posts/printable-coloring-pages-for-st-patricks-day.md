@@ -16,7 +16,7 @@ St. Patrick's Day is widely celebrated all over the country and you can join in 
 
 Apart from the parade and the feasting, it makes sense to take a moment to know more about the symbolism and the significance of the holiday. Take a look at the various St. Patrick's Day related motifs we have put together and print them out.
 
-**Here's what you will need and what you have to do:**
+## Here's what you will need and what you have to do:
 
 * Good quality printing paper
 * A printer (any kind of printer will do – black & white or color; inkjet or laser – since you will be printing out only outlines here; but do make sure that the [ink cartridge](https://www.tomatoink.com/) is not exhausted)
@@ -24,7 +24,7 @@ Apart from the parade and the feasting, it makes sense to take a moment to know 
 * Some glitter, ribbons or other decorative materials (optional)
 * Binder or frames
 
-**Download** **Printables Here:**  
+## Download **Printables Here:**
 [St. Patrick's Day Coloring Pages](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/2014-paddys-day-TI.pdf)
 
 Click on the link and print out the PDF. Now explain the significance of the motif or symbol to your child. Get them the coloring materials of their choice and let them loose! Let them color, decorate and embellish the drawings to their heart's content

@@ -17,11 +17,11 @@ Starting Month XX, 2015 we will no longer be supporting Internet Explorer 8 on T
 
 If you need help with upgrading or switching your current web browser, please read the directions below for a smoother TomatoInk shopping experience.
 
-### How Do I Upgrade My Internet Explorer Web Browser?
+## How Do I Upgrade My Internet Explorer Web Browser?
 
 Upgrading your Internet Explorer web browser is simple! The current version is Internet Explorer 11\. You can start the download at this link: [Download Internet Explorer 11.](http://windows.microsoft.com/en-US/internet-explorer/download-ie)
 
-**Instructions:** 
+**Instructions:**
 
 1. Visit Microsoft at the link above
 2. Click the "Get Internet Explorer 11" button on Micrsoft Page
@@ -31,7 +31,7 @@ Upgrading your Internet Explorer web browser is simple! The current version is I
 6. Run the file and follow the instructions.
 7. Now enjoy using Internet Explorer 11!
 
-### How Do I Switch To Another Web Browser?
+## How Do I Switch To Another Web Browser?
 
 Feel like trying or experimenting something new? No worries, there is a variety of other web browsers you can choose from like: Mozilla Firefox, Google Chrome, Opera, Safari, and more. Here is an i[nformative article](http://internet-browser-review.toptenreviews.com/mozilla-firefox-review.html) about the different types of web browsers if you'd like compare. The ones mentioned previously, including Internet Explorer, are one of the highest rated web browsers available in the market as of now.
 
@@ -44,7 +44,7 @@ You can find the download links below, as well as more information about each br
 
 You may also follow the same instructions from Internet Explorer (from steps 3 to 4) to download your new web browser.
 
-### Let Us Know How Else We Can Help
+## Let Us Know How Else We Can Help
 
 Sometimes change can be a good thing, and we believe that upgrading to the newest version of Internet Explorer will deliver a more positive shopping experience for you. That said, we do apologize for any inconvenience this may cause on your part and you may contact our customer service team if you need help locating something on TomatoInk.com. Call us toll-free at: 1-877-777-012, or talk to us on[ live chat.](https://www.tomatoink.com/productselector/ajax/livechat)
 

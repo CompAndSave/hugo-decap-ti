@@ -14,13 +14,13 @@ source: compart.com
 
 Drupa 2012, one of the printing industries biggest tradeshows had a lot of exciting developments in inks and printers, but the dominance of commercial printing by digital machines continued unabated. Andrew Tribute has been involved in the printing industry as an expert and commentator for some 52 years.
 
-**ANDREW TRIBUTE PREDICTS FUTURE OF DIGITAL**
+## ANDREW TRIBUTE PREDICTS FUTURE OF DIGITAL
 
 He was one of the first people to predict the prevalence of digital in commercial printing applications. He thinks that the next [Drupa](http://www.drupa.com/) will be the dominant technology: ""Come next Drupa, inkjet quality will be comparable to offset technology. Inkjet is a driving force in the industry, yet printers are only now realizing the power of it,"
 
 Even as paper publications are having some troubles, the printing industry is shifting as new technologies allow printers more leeway on how they build their business. This includes things such as packaging, which inkjet technology has made even easier to print. This has made more traditional 'ink on paper' printers take notice, and they are now getting into areas which had been denied them before.
 
-One of the new workhorses of the digital print wave is the new HP Indigo 10000\. HP says that this B2 machine will provide the same print quality as traditional offset machines, and unlike most home printer ink cartridges will print up to seven colors.  
+One of the new workhorses of the digital print wave is the new HP Indigo 10000\. HP says that this B2 machine will provide the same print quality as traditional offset machines, and unlike most home printer ink cartridges will print up to seven colors.
 [Find HP ink cartridges here](https://www.tomatoink.com/hp-printer-cartridges)
 
 **HP 10000 PRINTS AS GOOD AS OFFSET**

@@ -12,7 +12,7 @@ Kodak's woes continue to deepen. The once giant film and camera company had actu
 
 ![kodak-logo-for-featured-image2](/blog/images/archive/2013/01/kodak-logo-for-featured-image2.jpg)
 
-**DIGITAL IMAGING PATENTS ON THE BLOCK**
+## DIGITAL IMAGING PATENTS ON THE BLOCK
 
 They have been steadily selling off assets since then. Kodak is known more for their printer division now, but they hold a huge amount of patents. More than a 1000 patents dealing with digital imaging have been in talks for some period of time and recently sold for over $525 million.
 
@@ -22,7 +22,7 @@ The sale of these assets was particularly important to the efforts of Kodak to c
 
 The patents will be licensed to various companies, and the license fees will be split between members of the partnership.
 
-**OTHER DIVISIONS ALSO BEING SOLD**
+## OTHER DIVISIONS ALSO BEING SOLD
 
 The strategy since 2003 has been to put more emphasis on printing technology, especially inkjet printers. Since the early 2000's, Kodak has closed 13 manufacturing plants and reduced the workforce by over 45,000 people. Over a hundred processing labs have also been shut down.
 

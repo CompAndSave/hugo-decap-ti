@@ -23,7 +23,7 @@ So we thought we'd put together a DIY T-shirt design for you this February – s
 
 If you want your DIY tee to turn out well, you want to get good quality t-shirt transfers and also ensure that the material of the t-shirt is good quality. This will reduce chances of the transfer cracking and peeling off from the t-shirt. Also, check the type of transfers you get – whether you want black inkjet transfers or some other type – the transfers should be compatible with the type and color of tee you plan to use.
 
-**Here's what you need to do:**
+## Here's what you need to do:
 
 **[![Valentine's Day T-Shirt Design](/blog/images/archive/2014/02/2014-valentines-day-TI-6.jpg)](/blog/images/archive/2014/02/2014-valentines-day-TI-6.jpg)**
 
@@ -36,12 +36,12 @@ If you want your DIY tee to turn out well, you want to get good quality t-shirt 
 * No! Don't wear your Tee just yet! Wait for 15-20 minutes and then repeat the ironing process so that the transfer adheres really well to your t-shirt
 * Now you can go and flaunt your Anti-Valentine's Day sentiment!
 
-**Anti-Valentine's Day T-Shirt Downloads:**  
-[I love #tomatoman](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/2014-valentines-day-TI-social-media-1.pdf)  
-[#loveblows](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/2014-valentines-day-TI-social-media-2.pdf)  
-[#justfriends](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/2014-valentines-day-TI-social-media-3.pdf)  
-[#lovesucks](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/2014-valentines-day-TI-social-media-4.pdf)  
-[#getaroom](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/2014-valentines-day-TI-social-media-5.pdf)  
+## Anti-Valentine's Day T-Shirt Downloads:
+[I love #tomatoman](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/2014-valentines-day-TI-social-media-1.pdf)
+[#loveblows](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/2014-valentines-day-TI-social-media-2.pdf)
+[#justfriends](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/2014-valentines-day-TI-social-media-3.pdf)
+[#lovesucks](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/2014-valentines-day-TI-social-media-4.pdf)
+[#getaroom](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/2014-valentines-day-TI-social-media-5.pdf)
 [#stupidcupid](https://www.tomatoink.com/skin/frontend/compandsave/tomatoink/files/ti-blog/2014-valentines-day-TI-social-media-6.pdf)
 
 If you liked [TomatoInk's](https://www.tomatoink.com/) DIY t-shirt printing idea, consider [subscribing to our newsletter](https://www.tomatoink.com/welcome/subscribe) for much more great ideas as well as all the news about deals and discounts. Like our [Facebook page](https://www.facebook.com/tomatoinktoner) to keep track of all our fresh offers and to join in the conversation with thousands of others that have ‘liked' us.

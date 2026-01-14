@@ -8,6 +8,8 @@ authors: Katy Smith
 tags: []
 ---
 
+## Exploring How Additive Manufacturing Is Shaping Innovation on Earth and Beyond
+
 After budget cuts sliced into some of NASA's programs, it might be that 3D printing could save the day. 3D printing basically means using a printer to build a three-dimensional object. Printing has come a long way from dot matrix and bubble jet printers and is now on the brink of becoming a revolutionary industry that could change the way we manufacture everything, including satellites and rocket engines.
 
 ![source: gizmag.com](/blog/images/archive/2013/03/nasa-3d-printing.png)
