@@ -7,6 +7,7 @@ summaryLength= 15
 disqusShortname = 'https-www-tomatoink-com-blog'
 
 [pagination]
+    disableAliases = true
     pagerSize = 9
 
 [params]
@@ -20,3 +21,7 @@ disqusShortname = 'https-www-tomatoink-com-blog'
 
 [outputs]
     home = ["HTML", "RSS", "JSON"]
+    page = ["HTML"]
+    section = ["HTML"]
+    taxonomy = ["HTML"]
+    term = ["HTML"]
