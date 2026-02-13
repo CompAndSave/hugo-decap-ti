@@ -1,4 +1,5 @@
 {{ define "main" }}
+  {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
   <article class="content" itemscope itemtype="https://schema.org/NewsArticle">
         <section class="post-full-content">
             <h1 class="content-title" itemprop="headline">{{ .Title | safeHTML }}</h1>
