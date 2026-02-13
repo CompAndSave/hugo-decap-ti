@@ -14,9 +14,9 @@ Topping the news from the printer ink cartridge and laser toner industry has bee
 
 Recently, the Industrial Technology Research Institute in Taiwan announced its own project: a reusable e-paper product named i2R e-paper. The research team claims the final product can be used more than 250 times and will be compatible with any thermal printer. It doesn't need a backlight or electrodes to print. What's more, the i2R e-paper is allegedly also capable of supporting color printing. The product is currently priced at two dollars per sheet, though it is not yet available in the US market.
 
-![image source: http://www.mobilemag.com/](/blog/images/archive/2012/06/itri-epaper.jpg)
+![reusable e-paper](/blog/images/archive/2012/06/itri-epaper.jpg)
 
-image source: http://www.mobilemag.com/
+image source: mobilemag
 
 Should the i2R e-paper prove successful, it will be a tremendous step forward in the direction of a greener, more sustainable printing industry. In the meantime, the following green tips will help you do you bit to help save the environment.
 

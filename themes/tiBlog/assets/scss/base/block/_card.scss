@@ -1,6 +1,8 @@
+@use "sass:color";
 @use "../../settings";
 @use "../utils/base";
 @use "../utils/breakpoints";
+@use "../../utils/colors";
 
 .post-feed {
     display: flex;
@@ -20,7 +22,7 @@
         a {
             color: settings.$dark-gray;
             &:hover {
-                color: get-color('primary');
+                color: colors.get-color('primary');
             }
         }
     }
@@ -59,13 +61,13 @@
         color: settings.$medium-gray;
     }
     .read-more {
-        color: get-color('secondary');
-        background: linear-gradient(0deg, get-color('secondary'), get-color('secondary')) no-repeat left 100%;
+        color: colors.get-color('secondary');
+        background: linear-gradient(0deg, colors.get-color('secondary'), colors.get-color('secondary')) no-repeat left 100%;
         background-size: 0 2px;
         &:hover {
             background-size: 100% 2px;
             background-position-x: left;
-            color: get-color('secondary');
+            color: colors.get-color('secondary');
         }
     }
     &.action {

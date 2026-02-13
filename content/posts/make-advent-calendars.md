@@ -28,7 +28,7 @@ This inspired [idea ](http://shimandsons.typepad.com/shimandsons/2010/12/our-adv
 
 ### 3\. Geometric Christmas Advent Tree Calendar
 
-If you want to get a bit more creative this year — or even if you have a plain old advent tree knocking around that you've been meaning to spruce up — [this](http://blog.hobbycraft.co.uk/how-to-make-a-bright-geometric-advent-tree/) is for you. I love the bright cheerful colors, and chances are that they will cheer you up just as much.
+If you want to get a bit more creative this year — or even if you have a plain old advent tree knocking around that you've been meaning to spruce up — [this](https://shop.thehousethatlarsbuilt.com/products/christmas-tree-paper-advent-calendar-pdf-printable?srsltid=AfmBOooMuykElufN5ruzEMyBtBEAg-1dSTy8Ny-cSATkf2Sh_fdXCPzZ) is for you. I love the bright cheerful colors, and chances are that they will cheer you up just as much.
 
 ### 4\. Matchbox Christmas Advent Calendar
 

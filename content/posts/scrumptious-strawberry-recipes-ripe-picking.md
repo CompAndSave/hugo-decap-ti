@@ -19,7 +19,7 @@ These days I don't live near the hills; I live in a city far away from where I g
 
 ### Preserves and Canning
 
-Canning strawberries is a fantastic way to make them last all year long. Now, there are a lot of resources out there that deal with canning and preservation, so you need to find the one that works for you. Personally, I recommend buying _[Can It!: The Perils and Pleasures of Preserving Foods](https://www.amazon.com/exec/obidos/ISBN/1780235720/onthetable08-20)_ by Gary Allen. Containing traditional and modern recipes, this book celebrates the many ways in which we preserve food and extend its life.
+Canning strawberries is a fantastic way to make them last all year long. Now, there are a lot of resources out there that deal with canning and preservation, so you need to find the one that works for you.
 
 As for preserving strawberries in particular, I like the [practical advice](https://zoedawn.wordpress.com/2011/06/06/a-how-to-canning-strawberries/) proffered by Zoe Dawn in her blog. This is a good fool-proof way to preserve strawberries, and indeed, any other berry. Whether you're a beginning canner or an experienced one, it's bound to appeal with its easy-to-follow directions.
 

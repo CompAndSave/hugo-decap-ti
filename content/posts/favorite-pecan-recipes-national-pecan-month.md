@@ -32,7 +32,7 @@ Cookies are another perennial favorite and pecans are a versatile ingredient no 
 
 ### Pie
 
-I know I said I wouldn't bring up pecan pie, but I'm not sure [this caramel pecan hand pies recipe](https://thecafesucrefarine.com/caramel-pecan-hand-pies/) counts; the hand pies are made differently, with flaky pastry that stays crisp all through the baking process. I've made this recipe (I substituted liquid glucose for the corn syrup) and it's delicious. Serve it piping hot with vanilla bean ice cream. Or you could go for [these addictive pecan pie bars](http://cleobuttera.com/bars-and-brownies/addictive-pecan-pie-bars/); be warned — they are very addictive (as the blogger herself describes) and it will be impossible to stop with just one two three.
+I know I said I wouldn't bring up pecan pie, but I'm not sure [this caramel pecan hand pies recipe](https://thecafesucrefarine.com/caramel-pecan-hand-pies/) counts; the hand pies are made differently, with flaky pastry that stays crisp all through the baking process. I've made this recipe (I substituted liquid glucose for the corn syrup) and it's delicious. Serve it piping hot with vanilla bean ice cream.
 
 ### Cake
 
