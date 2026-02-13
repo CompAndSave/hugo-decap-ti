@@ -24,7 +24,6 @@ Energy efficient printers are also eco friendly because they help lower your car
 * Pick fonts that use less ink
 * **Above all: Don't print unless you have to**
 
-#
 ### Eco-Friendly Printer Recommendations
 
 [The Canon PIXMA MX922](http://www.amazon.com/Canon-MX922-Wireless-Printer-Scanner/dp/B00AVWKUJS/) Energy Star Wireless Inkjet Office All-in-One Printer is a good

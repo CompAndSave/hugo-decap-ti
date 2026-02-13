@@ -62,11 +62,10 @@ Understandably, all this talk of making your pet care more eco-friendly might be
 5. [Healthy Pet](https://www.healthy-pet.com)
 6. [Honest Pet Products](https://www.honestpetproducts.com)
 7. [Natural Balance](https://www.naturalbalanceinc.com)
-8. [Olive Green Dog](https://olivegreendog.com)
-9. [Organic Oscar](http://www.organicoscar.com)
-10. [PetGuard](http://petguard.com)
-11. [Wondercide](https://www.wondercide.com)
-12. [Young Living Essential Oils](https://www.youngliving.com/en%5FUS/products/home/pets)
+8. [Organic Oscar](http://www.organicoscar.com)
+9. [PetGuard](http://petguard.com)
+10. [Wondercide](https://www.wondercide.com)
+11. [Young Living Essential Oils](https://www.youngliving.com/en%5FUS/products/home/pets)
 
 Lastly, remember to read and follow a product's label before use. If an item says that it could be hazardous to humans, it's fairly safe to assume that it can also be hazardous to your pet. Always seek out the safest alternatives and the most eco-friendly pet products for your four-legged loved ones.
 

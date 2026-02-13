@@ -29,7 +29,7 @@ You might already have more school supplies than you realize just lying around y
 
 Environmentally friendly school supplies don't have to break the bank. Some stores send out coupons or coupon codes via their social media or to people who subscribe to their email lists. When you save on eco-friendly school supplies, you can stock up too!
 
-Another way to get a good deal on eco-friendly school school supplies is through [Amazon](http://amazon.com). Simply look at your teacher's supply list. Then, search Amazon with the terms "recycled" or "eco-friendly" to see what comes up! Some of the many other sites that carry great items for school include [The Ultimate Green Store](https://www.theultimategreenstore.com/s-59-eco-school-supplies.aspx), Green Line Paper Company, and [The Green Office](https://www.thegreenoffice.com/).
+Another way to get a good deal on eco-friendly school school supplies is through [Amazon](http://amazon.com). Simply look at your teacher's supply list. Then, search Amazon with the terms "recycled" or "eco-friendly" to see what comes up! Some of the many other sites that carry great items for school include The Ultimate Green Store, Green Line Paper Company, and [The Green Office](https://www.thegreenoffice.com/).
 
 ## Eco-Friendly Back-to-School Tips
 
@@ -38,8 +38,6 @@ There are also ways to pay it forward as you get ready to go back to school.
 You can head to [Schoola](https://www.schoola.com/) for donating clothes and purchasing them too. Schoola has been praised as an "amazing mash-up of community building, upcycling, and commerce." Parents can donate gently used kids and women's clothing by mail from home with free shipping. Or you can simply shop their "new-to-you" items! Plus, every new customer gets 25% off in the Schoola welcome email.
 
 Better World Books generates funding for leading literacy initiatives around the world. Every book you buy or donate expands our collective impact. Better World Books supports book drives and collects used books and textbooks through a network of over 2,300 college campuses and partnerships with over 3,000 libraries nationwide. To date, they have raised millions of dollars for literacy, saved millions of books from landfills, created jobs for hundreds of people, and provided wonderful books to millions of readers worldwide.
-
-Fun, colorful, and always cool, [Bixbee](http://www.bixbee.com/) bags and backpacks are perfect for school, sports, and backyard adventures. Bixbee will donate a schoolbag with supplies to a child in need for each bag purchased. Perfectly sized to carry everything kids need, Bixbee bags are pvc, bpa, lead, and phthalate free.
 
 Kids love getting new shoes for school, and with every product you purchase from [TOMS](http://www.toms.com/), they'll provide help to a person in need. Their giving partners provide TOMS products or services, supporting sustainable and responsible programs for at risk communities. Vegan TOMS are made with no animal byproducts. Designed for women, men, and kids, TOMS vegan collection includes sneakers, slip-ons, and more.
 

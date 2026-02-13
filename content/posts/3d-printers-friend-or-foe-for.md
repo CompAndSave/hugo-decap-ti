@@ -8,7 +8,7 @@ authors: Denise Resendez
 tags: [3D Printers,Eco-friendly,E-Waste]
 ---
 
-[ ](/blog/images/archive/2015/03/BLOGIMAGE.jpg)
+[![Friend or Foe](/blog/images/archive/2015/03/BLOGIMAGE.jpg)](/blog/images/archive/2015/03/BLOGIMAGE.jpg)
 
 [![tomatoink blog](/blog/images/archive/2015/03/BLOGIMAGE.jpg "3D Printers: Friend or Foe for the Environment?")](/blog/images/archive/2015/03/BLOGIMAGE.jpg)With so many of us being excited about 3D printers, about what they can do now and what they're going to do in the future, there is one question that is really isn't looked into: **What is the environmental impact of manufacturing and using 3D printers?** While their use in the design industry and the medical space can make a positive life-changing differences, is the use of a 3D printer for personal hobbies and amusement justifiable?
 
@@ -36,4 +36,4 @@ We can possibly infer from the foregoing, that 3D printing, a concept that is st
 
 Do you think 3D printing opens up a vast array of new possibilities or are you of the contrary view that the earth doesn't need more rubbish? We'd love to hear what our readers think. Do leave us a comment below this post or get in touch via our Facebook, Twitter and Pinterest pages.
 
-Further reading at: [Factoexisit.com](http://factoexisit.com/), [Sustainabilityworkshop.com](http://sustainabilityworkshop.com/) and [Greenbiz.com](http://greenbiz.com/)
+Further reading at: [Sustainabilityworkshop.com](http://sustainabilityworkshop.com/) and [Greenbiz.com](http://greenbiz.com/)

@@ -21,7 +21,7 @@ Perhaps you still go for the simple hot cocoa recipes that your mom used to make
 ## 30 Hot Cocoa Recipes
 
 1. [Black Forest Hot Chocolate](http://cookienameddesire.com/black-forest-hot-chocolate/)
-2. [Butterscotch Hot Chocolate](http://bakingdom.com/2015/01/butterbeer-butterscotch-hot-chocolate.html)
+2. [Butterscotch Hot Chocolate](https://moscatomom.com/butterscotch-hot-chocolate/)
 3. [Chai Spiced Cocoa](https://theviewfromgreatisland.com/minimal-monday-chai-spiced-cocoa/)
 4. [Chocolate Hazelnut Hot Cocoa](https://www.berlyskitchen.com/chocolate-hazelnut-hot-cocoa/)
 5. [Cinnamon Hot Chocolate](https://gluesticksgumdrops.com/cinnamon-hot-chocolate/)

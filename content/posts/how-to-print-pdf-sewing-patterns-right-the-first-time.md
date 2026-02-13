@@ -38,4 +38,3 @@ Don't forget to use our special discount code **5JULY** during checkout. This en
 * [Free sewing patterns and projects](http://www.sewingsupport.com/sewing-how-to/free-patterns-and-projects/clothing/title-page.html)
 * [Embroidery patterns and ideas on Pinterest](https://in.pinterest.com/explore/embroidery-patterns-free/)
 * [Free knitting patterns](http://www.yarnspirations.com/patterns.html?pattern%5Ffree=47816)
-* [More free knitting patterns](http://freeknittingpatterns.lionbrand.com/)

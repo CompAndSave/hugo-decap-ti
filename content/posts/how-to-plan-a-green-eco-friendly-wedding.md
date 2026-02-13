@@ -62,6 +62,6 @@ There are eco-friendly options for almost everything you may want to register fo
 
 I hope these ideas have been helpful, and I hope you have a wonderful, green, eco-friendly wedding!
 
-**Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
+**Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
 
 *Have you ever thought of having an eco-friendly wedding? Or have you been to one before? Let us know what you think below and on Facebook and Twitter.*

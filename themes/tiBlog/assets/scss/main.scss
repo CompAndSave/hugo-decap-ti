@@ -88,7 +88,7 @@ a {
     background: linear-gradient(0deg, colors.get-color('primary'), colors.get-color('primary')) no-repeat left 100%;
     background-size: 0 2px;
     transition: all 0.35s;
-    color: color.adjust(colors.get-color(primary), $lightness: -5%);
+    color: #C85208;
     padding-bottom: base.rem-calc(2);
 
     &:hover {

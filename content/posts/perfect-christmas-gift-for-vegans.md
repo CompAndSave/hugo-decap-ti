@@ -56,6 +56,6 @@ In case you haven't heard (or you've been living under a rock this past year), a
 
 I hope this has given you some ideas for getting the perfect Christmas gift for vegans in your life. I wish you all the very best of the holiday season!
 
-**Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
+**Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
 
 *What is your idea for giving the right Christmas gift for vegans? Let us know below or on Facebook and Twitter.*

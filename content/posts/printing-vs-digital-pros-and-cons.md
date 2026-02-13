@@ -12,7 +12,7 @@ We now live in a world where everything is digitized, everything is available on
 
 ## The benefits of digital data
 
-[![](/blog/images/archive/2014/04/ereader-vs-book.jpg)](/blog/images/archive/2014/04/ereader-vs-book.jpg)
+[![E-reader](/blog/images/archive/2014/04/ereader-vs-book.jpg)](/blog/images/archive/2014/04/ereader-vs-book.jpg)
 
 * The first benefit of course is easy storage and portability of digital data (soft copy), because digital data takes up a minuscule amount of space when compared with printed material. Take a simple example – if you're going on holiday, you would probably limit yourself to a couple of books. However, if it's an e-Reader you're using, you can have dozens of books in a single slim gadget that takes up less space than a notepad. You can store so much data on a single hard-drive – the amount of data that could not even consider storing in hard copy form in your office or your home. Storing and recording data in digital format can free up a lot of space and storage resources
 * Secondly, you don't need to worry that humidity, termites or mold will get to your digital data because it is not vulnerable in the same way that printed material is.

@@ -27,7 +27,6 @@ Choosing the quality of paper you like and you could end up saving significantly
 
 Save the date cards are another pre-wedding invite that many couples or opting for, so that they can take their time with the actual invite. Keep it simple or make it elaborate as you wish.
 
-* [Save The Date Printable from ThePrettyblog.com](http://www.theprettyblog.com/wedding/save-the-date-printable/)
 * [DIY Instagram Save the Date Invitation from SomethingTurquoise.com](http://somethingturquoise.com/2015/01/16/diy-instagram-save-the-dates-3/#commenturl=http://somethingturquoise.com/2015/01/16/diy-instagram-save-the-dates-3/)
 
 ## **Other Personalized Invitations**
@@ -70,7 +69,6 @@ You could even decorate the eats with your own unique ideas, each dish, cup cake
 You could kick things off by creating your own personalized wedding planner. Examples include: your to-do lists, your do-by dates, your reminders, important phone numbers, appointments with the decorator, caterers, etc.
 
 * [{Free Printables} Wedding Planning Binder](http://www.botanicalpaperworks.com/blog/read,article/573/free-printables-wedding-planning-binder)
-* [DIY Wedding Planner Printables ](http://www.weddingfriends.co.za/simply-organized-wedding-planner-diy-diy/)
 
 ## **Join Our Affiliate Program For Another Happily Ever After**
 

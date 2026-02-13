@@ -6,10 +6,6 @@ uglyURLs = true
 summaryLength= 15
 disqusShortname = 'https-www-tomatoink-com-blog'
 
-[pagination]
-    disableAliases = true
-    pagerSize = 9
-
 [params]
     name= 'TomatoInk'
     description = 'Visit our blog to get a new perspective on sustainable living, eco-friendly travel, healthy (and delicious) food, and much more.latest on ink, toner, and printing essentials for home and business. Get DIY tips, SMB advice, and more.'
@@ -25,3 +21,8 @@ disqusShortname = 'https-www-tomatoink-com-blog'
     section = ["HTML"]
     taxonomy = ["HTML"]
     term = ["HTML"]
+
+[pagination]
+    disableAliases = true
+    pagerSize = 9
+

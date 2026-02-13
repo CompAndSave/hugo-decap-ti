@@ -29,7 +29,7 @@ This simple glass cleaner is perfect for windows and mirrors. Combine 2 cups of 
 
 ## Salt
 
-Salt is great to use as a cleaning agent to wash your dishes. I prefer coarser rock salt to fine salt. For a "green" dishwashing detergent, try [this](http://myhealthygreenfamily.com/blog/wordpress/homemade-borax-free-dishwasher-detergent-with-secret-ingredient/) great recipe from My Healthy Green Family that uses salt.
+Salt is great to use as a cleaning agent to wash your dishes. I prefer coarser rock salt to fine salt.
 
 ## Baking Soda
 
@@ -57,4 +57,4 @@ My point is, the sky's the limit when it comes to making your own green cleaning
 
 Now that you're armed with a handful of recipes and a world of possibilities, you have everything you need for a cleaner, greener home in 2017 — and beyond. Good luck!
 
-**Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semi-colon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
+**Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semi-colon. Follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).

@@ -20,7 +20,7 @@ We now have practically every significant moment of life captured in our phones 
 
 | [![online photo album printing](/blog/images/archive/2015/01/design-service.jpg "Where To Print Your Album Online")](/blog/images/archive/2015/01/design-service.jpg) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| From [ViaPhoto](http://www.viaphoto.com/products/)                                                                                                                    |
+| From ViaPhoto   |
 
 There are many online or in store services that offer you the option of printing photo books for you. These typically require you to take your camera, pen drive or camera to the bricks and mortar store or need you to upload pictures on to a website. These services will then print out the photos for you for a fee.
 

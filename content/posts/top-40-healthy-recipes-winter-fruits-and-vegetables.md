@@ -23,7 +23,6 @@ These ruby red root veggies are packed with healthful vitamins (think potassium,
 * [Roasted Beet Salad with Tahini Lemon Sauce](https://heatherchristo.com/2017/03/21/roasted-beet-salad-with-tahini-lemon-sauce-vegan/)
 * [Smoky Black Bean Beet Burgers](https://minimalistbaker.com/smoky-black-bean-beet-burgers/)
 * [Carrot and Beet Slaw with Pistachios and Raisins](https://www.bonappetit.com/recipe/carrot-and-beet-slaw-with-pistachios-and-raisins)
-* [Classic Pickled Beets](https://www.tasteofhome.com/recipes/pickled-beets)
 * [Roasted Beet Balsamic Mustard](https://adventuresincooking.com/roasted-beet-balsamic-mustard-honey/)
 
 ### Brussels Sprouts
@@ -84,7 +83,6 @@ These root veggies may look like carrots who've lost their color, but parsnips a
 * [Roasted Carrots and Parsnips](https://www.vegetariantimes.com/recipes/roasted-carrots-and-parsnips)
 * [Baked Parsnip Fries](https://www.loveandlemons.com/baked-parsnip-fries/)
 * [Parsnip Chowder](http://www.vegkitchen.com/recipes/parsnip-chowder/)
-* [Roasted Parsnip Puree](https://healthyblenderrecipes.com/recipes/roasted%5Fparsnip%5Fmash%5Fwith%5Fcaramelized%5Fonions%5Fand%5Fherbs)
 
 ### Sweet Potatoes
 

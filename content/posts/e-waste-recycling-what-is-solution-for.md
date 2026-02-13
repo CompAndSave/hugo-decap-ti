@@ -22,7 +22,7 @@ Much of the so-called ‘waste' isn't waste at all; electronic equipment and par
 
 We want the new gadgets – faster, with superior looks and features and advanced capabilities. But we don't know what to do with the old stuff, so it languishes in our basements or finds its way to landfills. This is both wasteful (as we saw above there is a lot that can be retrieved from it) and it is also toxic to the environment. Heavy metals, mercury, lead, chromium and so on can leach into the ground and get into our water ways.
 
-One excellent local initiative in the Kansas City area is worth replicating on a nationwide basis. Some non-profits in the area buy [discarded electronics and recycle them](http://www.kansascity.com/news/local/article6045411.html). Nonprofit for Connecting Good is one such organization – they buy your old stuff, sanitize it of personal data, refurbish and resell these items to people who may not be able to afford the more expensive gizmos.
+One excellent local initiative in the Kansas City area is worth replicating on a nationwide basis. Some non-profits in the area buy discarded electronics and recycle them. Nonprofit for Connecting Good is one such organization – they buy your old stuff, sanitize it of personal data, refurbish and resell these items to people who may not be able to afford the more expensive gizmos.
 
 | ![e waste recyling](https://upload.wikimedia.org/wikipedia/commons/3/30/Ewaste-pile.jpg)                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |

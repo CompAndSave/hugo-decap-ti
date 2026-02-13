@@ -40,12 +40,7 @@ You could buy saplings from a local nursery or transplant saplings you have nurt
 
 The weather is great for a ramble in the woods or a park. While you're spending quality time with your child or grandchild, point out different trees, tell them a bit about them, collect different types of tree leaves and encourage them to make a scrap book out of those.
 
-### Arbor Day Printables
-
-Coloring is a simple, fun activity for smaller kids: simply print out these [Arbor Day coloring sheets](http://www.apples4theteacher.com/coloring-pages/arbor-day/)and get kids involved in some creative coloring. Slightly older kids can enjoy this [Arbor Day alphabetical order worksheet](http://www.apples4theteacher.com/holidays/arbor-day/printables/alpha.html)where they arrange words like evergreen, oak, willow, plant etc in the right order. There are more [Arbor Day worksheets](http://www.apples4theteacher.com/holidays/arbor-day/printables/) that you can print out to increase awareness: jumble worksheet, word search challenge and so on.
-
 ### Arbor Day Crafts
-
 
 | [![coloring worksheets](/blog/images/archive/2015/04/color-by-nymber-working-together-.jpg)](/blog/images/archive/2015/04/color-by-nymber-working-together-.jpg) |
 | --------------------------------------------------------------------------------------------------------------------------------------------- |

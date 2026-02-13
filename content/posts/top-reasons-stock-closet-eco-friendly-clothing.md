@@ -52,14 +52,13 @@ Take a look at this list of 25 fantastic eco-friendly clothing lines:
 15. [Pact Apparel](https://wearpact.com/)
 16. [Patagonia](http://www.patagonia.com/home/)
 17. [People Tree](http://www.peopletree.co.uk/)
-18. [Shift of Nature](http://shifttonature.com.au/eco-woman/)
-19. [Synergy Clothing](https://synergyclothing.com/)
-20. [Shop Good Cloth](https://shopgoodcloth.com/)
-21. [Teeki](https://teeki.com/)
-22. [The People's Movement](http://thepeoplesmovement.com/)
-23. [Thought](https://www.wearethought.com/)
-24. [Wallis Evera](https://wallisevera.com/)
-25. [Yoga Democracy](https://yogademocracy.com/)
+18. [Synergy Clothing](https://synergyclothing.com/)
+19. [Shop Good Cloth](https://shopgoodcloth.com/)
+20. [Teeki](https://teeki.com/)
+21. [The People's Movement](http://thepeoplesmovement.com/)
+22. [Thought](https://www.wearethought.com/)
+23. [Wallis Evera](https://wallisevera.com/)
+24. [Yoga Democracy](https://yogademocracy.com/)
 
 So the next time you're at the mall or browsing for some new items, consider eco-friendly clothing lines that won't impact your carbon footprint.
 

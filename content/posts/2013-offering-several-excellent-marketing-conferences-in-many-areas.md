@@ -22,7 +22,7 @@ Some of the most important aspects to attending marketing conferences are the in
 
 ![sxsw](/blog/images/archive/2013/02/sesx-400x280.png)
 
-[The Sirius Decisions Summit:](https://www.siriusdecisions.com/Events/Summit.aspx) For those who want to go to one of the very best, this is the one. It brings together many of the best greatest minds in the marketing industry and the conference covers a wide variety of issues associated with modern marketing. The conference will be in San Diego and begins on May 8th. This one will be packed so register early.
+The Sirius Decisions Summit: For those who want to go to one of the very best, this is the one. It brings together many of the best greatest minds in the marketing industry and the conference covers a wide variety of issues associated with modern marketing. The conference will be in San Diego and begins on May 8th. This one will be packed so register early.
 
 Regardless of the marketing conference that you select, make sure that you are ready to learn something new and ready to meet some new people. It may be hard to decide on which event to attend, but it is easy to learn and meet-and-greet once you get to it. The key, however, is to do your research now so you can register early and be assured of getting in. You can search for marketing conferences online and get the contact information that you need.
 

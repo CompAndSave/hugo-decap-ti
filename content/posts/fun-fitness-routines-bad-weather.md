@@ -26,7 +26,7 @@ When I was researching this piece, I asked my friends for their recommendations 
 
 Rodney Yee is also a yoga instructor of note, and he has clearly figured out life because he seems to spend most of his time doing yoga by the sea or in the mountains. For his incredible videos, and to learn more about him, visit his site here.
 
-Other yoga teachers of note are [Faith Hunter](https://www.youtube.com/channel/UCpVAQxfvnKUN-bYXpmjXJtA) and [Nazaahah Amin](https://www.youtube.com/channel/UC8zivmHZZUTwbAFwsSdOeJA). Plus, [this](http://yogagreenbook.com/) is an amazing resource that is filled to the brim with unlimited videos and exclusive content (they have a free 30-day trial that should help you see how incredible they are).
+Other yoga teachers of note are [Faith Hunter](https://www.youtube.com/channel/UCpVAQxfvnKUN-bYXpmjXJtA) and [Nazaahah Amin](https://www.youtube.com/channel/UC8zivmHZZUTwbAFwsSdOeJA).
 
 ## Dance
 
@@ -52,6 +52,6 @@ My personal recommendations are:
 
 I hope these fun fitness routines have helped you in some way. And I hope I've inspired you to try something new for your next workout! Have a great time chasing that post-workout buzz!
 
-**Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Visit her website at [www.awanthi.com](http://www.awanthi.com/) and follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
+**Awanthi Vardaraj** lives and writes in the port city of Chennai, in the south of India, where she runs her own small artisanal bakery and keeps a garden full of jasmine plants and herbs that she still cannot name. As a freelance writer, she mostly focuses on food, feminism, travel, mental health, and poverty. She also nurtures a deep love for the Oxford comma and the semicolon. Follow her on Twitter at [AwanthiVardaraj](https://twitter.com/AwanthiVardaraj).
 
 *Which one of these fun fitness routines will you try? Let us know below or on social media.*

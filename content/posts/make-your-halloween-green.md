@@ -18,7 +18,7 @@ We can't have a #GreenHalloween without mentioning these cheap, eco-friendly cos
 
 ![Teenage Mutant Ninja Turtle Halloween Costume](/blog/images/archive/2016/09/Teenage-Mutant-Ninja-Turtles-Costume.jpg "Halloween Costume")
 
-Consider reusing old clothing or leftover material as a Halloween costume. [Butterick](https://butterick.mccall.com/patterns/costumes?page=all) and [Simplicity](http://www.simplicity.com/patterns/costumes/) offer sewing patterns for a range of costumes and age groups. Go sci-fi with a Star Trek costume or back in time with steampunk.
+Consider reusing old clothing or leftover material as a Halloween costume. [Butterick](https://butterick.mccall.com/patterns/costumes?page=all) and Simplicity offer sewing patterns for a range of costumes and age groups. Go sci-fi with a Star Trek costume or back in time with steampunk.
 
 ## Shop for Used Items
 
